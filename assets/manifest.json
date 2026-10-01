@@ -1,0 +1,3342 @@
+{
+  "Build/WebGLBuild.loader.js": {
+    "size": 26693,
+    "sha256": "d3ec45021dddd261a9ea13240c5df46b6cf4746083d5dcf6817ce9d743d6fade"
+  },
+  "Build/WebGLBuild.framework.js": {
+    "size": 351227,
+    "sha256": "2c0bfb7575df5a1353307801ebf4cb542d3075f2b32dc27a4786c30cf3297f06"
+  },
+  "Build/WebGLBuild.wasm": {
+    "size": 41724170,
+    "sha256": "82ff3eaeea8f8bc9f596e740106c9764bc7b82489706044597b42cbbc75611a4"
+  },
+  "Build/WebGLBuild.data": {
+    "size": 29334689,
+    "sha256": "06256529b30792d359c2a353198716d9da9ace05f6f07518384d9c11f8c55585"
+  },
+  "StreamingAssets/aa/settings.json": {
+    "size": 851,
+    "sha256": "905e51a4358b8a299bceba376f38b450fa8fbc0ea0eeb51741f68a6e1cae3987"
+  },
+  "StreamingAssets/aa/catalog.bin": {
+    "size": 205363,
+    "sha256": "2d1a21677ec2a179155f0482ecb3bbf07dec4af73dda7809712a05bfefbfc408"
+  },
+  "StreamingAssets/aa/WebGL/b453ed916317ec589924167ab2418530_monoscripts.bundle": {
+    "size": 11131,
+    "sha256": "fe94f1a41a8b57aa7032b1bc6e72e4f5e6aefefd3857d146b79b8b05d6328a16"
+  },
+  "StreamingAssets/aa/WebGL/b453ed916317ec589924167ab2418530_unitybuiltinassets.bundle": {
+    "size": 3462181,
+    "sha256": "5d22023dceba0529da5882d672618584f5d6fc329d4d0fbd19cc828a8c68d6a4"
+  },
+  "StreamingAssets/aa/WebGL/combat-ui-mograph_assets_all.bundle": {
+    "size": 3691842,
+    "sha256": "1a9293e50de1a16d14a13170fd37cad35e4445d82f5479ee00e2cdb0690e3dc9"
+  },
+  "StreamingAssets/aa/WebGL/combat_stages_assets_all.bundle": {
+    "size": 2341245,
+    "sha256": "199180ceb6d1fd5274e4c970815c861fcdea861989651c5348d60effe82d484b"
+  },
+  "StreamingAssets/aa/WebGL/combat_units_a2_assets_all_30ca2496334a5f1e3caf0b5a728ee12c.bundle": {
+    "size": 7465437,
+    "sha256": "b5a9e6a79b79024889b185765e8ae27eb7e3f9c6bb610d82646aaa4de31fb1e6"
+  },
+  "StreamingAssets/aa/WebGL/combat_units_assets_all.bundle": {
+    "size": 11344694,
+    "sha256": "f5be0ae6742d45b30f8e3e7cbe9e75d896314c07b4486933750145e844d5f196"
+  },
+  "StreamingAssets/aa/WebGL/combat_vfx_assets_all.bundle": {
+    "size": 4667067,
+    "sha256": "83799527cf422571517d382f1757b4d10c29c35abc8ae6c8c2d9788823c4de96"
+  },
+  "StreamingAssets/aa/WebGL/defaultlocalgroup_assets_all.bundle": {
+    "size": 6287018,
+    "sha256": "14597d88cfb6d231fbd62efa6122eeaac0264377288e4d8ef9b595433781fc56"
+  },
+  "StreamingAssets/aa/WebGL/defaultlocalgroup_scenes_all.bundle": {
+    "size": 35994563,
+    "sha256": "9d0f6124dcf4b141162543f5267b82da965f134e6b63785f0e1245413a432379"
+  },
+  "StreamingAssets/aa/WebGL/event_illustrations_assets_all.bundle": {
+    "size": 329333,
+    "sha256": "3a17b50816dd9a982de461a03ce5fe12879304fa6290f11fba12afe5348425ea"
+  },
+  "StreamingAssets/aa/WebGL/localization-asset-tables-arabic(unitedarabemirates)(ar-ae)_assets_all.bundle": {
+    "size": 2558,
+    "sha256": "f1da28399d4bbfd1d4c9879756edd45a958f779e5fb7df547810105571226320"
+  },
+  "StreamingAssets/aa/WebGL/localization-asset-tables-chinese(simplified)(zh-cn)_assets_all.bundle": {
+    "size": 2599,
+    "sha256": "90d47ec5fff7bb2a868f10d101ed5db09c1fb74d1549418bfbb5c22c742b389e"
+  },
+  "StreamingAssets/aa/WebGL/localization-asset-tables-chinese(traditional)(zh-tw)_assets_all.bundle": {
+    "size": 2712,
+    "sha256": "71b1401367fc07b8173dbdad81d399317cecaf318015b0c249b6d19b111ed73b"
+  },
+  "StreamingAssets/aa/WebGL/localization-asset-tables-czech(czechrepublic)(cs-cz)_assets_all.bundle": {
+    "size": 2716,
+    "sha256": "382a4978a0d5df5fe37cc7bd5e52faea2238392299511dec1df91b95196f812d"
+  },
+  "StreamingAssets/aa/WebGL/localization-asset-tables-english(philippines)(en-ph)_assets_all.bundle": {
+    "size": 2712,
+    "sha256": "d6615d439453160ad15e7580d2b7904f5afde370cc3b8e87938e7e28df998892"
+  },
+  "StreamingAssets/aa/WebGL/localization-asset-tables-english(singapore)(en-sg)_assets_all.bundle": {
+    "size": 2715,
+    "sha256": "6f84aa59af2a5957341cedcaa696f28d11926358164ee38d4cdef755edd0c35a"
+  },
+  "StreamingAssets/aa/WebGL/localization-asset-tables-english(unitedkingdom)(en-gb)_assets_all.bundle": {
+    "size": 2713,
+    "sha256": "1895fdb6632e02ed759aac695240796687d00e6a2c57c08913a279e3754865c5"
+  },
+  "StreamingAssets/aa/WebGL/localization-asset-tables-english(unitedstates)(en-us)_assets_all.bundle": {
+    "size": 2695,
+    "sha256": "6e4ba254d27b7be0497cf0c2be80c1fc3c1acbd66fa9eac7798b390368b284b7"
+  },
+  "StreamingAssets/aa/WebGL/localization-asset-tables-french(france)(fr-fr)_assets_all.bundle": {
+    "size": 2695,
+    "sha256": "056b294506aa6e40507bec2140b834a98f055122449d437f175b9068e51e8c0e"
+  },
+  "StreamingAssets/aa/WebGL/localization-asset-tables-german(germany)(de-de)_assets_all.bundle": {
+    "size": 2717,
+    "sha256": "f524af1de34079b17f107fa436f58a17ac6445190f9b04465fba5e04c0e3985b"
+  },
+  "StreamingAssets/aa/WebGL/localization-asset-tables-greek(greece)(el-gr)_assets_all.bundle": {
+    "size": 2665,
+    "sha256": "14c8d9b27586b0433acca28066dd260bf5131eb5dc87b823490a7a136e8012ab"
+  },
+  "StreamingAssets/aa/WebGL/localization-asset-tables-hungarian(hungary)(hu-hu)_assets_all.bundle": {
+    "size": 2694,
+    "sha256": "71818c5549fe6d0f7773ebecec5990bf3dbf635eea950d2cef33f561d5872efb"
+  },
+  "StreamingAssets/aa/WebGL/localization-asset-tables-indonesian(indonesia)(id-id)_assets_all.bundle": {
+    "size": 2695,
+    "sha256": "637cc659e02a205f9a2d62696fe789d26a118d54731d8add776325a579b49b2f"
+  },
+  "StreamingAssets/aa/WebGL/localization-asset-tables-italian(italy)(it-it)_assets_all.bundle": {
+    "size": 2700,
+    "sha256": "50c0804926e52c28f6ce0c60b6dd742e8abf9410f565d5387b74c653deca210c"
+  },
+  "StreamingAssets/aa/WebGL/localization-asset-tables-japanese(japan)(ja-jp)_assets_all.bundle": {
+    "size": 2705,
+    "sha256": "96a93d02b20d80f138a7c4f43bc8c8f42131c39f9aa736c900c7fd23f25a8a24"
+  },
+  "StreamingAssets/aa/WebGL/localization-asset-tables-korean(southkorea)(ko-kr)_assets_all.bundle": {
+    "size": 2716,
+    "sha256": "11fdfbe3c31ad3dd842bf8e0b65f56b7998745625aaa951f06915061aac6ae0a"
+  },
+  "StreamingAssets/aa/WebGL/localization-asset-tables-polish(poland)(pl-pl)_assets_all.bundle": {
+    "size": 2717,
+    "sha256": "85c51c7c6c4895665c138bc8931719a748fcd29858da0d92c8933e05447ed819"
+  },
+  "StreamingAssets/aa/WebGL/localization-asset-tables-portuguese(brazil)(pt-br)_assets_all.bundle": {
+    "size": 2694,
+    "sha256": "0e3d2ad49f77ec5af5d276a53ba55ed72c2ca8f741360b7d02c991226e56f20d"
+  },
+  "StreamingAssets/aa/WebGL/localization-asset-tables-romanian(romania)(ro-ro)_assets_all.bundle": {
+    "size": 2716,
+    "sha256": "e73a2d7d26e075cffe944d6bbedcc07238874083c0c08c141820b848ae253922"
+  },
+  "StreamingAssets/aa/WebGL/localization-asset-tables-russian(russia)(ru-ru)_assets_all.bundle": {
+    "size": 2732,
+    "sha256": "53be2e5f4f4b189ddf5d3c6aefac41e388d53788e6cd158a9884c3806c99acfc"
+  },
+  "StreamingAssets/aa/WebGL/localization-asset-tables-spanish(argentina)(es-ar)_assets_all.bundle": {
+    "size": 2713,
+    "sha256": "72e519188ba21a1a7a4f8abcfe156bd3e14aded86626cf7f4c244136398f8174"
+  },
+  "StreamingAssets/aa/WebGL/localization-asset-tables-spanish(mexico)(es-mx)_assets_all.bundle": {
+    "size": 2716,
+    "sha256": "00ca2dfd5c0f7604514fbb045f15d865a92c87dfb228f06e9f9e8f1b077d9da3"
+  },
+  "StreamingAssets/aa/WebGL/localization-asset-tables-spanish(spain)(es-es)_assets_all.bundle": {
+    "size": 2716,
+    "sha256": "9764cd951bbad7ed29fef4c71cad067d211f996edc3dab69d8a3ceb9dd197650"
+  },
+  "StreamingAssets/aa/WebGL/localization-asset-tables-thai(thailand)(th-th)_assets_all.bundle": {
+    "size": 2598,
+    "sha256": "e6f9ab7498abe58f6256ea9a68fbeb2bcc28754838fda4d4f9b5942cbebe9104"
+  },
+  "StreamingAssets/aa/WebGL/localization-asset-tables-turkish(turkey)(tr-tr)_assets_all.bundle": {
+    "size": 2694,
+    "sha256": "4a60869be32320850e8fe0147d1171de67bbd115be700c86843aebf5823677d1"
+  },
+  "StreamingAssets/aa/WebGL/localization-asset-tables-vietnamese(vietnam)(vi-vn)_assets_all.bundle": {
+    "size": 2703,
+    "sha256": "0ca50f7eb69fc044837001992abc249d7aed472d24c1b57c4d708a28685efa03"
+  },
+  "StreamingAssets/aa/WebGL/localization-assets-arabic(unitedarabemirates)(ar-ae)_assets_all.bundle": {
+    "size": 417670,
+    "sha256": "8b899a8029945c8f885e8da34941b5f16fa8ff7f6e7ef2504528d04c75d332da"
+  },
+  "StreamingAssets/aa/WebGL/localization-assets-chinese(simplified)(zh-cn)_assets_all.bundle": {
+    "size": 29755335,
+    "sha256": "8e5fb13c3c8698190784f55717fb5e4577dcfdb5ca5878548f0182932459fcda"
+  },
+  "StreamingAssets/aa/WebGL/localization-assets-chinese(traditional)(zh-tw)_assets_all.bundle": {
+    "size": 32947706,
+    "sha256": "ead0a870106353c86e9da7770fc24cce2b1051002e98acdf85b01cb1915f7fdc"
+  },
+  "StreamingAssets/aa/WebGL/localization-assets-czech(czechrepublic)(cs-cz)_assets_all.bundle": {
+    "size": 120865,
+    "sha256": "9e3829f2c03488393f27e52fc21ff814430139de0e844a3f2b40e5e67f96eb89"
+  },
+  "StreamingAssets/aa/WebGL/localization-assets-french(france)(fr-fr)_assets_all.bundle": {
+    "size": 118308,
+    "sha256": "716b1699dbe4d817b845d669c618a9b911664966b19c86678ee3b2c04592091c"
+  },
+  "StreamingAssets/aa/WebGL/localization-assets-german(germany)(de-de)_assets_all.bundle": {
+    "size": 128470,
+    "sha256": "e1d7e5e8aae4a3c2722f8f3c0a561a5f89132e967ce1d07bb36e6acd9aaccb0f"
+  },
+  "StreamingAssets/aa/WebGL/localization-assets-greek(greece)(el-gr)_assets_all.bundle": {
+    "size": 1685410,
+    "sha256": "a68fb48f652ec952fdd76474b43c1a7014b4c1dec834dcd09f57fdc26cb8f47e"
+  },
+  "StreamingAssets/aa/WebGL/localization-assets-hungarian(hungary)(hu-hu)_assets_all.bundle": {
+    "size": 124841,
+    "sha256": "83c22f3b4ba89669084fcbda3df7660fae632e4caeb96eb25b02c6c7186f70fb"
+  },
+  "StreamingAssets/aa/WebGL/localization-assets-indonesian(indonesia)(id-id)_assets_all.bundle": {
+    "size": 125954,
+    "sha256": "8c936957992354436fae8a6f841e0dfdf706f78d95b970e17cd767b53800be71"
+  },
+  "StreamingAssets/aa/WebGL/localization-assets-italian(italy)(it-it)_assets_all.bundle": {
+    "size": 110956,
+    "sha256": "9d9d33620532f7b2d39788f3b4ca657ccbb238889a77bf3e14188c7bcde4aad0"
+  },
+  "StreamingAssets/aa/WebGL/localization-assets-japanese(japan)(ja-jp)_assets_all.bundle": {
+    "size": 20941536,
+    "sha256": "c946a0164badb0f4baf7b7c78cd17dcfea202d8de22621977e8293d51ece839e"
+  },
+  "StreamingAssets/aa/WebGL/localization-assets-korean(southkorea)(ko-kr)_assets_all.bundle": {
+    "size": 13520333,
+    "sha256": "feff7a63f66985ead0d57f36f881efbaaca8c473eaab3733f6b92feb72e0ca02"
+  },
+  "StreamingAssets/aa/WebGL/localization-assets-polish(poland)(pl-pl)_assets_all.bundle": {
+    "size": 121435,
+    "sha256": "2483adc1d69ec4fc6f09b41f9da7d93f0754be034a964a39cacf60f626c39ff9"
+  },
+  "StreamingAssets/aa/WebGL/localization-assets-portuguese(brazil)(pt-br)_assets_all.bundle": {
+    "size": 56866,
+    "sha256": "71889fbe87dd82d9ac488cd54d0336cdc09b91c5838767c7fc01613c40e3bfab"
+  },
+  "StreamingAssets/aa/WebGL/localization-assets-romanian(romania)(ro-ro)_assets_all.bundle": {
+    "size": 125429,
+    "sha256": "9ed2beacddfd42897c73d942dbb927e403998588b3e3f153908292327c5c62cf"
+  },
+  "StreamingAssets/aa/WebGL/localization-assets-russian(russia)(ru-ru)_assets_all.bundle": {
+    "size": 507622,
+    "sha256": "967cc72db1ef6bc582e5469ca34130f4519c54fd8c0b2f51eb4354af0cdc1664"
+  },
+  "StreamingAssets/aa/WebGL/localization-assets-shared_assets_all.bundle": {
+    "size": 1575382,
+    "sha256": "d89fe4f4cf8727fc1273d4c2296579cbfe80c650bd9cb4e9d26358bedf387a19"
+  },
+  "StreamingAssets/aa/WebGL/localization-assets-spanish(spain)(es-es)_assets_all.bundle": {
+    "size": 115800,
+    "sha256": "83ed6fcc7aeb86e2cffe96c9337b5edc2d71f841507cc9ba43e276d1adf86942"
+  },
+  "StreamingAssets/aa/WebGL/localization-assets-thai(thailand)(th-th)_assets_all.bundle": {
+    "size": 1378401,
+    "sha256": "450d5b7dd6c16c46cd545b3b323fdbcb9cb47de7ce77b31e6dfe2da875aa192f"
+  },
+  "StreamingAssets/aa/WebGL/localization-assets-turkish(turkey)(tr-tr)_assets_all.bundle": {
+    "size": 106490,
+    "sha256": "bb6e14188c23c773c1b12fa822d32bc0f099c72a2e3d7c4641f8a338692a2308"
+  },
+  "StreamingAssets/aa/WebGL/localization-assets-vietnamese(vietnam)(vi-vn)_assets_all.bundle": {
+    "size": 1136354,
+    "sha256": "c3096fd3d15d9fde871260c55944c93264ab1dedb4f1661ecd6d6642db6321e4"
+  },
+  "StreamingAssets/aa/WebGL/localization-locales_assets_all.bundle": {
+    "size": 5855,
+    "sha256": "1fb45b184635f741c8769d2fff3834f92a6c0eec7ecdfd3ed85d3620f50abd1f"
+  },
+  "StreamingAssets/aa/WebGL/localization-string-tables-arabic(unitedarabemirates)(ar-ae)_assets_all.bundle": {
+    "size": 73729,
+    "sha256": "7691d8e057f656f979cece99b2cd9cc108e6c9113d8a9bd6848942e02eef2337"
+  },
+  "StreamingAssets/aa/WebGL/localization-string-tables-chinese(simplified)(zh-cn)_assets_all.bundle": {
+    "size": 68957,
+    "sha256": "6914baaddee18a4fb47a5aeb7d901a59be910afb5b7cdb6e3a6bdbdb41f5c888"
+  },
+  "StreamingAssets/aa/WebGL/localization-string-tables-chinese(traditional)(zh-tw)_assets_all.bundle": {
+    "size": 68311,
+    "sha256": "1675a966dfb3af366313a983c0a804e1714839f6cf07298ce0f73b0dfc61ac4e"
+  },
+  "StreamingAssets/aa/WebGL/localization-string-tables-czech(czechrepublic)(cs-cz)_assets_all.bundle": {
+    "size": 75915,
+    "sha256": "882f3fa9007f001d20d9acaa77d4725d703916a2ac708a63a8869082a713c241"
+  },
+  "StreamingAssets/aa/WebGL/localization-string-tables-english(philippines)(en-ph)_assets_all.bundle": {
+    "size": 9110,
+    "sha256": "907ff9f64c4d22becf027cfcd6ce5be4a77eabc8ed70cdda2af97ebb09f76ac4"
+  },
+  "StreamingAssets/aa/WebGL/localization-string-tables-english(singapore)(en-sg)_assets_all.bundle": {
+    "size": 9112,
+    "sha256": "100e6c1dc96408dd17da353f83ba8b2bfcd0f7368b399fb2099c66d3caeff853"
+  },
+  "StreamingAssets/aa/WebGL/localization-string-tables-english(unitedkingdom)(en-gb)_assets_all.bundle": {
+    "size": 9129,
+    "sha256": "9d46ab42f82c46797cbbaba1a258eaa47fa615c08a004330689022ce3aa8fa8b"
+  },
+  "StreamingAssets/aa/WebGL/localization-string-tables-english(unitedstates)(en-us)_assets_all.bundle": {
+    "size": 69699,
+    "sha256": "0e63a9b9c412464e70ffc405d31df01f001e9f9d2235d1152841a6918c5f5833"
+  },
+  "StreamingAssets/aa/WebGL/localization-string-tables-french(france)(fr-fr)_assets_all.bundle": {
+    "size": 75221,
+    "sha256": "f4f35baf51b59144da996ad8a7711ed6da4a406810e8d98d67ce8172e387e821"
+  },
+  "StreamingAssets/aa/WebGL/localization-string-tables-german(germany)(de-de)_assets_all.bundle": {
+    "size": 76119,
+    "sha256": "a638ced2d09cd16ee21c820667ac17dc98b80c648a4b62da4e4849c48b0a6888"
+  },
+  "StreamingAssets/aa/WebGL/localization-string-tables-greek(greece)(el-gr)_assets_all.bundle": {
+    "size": 85761,
+    "sha256": "ba8f937a283f951a0462c926ca03e361ea9bc9410d859ee523e5b7d1ccb15406"
+  },
+  "StreamingAssets/aa/WebGL/localization-string-tables-hungarian(hungary)(hu-hu)_assets_all.bundle": {
+    "size": 74135,
+    "sha256": "61dced827621f74754ae9f141ad6786fdd438f0b60e3fc9efc0e90b0eb5c84c5"
+  },
+  "StreamingAssets/aa/WebGL/localization-string-tables-indonesian(indonesia)(id-id)_assets_all.bundle": {
+    "size": 68909,
+    "sha256": "d9a53513eaa4c8557d55fccb97b05de7ccf057e52313771987f186654136b7b8"
+  },
+  "StreamingAssets/aa/WebGL/localization-string-tables-italian(italy)(it-it)_assets_all.bundle": {
+    "size": 72324,
+    "sha256": "80449d46ba0613969bc14856a62df5f65e38e57d208c0154b2fdf2a4cb5acc27"
+  },
+  "StreamingAssets/aa/WebGL/localization-string-tables-japanese(japan)(ja-jp)_assets_all.bundle": {
+    "size": 70891,
+    "sha256": "f1decd9ca1105f467ac4d885cd8826075a410c9fa97eb7cf2186c253485dbdcb"
+  },
+  "StreamingAssets/aa/WebGL/localization-string-tables-korean(southkorea)(ko-kr)_assets_all.bundle": {
+    "size": 70547,
+    "sha256": "de21bf3acf8962d0b5c4bd33e4f00866eaee4ccf92e0d8fedbff6efe0c7c8549"
+  },
+  "StreamingAssets/aa/WebGL/localization-string-tables-polish(poland)(pl-pl)_assets_all.bundle": {
+    "size": 75948,
+    "sha256": "395f51e0b1a7a05ba1f717ff439a52e59245265322cb3e6919acaf46c49e631a"
+  },
+  "StreamingAssets/aa/WebGL/localization-string-tables-portuguese(brazil)(pt-br)_assets_all.bundle": {
+    "size": 71472,
+    "sha256": "7a3fe06c16e24981e0715ea263b8ca08c9767d0a00dd4b1303bf1c74c034326f"
+  },
+  "StreamingAssets/aa/WebGL/localization-string-tables-romanian(romania)(ro-ro)_assets_all.bundle": {
+    "size": 72983,
+    "sha256": "a351e9a6ece2867e96f9ff164c568fd189c1f547ed7ae02e55f6cc1bc8704a42"
+  },
+  "StreamingAssets/aa/WebGL/localization-string-tables-russian(russia)(ru-ru)_assets_all.bundle": {
+    "size": 79810,
+    "sha256": "621736547084e0e8ff906f2e8e0c49105f9cc5e3bfcb967593a5aae18097fa9e"
+  },
+  "StreamingAssets/aa/WebGL/localization-string-tables-spanish(argentina)(es-ar)_assets_all.bundle": {
+    "size": 72692,
+    "sha256": "1a035f4c9eff0d3ec0c34633c804dce7f5afd7e2e4aec9e30701f0ff4c10d1c2"
+  },
+  "StreamingAssets/aa/WebGL/localization-string-tables-spanish(mexico)(es-mx)_assets_all.bundle": {
+    "size": 72608,
+    "sha256": "6be0308bf8d595fd6d3a5a749e60f9253980ff94fe23bb2cea57977728b8d71a"
+  },
+  "StreamingAssets/aa/WebGL/localization-string-tables-spanish(spain)(es-es)_assets_all.bundle": {
+    "size": 73311,
+    "sha256": "b6b28a70190d6ec9468dc750d9152fcff2faab333be305a6386517f94e151744"
+  },
+  "StreamingAssets/aa/WebGL/localization-string-tables-thai(thailand)(th-th)_assets_all.bundle": {
+    "size": 87892,
+    "sha256": "9b8a506e2d31fbcf904419129a918be9815332e14000ca34deed9a6efa796df5"
+  },
+  "StreamingAssets/aa/WebGL/localization-string-tables-turkish(turkey)(tr-tr)_assets_all.bundle": {
+    "size": 71221,
+    "sha256": "adf639af8783a852072f49c891c43805a4ca61f0ef47cc3b6262e68258309475"
+  },
+  "StreamingAssets/aa/WebGL/localization-string-tables-vietnamese(vietnam)(vi-vn)_assets_all.bundle": {
+    "size": 78575,
+    "sha256": "7a464047c76cebf111ba7dd1b3673753eb87a2b0b98f3602b9715e62860e0917"
+  },
+  "StreamingAssets/aa/WebGL/map_buildings_assets_all.bundle": {
+    "size": 9043451,
+    "sha256": "934363fd1781f306a15b5a7bf778c2c1a3c4c6f2cea8bc0b1a9501466b113c68"
+  },
+  "StreamingAssets/aa/WebGL/map_vfx_assets_all.bundle": {
+    "size": 3598341,
+    "sha256": "a2ab1c5c178ab00993817c5bd3535fb50f9e5f1f8fd66f4ff6406556d5501049"
+  },
+  "StreamingAssets/aa/WebGL/research_assets_all_de4eecd34e95d2530c89438a57815991.bundle": {
+    "size": 5564269,
+    "sha256": "3db122f2112331b262b677b00a14132350bf6e93c6077d0ccb5a6d1206dad0cc"
+  },
+  "StreamingAssets/AMB/Buildings/SFX_AMB_Building_Barracks_T1_01.ogg": {
+    "size": 117927,
+    "sha256": "b40a5a8b352a398c1b332c4d942c1cbbf50f14fe22b4ce64bb319f615daac765"
+  },
+  "StreamingAssets/AMB/Buildings/SFX_AMB_Building_Barracks_T1_02.ogg": {
+    "size": 108812,
+    "sha256": "7f9757f46a78080ba1349232f963f08e520e7a37d16f8b4bd9b1a3cc0c364dfd"
+  },
+  "StreamingAssets/AMB/Buildings/SFX_AMB_Building_Barracks_T1_03.ogg": {
+    "size": 110588,
+    "sha256": "57bee6a577842ec329df8d3375d40899d3e27e8ac6c16b9b3a0e038b344818b7"
+  },
+  "StreamingAssets/AMB/Buildings/SFX_AMB_Building_EngineeringOffice_T1_01.ogg": {
+    "size": 65940,
+    "sha256": "a17088b708ca56938145b7fa519cb92dd671924fa58cc262595daa250ff6c361"
+  },
+  "StreamingAssets/AMB/Buildings/SFX_AMB_Building_EngineeringOffice_T1_02.ogg": {
+    "size": 96135,
+    "sha256": "d5bb0eab00c9852a8f69fd8ec0e459221147375885a9a3ff5c604486e176ade0"
+  },
+  "StreamingAssets/AMB/Buildings/SFX_AMB_Building_EngineeringOffice_T1_03.ogg": {
+    "size": 60118,
+    "sha256": "d53c63dec463661a38bec57723dde00fec3325b3845fd8438976d6b41960b220"
+  },
+  "StreamingAssets/AMB/Buildings/SFX_AMB_Building_Farm_T1_01.ogg": {
+    "size": 115904,
+    "sha256": "75088328892bb2351d14b5d4ba63a383798fa1afdbb11fd3bd6b992039a01eb6"
+  },
+  "StreamingAssets/AMB/Buildings/SFX_AMB_Building_Farm_T1_02.ogg": {
+    "size": 112236,
+    "sha256": "d0ca2655df7735cf13b345fcb8bbfd0e9143b7386d8ba08e7a75c47cbe6495e0"
+  },
+  "StreamingAssets/AMB/Buildings/SFX_AMB_Building_Farm_T1_03.ogg": {
+    "size": 112681,
+    "sha256": "0ce93ba90876adf9718af035b8b4700f4c0a81b13701848c0581d6d1833852fb"
+  },
+  "StreamingAssets/AMB/Buildings/SFX_AMB_Building_Farm_T2_01.ogg": {
+    "size": 123462,
+    "sha256": "1bafee30322996d32d624d887d68c6c246a49c3c524842346da0072fa91f88a3"
+  },
+  "StreamingAssets/AMB/Buildings/SFX_AMB_Building_Farm_T2_02.ogg": {
+    "size": 110155,
+    "sha256": "b8ed57642f67b88558a5ec705cd04d8f9aa854b238b48d3fb4ad2b6b48dff867"
+  },
+  "StreamingAssets/AMB/Buildings/SFX_AMB_Building_Farm_T2_03.ogg": {
+    "size": 105856,
+    "sha256": "617426fa7edbc040c56f02a1343d84f16391ba5e8ad9d94bea9ec9a101b0d478"
+  },
+  "StreamingAssets/AMB/Buildings/SFX_AMB_Building_Farm_T3_01.ogg": {
+    "size": 114346,
+    "sha256": "62ff767dfa5c4af55d92ead9f3ee733bac3d703e0ccfb903e6fb3601fe26f0c5"
+  },
+  "StreamingAssets/AMB/Buildings/SFX_AMB_Building_Farm_T3_02.ogg": {
+    "size": 110506,
+    "sha256": "7e1f17b37580f8862db8ceab652f807a6f5fc20569f975c3f53c98921a6d74af"
+  },
+  "StreamingAssets/AMB/Buildings/SFX_AMB_Building_Farm_T3_03.ogg": {
+    "size": 105428,
+    "sha256": "0eac7098d689ca257e0b4d70145421a2041ec8bb7a2051552b3bf204b950ab76"
+  },
+  "StreamingAssets/AMB/Buildings/SFX_AMB_Building_Lumberyard_T1_01.ogg": {
+    "size": 98131,
+    "sha256": "e7b3e79f6aa01967184ec66d271faa2586894cf9bb12626861a6b7a1c70ac98a"
+  },
+  "StreamingAssets/AMB/Buildings/SFX_AMB_Building_Lumberyard_T1_02.ogg": {
+    "size": 104109,
+    "sha256": "42c329018af71552caf781d09f094b943b625fc26ea0dc528c055ee28d386659"
+  },
+  "StreamingAssets/AMB/Buildings/SFX_AMB_Building_Lumberyard_T1_03.ogg": {
+    "size": 108791,
+    "sha256": "63f43583450d59e33a7884eea424f873f2d0d1ebf7a5a7a8c99fd4a0513c46fb"
+  },
+  "StreamingAssets/AMB/Buildings/SFX_AMB_Building_Lumberyard_T2_01.ogg": {
+    "size": 99971,
+    "sha256": "1f165f2bf590c6e713f08cecd17bc78c2e1cc84b93a216f5ff677290387322e3"
+  },
+  "StreamingAssets/AMB/Buildings/SFX_AMB_Building_Lumberyard_T2_02.ogg": {
+    "size": 103240,
+    "sha256": "fc1c0fe350462da0a9fb4c1dcf0a56e7e67da9335689ad63c326724fb6ac8119"
+  },
+  "StreamingAssets/AMB/Buildings/SFX_AMB_Building_Lumberyard_T2_03.ogg": {
+    "size": 107889,
+    "sha256": "036ce54eff5797b8393bae4299c9bf473233d5d1b25346b1bfc2d70372cb3c84"
+  },
+  "StreamingAssets/AMB/Buildings/SFX_AMB_Building_Lumberyard_T3_01.ogg": {
+    "size": 95728,
+    "sha256": "b703d781db1661c9a8bd949ce785c851f376ba90be4fb8bac10d201510cd2e2d"
+  },
+  "StreamingAssets/AMB/Buildings/SFX_AMB_Building_Lumberyard_T3_02.ogg": {
+    "size": 102367,
+    "sha256": "b57dd65bb7c8e715989b4d00d9f90d7168bdc1899b3b3d7e2f9f836d55cca693"
+  },
+  "StreamingAssets/AMB/Buildings/SFX_AMB_Building_Lumberyard_T3_03.ogg": {
+    "size": 108452,
+    "sha256": "5e8340da408e8d3bab6b671b5d1aa93e635efa58238560f74662991165888fff"
+  },
+  "StreamingAssets/AMB/Buildings/SFX_AMB_Building_MilitaryQuarters_T1_01.ogg": {
+    "size": 115653,
+    "sha256": "9e87d86ca42120b60361163765bf44f6163f9ccded64b2c677fc00e907b9f0d0"
+  },
+  "StreamingAssets/AMB/Buildings/SFX_AMB_Building_MilitaryQuarters_T1_02.ogg": {
+    "size": 107723,
+    "sha256": "6f6d6352bc370d455cf7a9bc69812f7f87680645c7143970cc300039c80ee857"
+  },
+  "StreamingAssets/AMB/Buildings/SFX_AMB_Building_MilitaryQuarters_T1_03.ogg": {
+    "size": 111764,
+    "sha256": "31aade1bbf2b66773e256044db840621f1209d83eb37b7454fea0b92233aa99d"
+  },
+  "StreamingAssets/AMB/Buildings/SFX_AMB_Building_PetriciteMill_T1_01.ogg": {
+    "size": 108946,
+    "sha256": "8e38b2826a559e3cb7d199ea2d9d68d5a227bd32da888ac806a10c6974c240d4"
+  },
+  "StreamingAssets/AMB/Buildings/SFX_AMB_Building_PetriciteMill_T1_02.ogg": {
+    "size": 107330,
+    "sha256": "98dc2f3346b438cc672e4f297ad9894ee95737a3e50cdbf5f4491a735506f834"
+  },
+  "StreamingAssets/AMB/Buildings/SFX_AMB_Building_PetriciteMill_T1_03.ogg": {
+    "size": 105923,
+    "sha256": "ca10673316268b593471525006ea8237e377b014a7a1135576658b49f65435be"
+  },
+  "StreamingAssets/AMB/Buildings/SFX_AMB_Building_PetriciteMill_T2_01.ogg": {
+    "size": 107132,
+    "sha256": "3b4dec384d58369130d8044fa7270a0dc965a86ec3937d52c275141fd5f21861"
+  },
+  "StreamingAssets/AMB/Buildings/SFX_AMB_Building_PetriciteMill_T2_02.ogg": {
+    "size": 110045,
+    "sha256": "44ce0235d63c3cfe23828b3cd742758f06bc3011703fb5c0f04e4768e5eb4a52"
+  },
+  "StreamingAssets/AMB/Buildings/SFX_AMB_Building_PetriciteMill_T2_03.ogg": {
+    "size": 106632,
+    "sha256": "6c3be470fdb7e5aa14242022b23dc63825f825b5c643538ec31dde2628ec12ec"
+  },
+  "StreamingAssets/AMB/Buildings/SFX_AMB_Building_PetriciteMill_T3_01.ogg": {
+    "size": 107133,
+    "sha256": "4eaba7bcd118d859da8f5083c4de0325cddf99eaead176bd2316a487cea927da"
+  },
+  "StreamingAssets/AMB/Buildings/SFX_AMB_Building_PetriciteMill_T3_02.ogg": {
+    "size": 109483,
+    "sha256": "988d27c9e28e6cf99a1c20d9193b81486847ebea4ec1961de69d01d34ca680c9"
+  },
+  "StreamingAssets/AMB/Buildings/SFX_AMB_Building_PetriciteMill_T3_03.ogg": {
+    "size": 105788,
+    "sha256": "1e746672f99e0d824473e1fc98f90bf0b7650f4753d2fd195590fa04a15266a4"
+  },
+  "StreamingAssets/AMB/Buildings/SFX_AMB_Building_Quarry_T1_01.ogg": {
+    "size": 101425,
+    "sha256": "994d0556f62f98735aa1593ad59a75738b8360c3d4687f7b0dedc5fbc67507b0"
+  },
+  "StreamingAssets/AMB/Buildings/SFX_AMB_Building_Quarry_T1_02.ogg": {
+    "size": 101896,
+    "sha256": "b45b4736283f09e48c2ea6826e29c587df72672da4107783d23795169e3a24c3"
+  },
+  "StreamingAssets/AMB/Buildings/SFX_AMB_Building_Quarry_T1_03.ogg": {
+    "size": 94060,
+    "sha256": "f22fab88787e64267c0a457cff817fb6c13618c0a4b3d83e6d83eb1cc19eb1a7"
+  },
+  "StreamingAssets/AMB/Buildings/SFX_AMB_Building_Quarry_T2_01.ogg": {
+    "size": 96621,
+    "sha256": "163b656906cc7794de4363b671f45e8a545b6291b091d624225cbc597a6171fa"
+  },
+  "StreamingAssets/AMB/Buildings/SFX_AMB_Building_Quarry_T2_02.ogg": {
+    "size": 102770,
+    "sha256": "c4418baedd151abfa1adeb9954f1080143b7d5fa7d3af242e9604e232c1913db"
+  },
+  "StreamingAssets/AMB/Buildings/SFX_AMB_Building_Quarry_T2_03.ogg": {
+    "size": 95066,
+    "sha256": "1ace48471c150b2316230343c754133896512866e050e0fea79ab40b722d9a48"
+  },
+  "StreamingAssets/AMB/Buildings/SFX_AMB_Building_Quarry_T3_01.ogg": {
+    "size": 99739,
+    "sha256": "525b9ec6a8fd7b00651d5ea83cea86dd2e8d9ae7057253646fee62361a3a2fc6"
+  },
+  "StreamingAssets/AMB/Buildings/SFX_AMB_Building_Quarry_T3_02.ogg": {
+    "size": 100213,
+    "sha256": "10c8a3064e5b92ce61e14c95166009e36680c28f715447809b0ea1a2bc301e53"
+  },
+  "StreamingAssets/AMB/Buildings/SFX_AMB_Building_Quarry_T3_03.ogg": {
+    "size": 92693,
+    "sha256": "c1bde086f4f48fa733728be6a4d438e7ce03a790e94b24146f21538336334a5d"
+  },
+  "StreamingAssets/AMB/Buildings/SFX_AMB_Building_RaptorAviary_T1_01.ogg": {
+    "size": 61392,
+    "sha256": "593ba6cdeaf92337bfa94148ae7232b493c2aaea21eea0e2aeb5309cde52f291"
+  },
+  "StreamingAssets/AMB/Buildings/SFX_AMB_Building_RaptorAviary_T1_02.ogg": {
+    "size": 61078,
+    "sha256": "11b90c4a7d4b2b458d2e51e19ad63115a3c4da663f75acdbe5bf495721b84828"
+  },
+  "StreamingAssets/AMB/Buildings/SFX_AMB_Building_RaptorAviary_T1_03.ogg": {
+    "size": 82665,
+    "sha256": "d2b92e008f0571aaa8ab81b81e70fc4f3f09dc451c385c4cfd885bbdf0c7ab3f"
+  },
+  "StreamingAssets/AMB/Buildings/SFX_AMB_Building_Smithy_T1_01.ogg": {
+    "size": 60259,
+    "sha256": "f58ef1e9f1a1e206dd46f90e2a87f9d8762ce63bdd6299538b7465acb7600792"
+  },
+  "StreamingAssets/AMB/Buildings/SFX_AMB_Building_Smithy_T1_02.ogg": {
+    "size": 46168,
+    "sha256": "0e0363f13b7a1ed33127348c884c68f88f6bd6c5d7112174717d0bfaaf435413"
+  },
+  "StreamingAssets/AMB/Buildings/SFX_AMB_Building_Smithy_T1_03.ogg": {
+    "size": 59782,
+    "sha256": "9a7ff20dc54d52ac9ae3541626677da27b3ba40a644b7b729833d7634bb4a85a"
+  },
+  "StreamingAssets/AMB/Buildings/SFX_AMB_Building_Smithy_T2_01.ogg": {
+    "size": 64500,
+    "sha256": "6119669ba40dca982125b80ad82078c30e1de1a4ec433b8e02e5a57d555b3f86"
+  },
+  "StreamingAssets/AMB/Buildings/SFX_AMB_Building_Smithy_T2_02.ogg": {
+    "size": 49006,
+    "sha256": "cf2d460d787b9651e7424fb68c312ee59306ce92c1e518046e00c892fd33e09a"
+  },
+  "StreamingAssets/AMB/Buildings/SFX_AMB_Building_Smithy_T2_03.ogg": {
+    "size": 58377,
+    "sha256": "3a3c3316b88a31525223817ddf08867ecea33cd9620389dc680316f45974c920"
+  },
+  "StreamingAssets/AMB/Buildings/SFX_AMB_Building_Smithy_T3_01.ogg": {
+    "size": 62507,
+    "sha256": "254738bcdb6a06a4507b7a731ee8c0949fd997506b0ca43287278d66e323b22d"
+  },
+  "StreamingAssets/AMB/Buildings/SFX_AMB_Building_Smithy_T3_02.ogg": {
+    "size": 48726,
+    "sha256": "a0e9973b9c9b63505dd31bd671140923f66307cfd039a16e3d74f738f37cc12e"
+  },
+  "StreamingAssets/AMB/Buildings/SFX_AMB_Building_Smithy_T3_03.ogg": {
+    "size": 58377,
+    "sha256": "ed093067ac818d0e325021fd9cc7d307398cd0133cda0a55d662da4ccc08352d"
+  },
+  "StreamingAssets/AMB/Buildings/SFX_AMB_Building_SpyGuild_T1_01.ogg": {
+    "size": 38326,
+    "sha256": "582c5eb61d3cd7354906864249326b5ed17436ecf62f05fc1fe552716292fb56"
+  },
+  "StreamingAssets/AMB/Buildings/SFX_AMB_Building_SpyGuild_T1_02.ogg": {
+    "size": 44068,
+    "sha256": "801ce722e6802b134b83f12fa7208d325e0f3a79e04ea45f3441fb99964e86b5"
+  },
+  "StreamingAssets/AMB/Buildings/SFX_AMB_Building_SpyGuild_T1_03.ogg": {
+    "size": 36032,
+    "sha256": "8371aa226ebde55626c67f7b815929adf2639de84f3492a5983ad3ff51dc719d"
+  },
+  "StreamingAssets/AMB/Combat/SFX_AMB_Combat_Border.ogg": {
+    "size": 186812,
+    "sha256": "fad1d22cf9fed40546926a34b8f098fc1e2bee8ea767ff789eb7990bae196a1b"
+  },
+  "StreamingAssets/AMB/Combat/SFX_AMB_Combat_Heartland.ogg": {
+    "size": 186768,
+    "sha256": "7be6bba8610b58706706982e94de538a8893eac4cd361cda93104605d50901d1"
+  },
+  "StreamingAssets/AMB/Combat/SFX_AMB_Combat_HighSilvermere.ogg": {
+    "size": 186903,
+    "sha256": "9976bf9494b947059d637ee3405201eb0cbcca93b0524e993f5a74b1e13d61f7"
+  },
+  "StreamingAssets/AMB/Combat/SFX_AMB_Combat_Mountain.ogg": {
+    "size": 186808,
+    "sha256": "fc61d3d670b64f3715c06186558a08bce7c2a849eb460cdfce48edb242f3028e"
+  },
+  "StreamingAssets/AMB/Combat/SFX_AMB_Combat_TheGreatCity.ogg": {
+    "size": 186797,
+    "sha256": "4a7bc473e175cf57275ed1d45f399e8e03a3597caed2b3d262b23709f5b51f10"
+  },
+  "StreamingAssets/AMB/Combat/SFX_AMB_Combat_Zeffira.ogg": {
+    "size": 186819,
+    "sha256": "a75b419dade0399cb26f617a98ad06a03a4cf5259a1564ec5e8357e6eea78829"
+  },
+  "StreamingAssets/AMB/Map/SFX_AMB_Map_ZoomedIn_Forest.ogg": {
+    "size": 247558,
+    "sha256": "32ce98b18c8ed53eb9168f43263187df285d6ebdf81d009c936cc569a0337d52"
+  },
+  "StreamingAssets/AMB/Map/SFX_AMB_Map_ZoomedIn_FreljordMountains.ogg": {
+    "size": 247408,
+    "sha256": "34c385805541c317a9b49d300880d6c11211905cfc4531979679987c034b14f7"
+  },
+  "StreamingAssets/AMB/Map/SFX_AMB_Map_ZoomedIn_Mountain.ogg": {
+    "size": 247384,
+    "sha256": "d9c42e3cc6644cb01599dd71f4760c135c0377fa1b72f90317bd7723c6bcabe8"
+  },
+  "StreamingAssets/AMB/Map/SFX_AMB_Map_ZoomedIn_Ocean.ogg": {
+    "size": 247390,
+    "sha256": "229f93b771b5ad2e010cf1c061064d42b3a6cea7cf3bc597ff29e4bb28521ecf"
+  },
+  "StreamingAssets/AMB/Map/SFX_AMB_Map_ZoomedIn_Plain.ogg": {
+    "size": 247599,
+    "sha256": "91e5d8141f1f496cbccbd70959caa79712bb0200dfdecccd7f8fd924657bc602"
+  },
+  "StreamingAssets/AMB/Map/SFX_AMB_Map_ZoomedOut_Forest.ogg": {
+    "size": 247742,
+    "sha256": "f98849afadb228e4bb0fa17f4ff5e426c317cbdfa705761b0db478529795ad24"
+  },
+  "StreamingAssets/AMB/Map/SFX_AMB_Map_ZoomedOut_FreljordMountains.ogg": {
+    "size": 247756,
+    "sha256": "198bf1698775395e23cf2350b6f82623c60b5c9100464d4f9e71b4f4fa92acc0"
+  },
+  "StreamingAssets/AMB/Map/SFX_AMB_Map_ZoomedOut_Hills.ogg": {
+    "size": 259585,
+    "sha256": "bc5085c7830e2bc3a555da8ad2c7411cf92d18f4db3549f3687958773a3ebf53"
+  },
+  "StreamingAssets/AMB/Map/SFX_AMB_Map_ZoomedOut_Mountain.ogg": {
+    "size": 247684,
+    "sha256": "7a34d67966f2a22389963d3ce5175b98b81ce57cf4a07449b935bda7b49ce87b"
+  },
+  "StreamingAssets/AMB/Map/SFX_AMB_Map_ZoomedOut_Ocean.ogg": {
+    "size": 247743,
+    "sha256": "a03134a7c8653bec9f2c79d7c39d6606f0915eb77a918ac53b91155b72fa6b67"
+  },
+  "StreamingAssets/AMB/Map/SFX_AMB_Map_ZoomedOut_Plain.ogg": {
+    "size": 247745,
+    "sha256": "2dd5729d079610d354e1d8758a49b0c643d2caf4f3cf9bd965c08d8498921807"
+  },
+  "StreamingAssets/AMB/Settlement/SFX_AMB_Map_Settlement.ogg": {
+    "size": 166483,
+    "sha256": "de3c5ccc135e896c4094e365a27dabd2ee9def144eb9b41862af70b087d75096"
+  },
+  "StreamingAssets/AMB/Settlement/SFX_AMB_Map_Settlement_Burning.ogg": {
+    "size": 174508,
+    "sha256": "8f5896f5a81ad59b8d01334040797037cf40585e8ab2fb7ca8cc6a8c2b2c1493"
+  },
+  "StreamingAssets/AMB/Settlement/SFX_AMB_Map_Settlement_Empty.ogg": {
+    "size": 174767,
+    "sha256": "525e021d7365ae416c20045c10e644ed825fcb80964d697f772d6cd6e7a4adb5"
+  },
+  "StreamingAssets/AMB/Settlement/SFX_AMB_Map_Settlement_EnemyCamp.ogg": {
+    "size": 170358,
+    "sha256": "e12ed8caa43466acf3c66a543d84d517c37146e38c96a79daf3538712a5312b9"
+  },
+  "StreamingAssets/MUS/MUS_Ambient_Age1_m101.ogg": {
+    "size": 599087,
+    "sha256": "083aa6feb7c5e17f102498b819a4b7d6de16a205b7e0e24a92e8c02fddc80d68"
+  },
+  "StreamingAssets/MUS/MUS_Ambient_Age1_m102.ogg": {
+    "size": 562999,
+    "sha256": "70dc33d45db07e628e3931585952c2e5c2f1b07a1ddd2a63f706d6b4f6430793"
+  },
+  "StreamingAssets/MUS/MUS_Ambient_Age1_m103.ogg": {
+    "size": 703283,
+    "sha256": "6a8cb2d344f45884480a34211cafc627303f4c7edcff52de680036759f32b60f"
+  },
+  "StreamingAssets/MUS/MUS_Ambient_Age1_m104.ogg": {
+    "size": 770678,
+    "sha256": "df1d9250e56e0f187ae2a28331d8b64cb5d673bcab8e7e5b0a1f013a323de1ea"
+  },
+  "StreamingAssets/MUS/MUS_Ambient_Age1_m105.ogg": {
+    "size": 865592,
+    "sha256": "6ce4a87370158c0d788907414b81225197082fe7bb99d2c6769f2b8fce79f62a"
+  },
+  "StreamingAssets/MUS/MUS_Ambient_Age2_m201.ogg": {
+    "size": 416285,
+    "sha256": "35b046bb1a0e121cb20ac777332826796d762e38a62d8bc90f9eff1909bcf9c3"
+  },
+  "StreamingAssets/MUS/MUS_Ambient_Age2_m202.ogg": {
+    "size": 603635,
+    "sha256": "ded7ab825788200f3c79f8d5e34c1439b6f43b233e00caf9497c8ba6a4fb8c96"
+  },
+  "StreamingAssets/MUS/MUS_Ambient_Age2_m203.ogg": {
+    "size": 570725,
+    "sha256": "549198b6cfb161419ba90dd7522ba857b159450695d0d523ed9e3c0819bc9723"
+  },
+  "StreamingAssets/MUS/MUS_Ambient_Age2_m204.ogg": {
+    "size": 537851,
+    "sha256": "bb2f87e79b56b92a17513fd241d540910f9b635f1ba015e0e8f528a7ac79dfb2"
+  },
+  "StreamingAssets/MUS/MUS_Ambient_Age2_m205.ogg": {
+    "size": 611071,
+    "sha256": "bd447d444304e8d9a0a3a27f2d01a810cd27d1c7f4e521e0b6841c97cd3dbdb6"
+  },
+  "StreamingAssets/MUS/MUS_Ambient_Age2_m206.ogg": {
+    "size": 1023495,
+    "sha256": "2d97bcc99d65b6c5e42f0d56c560b2e5f9d517de94ab74d7ae8cf72c6c28420f"
+  },
+  "StreamingAssets/MUS/MUS_Ambient_Age2_m207.ogg": {
+    "size": 463784,
+    "sha256": "b743ab5b99030a6f50f533c03f73d312dca1b5bbe5e9973d1ccad1cfd5911be9"
+  },
+  "StreamingAssets/MUS/MUS_Combat_Conquest_Outro.ogg": {
+    "size": 664893,
+    "sha256": "2310aefc9304d9cf8f8a18da3edae14a8ea5b2f564ed6faaa1cdb4102aab5f63"
+  },
+  "StreamingAssets/MUS/MUS_Combat_Defend_GreatCity_Outro.ogg": {
+    "size": 727402,
+    "sha256": "7ca15db5b6a71a6a37aecc91cd7f0ea1d7bc008fd661a49ea917642a9b4ab429"
+  },
+  "StreamingAssets/MUS/MUS_Combat_Defend_HighSilvermere_Outro.ogg": {
+    "size": 154188,
+    "sha256": "fac51c3c9cc8f5dc4aeb2da0a3b041c5c7cc3ea345e7f1782f3f28cb496947b7"
+  },
+  "StreamingAssets/MUS/MUS_Combat_Defend_Mountain_Intro.ogg": {
+    "size": 54323,
+    "sha256": "c777da850e331e4425033fe72c2090230b5dea571f17516956b75d1220aeea58"
+  },
+  "StreamingAssets/MUS/MUS_Combat_Defend_Mountain_Loop.ogg": {
+    "size": 364133,
+    "sha256": "03c58e4834ff489644b22fc75c810c7fae964c35f6d4f91d5c1a60c26e8fae9b"
+  },
+  "StreamingAssets/MUS/MUS_Combat_Defend_Mountain_Outro.ogg": {
+    "size": 124088,
+    "sha256": "044230c1a17f057b1a96d45407b796be038dbe59218de07cb32f1d5fc07d9eb7"
+  },
+  "StreamingAssets/MUS/MUS_Combat_Defend_Zeffira_Outro.ogg": {
+    "size": 333609,
+    "sha256": "4fdb145cd29c1b7b007a3bd091c8dd380944b473a065faffec74c63ad2d45284"
+  },
+  "StreamingAssets/MUS/MUS_Combat_Story_Outro.ogg": {
+    "size": 796254,
+    "sha256": "2b9a19b2b5aeec847df9ab255ac2d8082e0860817856adbe00558721b2d0bf64"
+  },
+  "StreamingAssets/MUS/MUS_Cutscene_Closing.ogg": {
+    "size": 3770929,
+    "sha256": "366f7b0086730f9956e517ae630da570b11e9f55fe3a318ca982bab00b458f40"
+  },
+  "StreamingAssets/MUS/MUS_Cutscene_Opening.ogg": {
+    "size": 1989682,
+    "sha256": "dc126a6def4ceda51018ac6ab8671dcb0ebbbec05a10ddd13f26adabb403e9c4"
+  },
+  "StreamingAssets/MUS/MUS_Opal_AmbientMusic_Age1_m106.ogg": {
+    "size": 548662,
+    "sha256": "c230622a4bea8c94d1d0ee8e1774f82745b5e41ac53969a706cfb3e94f243bbc"
+  },
+  "StreamingAssets/MUS/MUS_Opal_AmbientMusic_Age1_m107.ogg": {
+    "size": 317431,
+    "sha256": "6dde4cb6cf65ae68b822f7d20fc28ce90a9e605a21f5c557080eaaf9712acec5"
+  },
+  "StreamingAssets/MUS/MUS_Opal_AmbientMusic_Age1_m108.ogg": {
+    "size": 328396,
+    "sha256": "454013950b2c42037ebc4b4031aaae1c79b799c7c5a249de008f3d5a51951fbc"
+  },
+  "StreamingAssets/MUS/MUS_Opal_AmbientMusic_Age1_m109.ogg": {
+    "size": 668831,
+    "sha256": "7b388cb90f32a2d92e13d16c1f7902f83ebe9dc7624a14a6b485be12f3abc1d0"
+  },
+  "StreamingAssets/MUS/MUS_Opal_AmbientMusic_Age1_m110.ogg": {
+    "size": 773030,
+    "sha256": "e290d449bc790ac0a3f820e95c92089ebafe6f495a149ff57bc4e34e8ba208c7"
+  },
+  "StreamingAssets/MUS/MUS_Opal_AmbientMusic_Age1_m111.ogg": {
+    "size": 443173,
+    "sha256": "b4fb4427a8b632b942af858f684cc0cbb400f6a1087a5d2c56a934926deada80"
+  },
+  "StreamingAssets/MUS/MUS_Opal_AmbientMusic_Age1_m112.ogg": {
+    "size": 456336,
+    "sha256": "4f56c7293071e955f1efc02eb0093592ba47fceff60bd00cc4c0e13b32d05c01"
+  },
+  "StreamingAssets/MUS/MUS_Opal_Combat_BorderTown_72bpm_Intro_1-beat-pre_10-beat-tail.ogg": {
+    "size": 224110,
+    "sha256": "9ca902d7885d9f8ec2314827334e2cee835598797b6b85cd7e6e8a6d870c02ba"
+  },
+  "StreamingAssets/MUS/MUS_Opal_Combat_BorderTown_72bpm_Loop_1-beat-pre_12-beat-tail.ogg": {
+    "size": 916425,
+    "sha256": "d35b56592fedec74c0e9d95eae91643b09fee2114df5f46a3263ef43b977f9e6"
+  },
+  "StreamingAssets/MUS/MUS_Opal_Combat_Conquering_132bpm_Intro_1-beat-pre_12-beat-tail.ogg": {
+    "size": 137281,
+    "sha256": "3699403866f59f19a1069c1d09efd8b1de5305e0e4f63d0933a0eecdf0bc6508"
+  },
+  "StreamingAssets/MUS/MUS_Opal_Combat_Conquering_132bpm_Loop_3-beat-pre_20-beat-tail.ogg": {
+    "size": 1492842,
+    "sha256": "7e260e78b5ebb939b627533e1290a83413daaf8c9e5ea99332975f61b6fb5426"
+  },
+  "StreamingAssets/MUS/MUS_Opal_Combat_GreatCity_82bpm_Battle_Loop_82bpm_1-beat-pre_12-beat-tail.ogg": {
+    "size": 812520,
+    "sha256": "eab7ed28501dd6e210dec20d75a861a3530c219e33cd4410a65cc14122878c5a"
+  },
+  "StreamingAssets/MUS/MUS_Opal_Combat_Heartland_150bpm_2-beat-pre_8-beat-tail.ogg": {
+    "size": 975198,
+    "sha256": "ec00bbf5b78903f1d8909a102ce04febda26c4b52be08cf02ec2625d1ccd9abf"
+  },
+  "StreamingAssets/MUS/MUS_Opal_Combat_Heartland_Outro.ogg": {
+    "size": 142302,
+    "sha256": "f4ea5b075d6115b21046ab28556a995a2a8d8f604f36faa0ffd815cc11d8ec63"
+  },
+  "StreamingAssets/MUS/MUS_Opal_Combat_HighSilvermere_152bpm_Intro_1-beat-pre_18-beat-tail.ogg": {
+    "size": 182058,
+    "sha256": "04d1f31cea7e6aaa470758fc2d79c50b3ea9cc51c2075e0338b6c500e46f0cb7"
+  },
+  "StreamingAssets/MUS/MUS_Opal_Combat_HighSilvermere_152bpm_Loop_1-beat-pre_21-beat-tail.ogg": {
+    "size": 946224,
+    "sha256": "fb194bf59476d2883743a2e9afbb9ab4f93437f7caeadf17fc8295dd9cf31056"
+  },
+  "StreamingAssets/MUS/MUS_Opal_Combat_Story_168bpm_Loop_1-beat-pre_14-beat-tail.ogg": {
+    "size": 1131253,
+    "sha256": "eeac6119068b7e228c8c59020c70b03d129201851528a2c3f73623d4bb1b7c84"
+  },
+  "StreamingAssets/MUS/MUS_Opal_Combat_Zeffira_170bpm_Intro_27-beat-tail.ogg": {
+    "size": 208560,
+    "sha256": "c76dd2df7c343b225779e24b36be27d452b5034d6c5a76f4996dcc05f07d2424"
+  },
+  "StreamingAssets/MUS/MUS_Opal_Combat_Zeffira_170bpm_Loop_1-beat-pre_18-beat-tail.ogg": {
+    "size": 782801,
+    "sha256": "51d08e0656f0bd0f2439b017bac6bec53c6fd724978b6266a73f24bfce5521ad"
+  },
+  "StreamingAssets/MUS/MUS_Opal_Event_Negative_01.ogg": {
+    "size": 536749,
+    "sha256": "dfcb8ac9f9859fa6094e00c79b2c76884289b1e9736b92b8f8f0fcbd182445b8"
+  },
+  "StreamingAssets/MUS/MUS_Opal_Event_Negative_02.ogg": {
+    "size": 347848,
+    "sha256": "971b3f04819d42d3999171aa03a02462bdf4ac4218c1a55f1d667e0b26f6b2f5"
+  },
+  "StreamingAssets/MUS/MUS_Opal_Event_Negative_03.ogg": {
+    "size": 474397,
+    "sha256": "01eac2eb7e9ed714b205fe6218fb2fc2242b2f0cf1276df3deb0ddc17fdfbb5f"
+  },
+  "StreamingAssets/MUS/MUS_Opal_Event_Neutral_01.ogg": {
+    "size": 370965,
+    "sha256": "e10c455e8bb43b82aaecf9665258aa0bcc7458d0e6d898da28959a0d35b70d68"
+  },
+  "StreamingAssets/MUS/MUS_Opal_Event_Neutral_02.ogg": {
+    "size": 289966,
+    "sha256": "530894413e0c5f1f6e4b45a6dfc54c0a8637153ed74a6493db2322a617318c3d"
+  },
+  "StreamingAssets/MUS/MUS_Opal_Event_Neutral_03.ogg": {
+    "size": 433878,
+    "sha256": "6aa631d1066f880fa83a6b07265cb8d53a4f5463e43a72f2c9943df52c175e5e"
+  },
+  "StreamingAssets/MUS/MUS_Opal_Event_Positive_01.ogg": {
+    "size": 595026,
+    "sha256": "6acba06420c02cd4bb8a9fce84b5aea00e0f0f31efbb87051ea87766c6ff5b1b"
+  },
+  "StreamingAssets/MUS/MUS_Opal_Event_Positive_02.ogg": {
+    "size": 412078,
+    "sha256": "7a0185ca87a8663d29b438c754a1df0036460fef7638c11ba8212ffccfe45109"
+  },
+  "StreamingAssets/MUS/MUS_Opal_Event_Positive_03.ogg": {
+    "size": 224908,
+    "sha256": "a54e2c459cb447aa36ca014e4e6bd502c60e22749d87f4b496ba500734c58db7"
+  },
+  "StreamingAssets/MUS/MUS_Opal_Event_Positive_04.ogg": {
+    "size": 304209,
+    "sha256": "0ddc42d1490121d08da80cc83d2877a74a97f95ca98aa358856f5e2bb31a1385"
+  },
+  "StreamingAssets/MUS/MUS_Opal_Silence.ogg": {
+    "size": 4350,
+    "sha256": "c8da71fc0c974773a82946117ad21a7908dfeb2edaa0a85cdb348de7d1177215"
+  },
+  "StreamingAssets/MUS/MUS_Opal_UI_Attention_Urgent_Intro.ogg": {
+    "size": 153075,
+    "sha256": "3f70e4b60263d7202eec062afccff5b4a895a5fd4eb70779fb241312479c3412"
+  },
+  "StreamingAssets/MUS/MUS_Opal_UI_Attention_Urgent_Loop.ogg": {
+    "size": 481914,
+    "sha256": "efa21daf314f4cc6db47b4d4794e47067747df27dee0f2d77b50f59de7d25331"
+  },
+  "StreamingAssets/MUS/MUS_Opal_UI_Attention_Urgent_Option2_Intro_72bpm_1-beat-pre_8-beat-tail.ogg": {
+    "size": 148349,
+    "sha256": "4c62ccffbd226e14f073907c90a3ffb514f49b02ae349bba37d294cc712b4297"
+  },
+  "StreamingAssets/MUS/MUS_Opal_UI_Attention_Urgent_Option2_Loop_72bpm_1-beat-pre_4-beat-tail.ogg": {
+    "size": 329890,
+    "sha256": "2260559f252f3449e4e55ca112f69fb1d38718280671aaa8c8e12ec3737545ba"
+  },
+  "StreamingAssets/MUS/MUS_Opal_UI_Attention_Urgent_Option3_Intro.ogg": {
+    "size": 169517,
+    "sha256": "050459d98fdffa0ebf83a267b7502d0d4c0399691e77ba04a77c35013449ed25"
+  },
+  "StreamingAssets/MUS/MUS_Opal_UI_Attention_Urgent_Option3_Loop.ogg": {
+    "size": 451194,
+    "sha256": "9724570465c08c989725ae49b1058639ca9ab74806deae2e431935b259840427"
+  },
+  "StreamingAssets/SFX/Combat/SFX_UI_Combat_MajorDefeat.ogg": {
+    "size": 53675,
+    "sha256": "8b4b814a9917f503ae195d43bd621e635542c19dd819e402028b5c807edb46e3"
+  },
+  "StreamingAssets/SFX/Combat/SFX_UI_Combat_MinorDefeat.ogg": {
+    "size": 49094,
+    "sha256": "d23974806016f81df124201fa3373f16abf4c2900f7ded6be99a1d937c97d04a"
+  },
+  "StreamingAssets/SFX/Combat/SFX_UI_Combat_Victory.ogg": {
+    "size": 60318,
+    "sha256": "643d43bc86bdb0a32984db7d5e39027bcc3eecd7ec746ec42f79d271261adcde"
+  },
+  "StreamingAssets/SFX/UI/SFX_UI_Combat_BackToMap.ogg": {
+    "size": 27066,
+    "sha256": "57e2986d4469371619202334525932dca9c3b76c3f38e76a123938a12f561d65"
+  },
+  "StreamingAssets/SFX/UI/SFX_UI_Combat_ForDemacia.ogg": {
+    "size": 61036,
+    "sha256": "f8fc2eebd081e7d7b56841f01ad8215653845649e73b58aef0bfdcffb78430ba"
+  },
+  "StreamingAssets/SFX/UI/SFX_UI_Combat_LastHit.ogg": {
+    "size": 42132,
+    "sha256": "d6f5e6a76a039aa86c853c84d6111170c9925203ad8a7569a18fd2cfed5ae8e5"
+  },
+  "StreamingAssets/SFX/UI/SFX_UI_Landing_Play.ogg": {
+    "size": 31973,
+    "sha256": "940ffb6975aecd3bbdccee13c9b05150aa8c670b556797a65e07c2242278f8fe"
+  },
+  "StreamingAssets/SFX/UI/SFX_UI_Map_EmptyClick.ogg": {
+    "size": 6032,
+    "sha256": "e0ad1b9bdfdf2e9b180e87e20aad29b852837d50b21f0f9625c00a612aabb489"
+  },
+  "StreamingAssets/SFX/UI/SFX_UI_Map_Event_Choice_Click.ogg": {
+    "size": 41261,
+    "sha256": "5e1d934ab0546df8a7ce50ea9cfa66cde0f1883474f0cd29a6653610f9d73d4a"
+  },
+  "StreamingAssets/SFX/UI/SFX_UI_Map_Event_Choice_Hover.ogg": {
+    "size": 14883,
+    "sha256": "dfd17b55a27dadfcf61ddba4862019afd50ffba39dd6d02f4246a20d777515d8"
+  },
+  "StreamingAssets/SFX/UI/SFX_UI_Map_Event_Goal_Large.ogg": {
+    "size": 92995,
+    "sha256": "8688f37f5e8fe27ffef9196697b0f69d5999eebe389d235da57464bce09cafb1"
+  },
+  "StreamingAssets/SFX/UI/SFX_UI_Map_Event_Goal_Medium.ogg": {
+    "size": 54113,
+    "sha256": "7cb06b66c457ebbc0816d358ee2cf7afcf9506222fafa0bb2ec0c7eb50fa74e3"
+  },
+  "StreamingAssets/SFX/UI/SFX_UI_Map_Event_Goal_Small.ogg": {
+    "size": 22446,
+    "sha256": "d0b25226b589c026cf935db9588001c92217416deb9e33dde07560757db40dcf"
+  },
+  "StreamingAssets/SFX/UI/SFX_UI_Map_NextTurnSfx.ogg": {
+    "size": 15489,
+    "sha256": "b22fbf0093dee1f5dc1f5946d6040a2567e05cf5d9c4e510ce8652d0bec31288"
+  },
+  "StreamingAssets/SFX/UI/SFX_UI_Map_Panel_Attention_Neutral.ogg": {
+    "size": 42872,
+    "sha256": "7f96b9b12bd018ddbb52b61f5deb3480d248e366675b209f88d13fb72f7f8e35"
+  },
+  "StreamingAssets/SFX/UI/SFX_UI_Map_Panel_Attention_Urgent.ogg": {
+    "size": 33754,
+    "sha256": "7d3538038360eedde2dac6f0edcd8a6ab2689ac8596591201c5e20076b483b3e"
+  },
+  "StreamingAssets/SFX/UI/SFX_UI_Map_Panel_Battle_Initiate.ogg": {
+    "size": 25547,
+    "sha256": "13dccdcd8aa6cd7c9f4cee2fb930292958fa7d86e25e998308b779b1e9115114"
+  },
+  "StreamingAssets/SFX/UI/SFX_UI_Map_Panel_Battle_Plan.ogg": {
+    "size": 29377,
+    "sha256": "f816f9a86a5dfa68707d525e90e38bbc2b0c319407504625f27ddba3a5b08608"
+  },
+  "StreamingAssets/SFX/UI/SFX_UI_Map_Panel_Building_Build_Confirm_1.ogg": {
+    "size": 49665,
+    "sha256": "59a5c3d2685c5312d5b412f5649a8de17355a768fa975e1a1acc5215dfcb549b"
+  },
+  "StreamingAssets/SFX/UI/SFX_UI_Map_Panel_Building_Build_Confirm_2.ogg": {
+    "size": 51845,
+    "sha256": "07f553dfebd507a2cfdb77a9969327dd37b0cbce8949873a74a5bb19c1e8b398"
+  },
+  "StreamingAssets/SFX/UI/SFX_UI_Map_Panel_Building_Build_Confirm_3.ogg": {
+    "size": 49654,
+    "sha256": "40630497d881a02c94a66276c82c89fd0dbc523034e38735e66c8dcbf3097e62"
+  },
+  "StreamingAssets/SFX/UI/SFX_UI_Map_Panel_Building_Build_Initiate.ogg": {
+    "size": 9486,
+    "sha256": "9cb8a5aba6366ab5deb926fa12a66104a57f72a5652cad6c7207d2ead7003d7d"
+  },
+  "StreamingAssets/SFX/UI/SFX_UI_Map_Panel_Building_Demo.ogg": {
+    "size": 32040,
+    "sha256": "5308c70f0220a4c9ba05e403685418350822f991860ed07de132838e6666ecf2"
+  },
+  "StreamingAssets/SFX/UI/SFX_UI_Map_Panel_Building_Repair.ogg": {
+    "size": 32011,
+    "sha256": "1a7705f301ba6d7bc9b888475c4fff6727ce4d9b345a080186b58842635cde9a"
+  },
+  "StreamingAssets/SFX/UI/SFX_UI_Map_Panel_Building_Upgrade_Confirm.ogg": {
+    "size": 33907,
+    "sha256": "f04b2e749a24fe2d03a59405ddd32dd968060733316333dcb0ece76ebdb8ce6f"
+  },
+  "StreamingAssets/SFX/UI/SFX_UI_Map_Panel_Building_Upgrade_Initiate.ogg": {
+    "size": 11404,
+    "sha256": "db00dded7b8b32ba73a286f966ce828061086997705f29b1570b4d6cefc15252"
+  },
+  "StreamingAssets/SFX/UI/SFX_UI_Map_Panel_Click.ogg": {
+    "size": 9491,
+    "sha256": "3d94f774af52042a5be58c82ff182efc55d09180055a0376277b38b9f8b8126d"
+  },
+  "StreamingAssets/SFX/UI/SFX_UI_Map_Panel_Close.ogg": {
+    "size": 9729,
+    "sha256": "b38332cb4385d8c59a74be9c33927a2273bbc1da0ad1501f05648d42d54b44b4"
+  },
+  "StreamingAssets/SFX/UI/SFX_UI_Map_Panel_Confirm.ogg": {
+    "size": 24486,
+    "sha256": "798ebbe93bcf01b811fa5d8d0ec01bcf00a1cddcee2dc1eb4eb0ff16a0ce3a77"
+  },
+  "StreamingAssets/SFX/UI/SFX_UI_Map_Panel_Dialogue.ogg": {
+    "size": 8458,
+    "sha256": "0256945309d5a31497dba36837be9b4ab778574874c3de674e8ccfa121bf9866"
+  },
+  "StreamingAssets/SFX/UI/SFX_UI_Map_Panel_Disabled.ogg": {
+    "size": 9796,
+    "sha256": "a2f361424da85553c497613297332950ed77fce3adeaa5f30f599c2fc43c5132"
+  },
+  "StreamingAssets/SFX/UI/SFX_UI_Map_Panel_EndTurn_1.ogg": {
+    "size": 51369,
+    "sha256": "83ad6bccfe7c6922f5b9360e241b6ed7bc5284c92d6e1773ce0bc1e0c0eedba0"
+  },
+  "StreamingAssets/SFX/UI/SFX_UI_Map_Panel_EndTurn_2.ogg": {
+    "size": 51474,
+    "sha256": "9c9a6829e17e7f3e97fc3e30b2baf59cb34c8e21cfeaf17b4b1c1818f4441656"
+  },
+  "StreamingAssets/SFX/UI/SFX_UI_Map_Panel_EndTurn_3.ogg": {
+    "size": 51517,
+    "sha256": "0ba3932e732037db8da5eee1d7101ab6a898ad7546e3880d0a2b13a2a14e0f0b"
+  },
+  "StreamingAssets/SFX/UI/SFX_UI_Map_Panel_EndTurn_4.ogg": {
+    "size": 51371,
+    "sha256": "aa13305c755935b48d1d90e255fb9480e4b9814e96e08f052b9d2ce261bab467"
+  },
+  "StreamingAssets/SFX/UI/SFX_UI_Map_Panel_EndTurn_5.ogg": {
+    "size": 60460,
+    "sha256": "3386fb51186a173b9917b6adf738ba1063ae6639ea50a42e45ba18a8efde329d"
+  },
+  "StreamingAssets/SFX/UI/SFX_UI_Map_Panel_Goals_Achieve.ogg": {
+    "size": 10598,
+    "sha256": "9019d4b932738cd2633ffc31eb7075e3d989801f93a3a4d590ae73894262e547"
+  },
+  "StreamingAssets/SFX/UI/SFX_UI_Map_Panel_Goals_Collapse.ogg": {
+    "size": 7675,
+    "sha256": "4a7ef312d0df682d1b3dd04a48212c2fe258d91f271a79c3cbcefa871ba59f7c"
+  },
+  "StreamingAssets/SFX/UI/SFX_UI_Map_Panel_Goals_Expand.ogg": {
+    "size": 6532,
+    "sha256": "55cd36cadc36f60cec0258c3f587c0ef8befdbb372bc8236f6336183f5669fe0"
+  },
+  "StreamingAssets/SFX/UI/SFX_UI_Map_Panel_Hover.ogg": {
+    "size": 6056,
+    "sha256": "de5e3abefecd956493efad899c65acf40cf962c649a55611fbe9306114614ee5"
+  },
+  "StreamingAssets/SFX/UI/SFX_UI_Map_Panel_Open.ogg": {
+    "size": 12113,
+    "sha256": "7c9f37fd299f12f317606e58071b49499c65dbbb5708a1787b656aa397395526"
+  },
+  "StreamingAssets/SFX/UI/SFX_UI_Map_Panel_Research_Open.ogg": {
+    "size": 22819,
+    "sha256": "ca5651c9efd52359fe62cf49031b934e48b7c448d51c08c7155b7d1c7de372c2"
+  },
+  "StreamingAssets/SFX/UI/SFX_UI_Map_Panel_Rewind.ogg": {
+    "size": 27592,
+    "sha256": "7125a9adcc75968d63fc23b8d9bc3378e391eb346d95396a9ef22b14f74f9ae9"
+  },
+  "StreamingAssets/SFX/UI/SFX_UI_Map_Panel_Settlement_Build_Confirm.ogg": {
+    "size": 50562,
+    "sha256": "b6c09a137d53b1e4ed4fa6b5946c4a37f9decbaac2f10f54cb4999353a1aef55"
+  },
+  "StreamingAssets/SFX/UI/SFX_UI_Map_Panel_Settlement_Build_Initiate.ogg": {
+    "size": 17160,
+    "sha256": "fdfa93ecc9e082086346a649db7e5c0b7597393fd4a5cb945385a2c2d962422a"
+  },
+  "StreamingAssets/SFX/UI/SFX_UI_Map_Panel_Settlement_Upgrade_Confirm.ogg": {
+    "size": 60070,
+    "sha256": "1f3a9f12d240d549af7ab53ae1ba98c6cc8dceeb124de4d40c4e5562616d2402"
+  },
+  "StreamingAssets/SFX/UI/SFX_UI_Map_Panel_Settlement_Upgrade_Initiate.ogg": {
+    "size": 17924,
+    "sha256": "b6cdeea3e8b8a585043c526c5047ba4f2cd66e89e37aae9a670623cbe9cfc22c"
+  },
+  "StreamingAssets/SFX/UI/SFX_UI_Map_Panel_Slideout_01.ogg": {
+    "size": 19081,
+    "sha256": "45ad7c80cf031a9ad7c3ec6128daef83e07b44ec07f80624a80b9d1d4d3791ca"
+  },
+  "StreamingAssets/SFX/UI/SFX_UI_Map_Panel_Slideout_02.ogg": {
+    "size": 19251,
+    "sha256": "66d439335551644f2d7aaaea465d86afe63f06aca163e33fe929a7bbd03cf058"
+  },
+  "StreamingAssets/SFX/UI/SFX_UI_Map_Panel_Slideout_03.ogg": {
+    "size": 19270,
+    "sha256": "3fe1e148655760fd07495ba8ee3e019c887fd3aecb4390ac0528d85cf8352f8b"
+  },
+  "StreamingAssets/SFX/UI/SFX_UI_Map_Panel_Unit_Dismiss.ogg": {
+    "size": 28368,
+    "sha256": "3db82990fad50e8e834035f254b252c5e14424650ea3c37c358453defcbbddc5"
+  },
+  "StreamingAssets/SFX/UI/SFX_UI_Map_Panel_Unit_Move_Cancel.ogg": {
+    "size": 27918,
+    "sha256": "3aad6d34567d1c166002893d18be9c80e0b4e81ef847a811b44960e542de70e3"
+  },
+  "StreamingAssets/SFX/UI/SFX_UI_Map_Panel_Unit_Move_Confirm.ogg": {
+    "size": 32140,
+    "sha256": "6a055150f7de3f111d1117b0b0dc8169e83bcca9c55183e33b24f42d9e63a575"
+  },
+  "StreamingAssets/SFX/UI/SFX_UI_Map_Panel_Unit_Move_Initiate.ogg": {
+    "size": 14717,
+    "sha256": "6556f087b4cf7589d8cddc4aee4373747149a06f1373a4c40591a145e614c2da"
+  },
+  "StreamingAssets/SFX/UI/SFX_UI_Map_Panel_Unit_Train.ogg": {
+    "size": 28167,
+    "sha256": "ecbe037e22b7e02df3ee3181a4489357654b9c80ecfba02f888f37b75277d2a2"
+  },
+  "StreamingAssets/SFX/UI/SFX_UI_Map_Settlement_Deselect.ogg": {
+    "size": 21871,
+    "sha256": "b0d4aa1e31dc311825072b83afb9adc4aa902e91c0a185bab1f80115bb626bb0"
+  },
+  "StreamingAssets/SFX/UI/SFX_UI_Map_Settlement_Select.ogg": {
+    "size": 22218,
+    "sha256": "c14bc53536a7bb6a6cab34d0173605d7329c8ce13b2ed617a51216b60b67d45c"
+  },
+  "StreamingAssets/SFX/UI/SFX_UI_Research_Champion.ogg": {
+    "size": 41473,
+    "sha256": "07c17ed6f0161806757a1acd7dca12a4e81228bc3a6d94f3a816a1cdb5cb23f0"
+  },
+  "StreamingAssets/SFX/UI/SFX_UI_Research_Kingdom.ogg": {
+    "size": 34358,
+    "sha256": "a54f87fb735c0ddf495ccb13d5631cc2b402063c0675d0b86f74776e17fe8902"
+  },
+  "StreamingAssets/SFX/UI/SFX_UI_Research_Military.ogg": {
+    "size": 34452,
+    "sha256": "58f2c1232ddbc96d83650febef0966ee51f3090af80db220c0f0a2496aca6f1a"
+  },
+  "StreamingAssets/SFX/UI/SFX_UI_Research_Panel_Click.ogg": {
+    "size": 23176,
+    "sha256": "6b453899b97f79b9941f1c539fd52210f2baf1302bf26b09999290d8ac6d0e64"
+  },
+  "StreamingAssets/SFX/UI/SFX_UI_Research_Panel_Close.ogg": {
+    "size": 21594,
+    "sha256": "3af4da125e1ce2e9884f59db7b16a68a8b3d2c69993fb2c78f7e46b9b0ac0eb7"
+  },
+  "StreamingAssets/SFX/UI/SFX_UI_Research_Panel_Disabled.ogg": {
+    "size": 23038,
+    "sha256": "a55e7438cb80650bed8824bb8901b932984b5f1744bb6e73b1d4b63b7b519864"
+  },
+  "StreamingAssets/SFX/UI/SFX_UI_Research_Panel_Hover.ogg": {
+    "size": 23382,
+    "sha256": "e25fe8810b7b7802ec710c5cad7c8895aab1a6dabbe6d5c2ff1374fc621c6d02"
+  },
+  "StreamingAssets/SFX/UI/SFX_UI_Research_Panel_Scroll_Click.ogg": {
+    "size": 9337,
+    "sha256": "6abd0e2b521a9a20fa2ceae70867ce59bff1773409170d5c2f5430365a66c647"
+  },
+  "StreamingAssets/SFX/UI/SFX_UI_Research_Panel_Scroll_Hover.ogg": {
+    "size": 8646,
+    "sha256": "b99e699bb1334ca096d91320cd690a7feea16c868e5a32d3b241774ca52c4d37"
+  },
+  "StreamingAssets/SFX/UI/SFX_UI_Research_System.ogg": {
+    "size": 36846,
+    "sha256": "3f00c607b7f014286586d1d711c65f287c4338c306476f01f0feae979c30115f"
+  },
+  "StreamingAssets/SFX/VFX/SFX_Cutscene_Art_1.ogg": {
+    "size": 100124,
+    "sha256": "a6edacb82fa340627afc123b0620bec8ad9fb40bb8d6a229bb8fdea76609e27f"
+  },
+  "StreamingAssets/SFX/VFX/SFX_Cutscene_Art_2.ogg": {
+    "size": 31229,
+    "sha256": "fc5f6fec952ec7f5ad7e7c7fdf1e36b6bb1a467491930d89ec13fd947f540683"
+  },
+  "StreamingAssets/SFX/VFX/SFX_Cutscene_Art_3.ogg": {
+    "size": 63712,
+    "sha256": "e75130227672fd419a504cf9130ee768fc744ce001c8ab8c91e7c6019b2f88b2"
+  },
+  "StreamingAssets/SFX/VFX/SFX_GAME_Combat_CombatBuffSfx_Buff_Tech_Tier3_VeiledLadyShrine.ogg": {
+    "size": 20191,
+    "sha256": "b54048907da7897a1626f70789b05761a0d34a5abaf45149fe38c7706b859737"
+  },
+  "StreamingAssets/SFX/VFX/SFX_GAME_Combat_CombatBuffSfx_CombatBuffSfx_ArcherMultishot.ogg": {
+    "size": 16417,
+    "sha256": "f8e042cf72b150475379402d44939ac2d68d670ab57cf8b1e6c08ac39b20d349"
+  },
+  "StreamingAssets/SFX/VFX/SFX_GAME_Combat_CombatBuffSfx_CombatBuffSfx_ArcherRoleDiscipline.ogg": {
+    "size": 24477,
+    "sha256": "447413184dbdf4b333871444f34cda37f648ec715f36486359ae7e7522f75dff"
+  },
+  "StreamingAssets/SFX/VFX/SFX_GAME_Combat_CombatBuffSfx_CombatBuffSfx_GuardBattleHigh.ogg": {
+    "size": 16459,
+    "sha256": "b13df7493ad4261de79d88333877a22c7f49d19b8aade7e4f957741ec01ce166"
+  },
+  "StreamingAssets/SFX/VFX/SFX_GAME_Combat_CombatBuffSfx_CombatBuffSfx_GuardPiercingStrikes.ogg": {
+    "size": 16471,
+    "sha256": "abb38a6ca02e2b70e1b01ff4bfb22122c547e35a93da6367b6c1753ed18e9fa3"
+  },
+  "StreamingAssets/SFX/VFX/SFX_GAME_Combat_CombatBuffSfx_CombatBuffSfx_RangerSerratedBolts.ogg": {
+    "size": 16358,
+    "sha256": "d43a8915706d52c8c987046524dc5b1dd289677267ba413e33c8e2b318664740"
+  },
+  "StreamingAssets/SFX/VFX/SFX_GAME_Combat_CombatBuffSfx_CombatBuffSfx_SoldierImprovedStamina.ogg": {
+    "size": 16518,
+    "sha256": "ba11d5dcb73f134be91b6212de0dbbf00d8d15ebbcbb2dbe7d3ea0d97c7337e3"
+  },
+  "StreamingAssets/SFX/VFX/SFX_GAME_Combat_CombatBuffSfx_CombatBuffSfx_SoldierShieldBash.ogg": {
+    "size": 16549,
+    "sha256": "304d75e9300ba76ce18118cef7ffeb64cbca5c81eb4c375c4beeb20b5440394a"
+  },
+  "StreamingAssets/SFX/VFX/SFX_UI_Map_VFX_CloudTransition.ogg": {
+    "size": 61472,
+    "sha256": "dd588ebf3476e9deb580d46e1ff9e2841e573572179b66b11cd0ee84064538a0"
+  },
+  "StreamingAssets/SFX/VFX/SFX_UI_Map_VFX_Construction.ogg": {
+    "size": 23313,
+    "sha256": "4c1a87d0cf3d4e6c686dbc94deecba38560b0196c082f92be810ea2a36b940ac"
+  },
+  "StreamingAssets/SFX/VFX/SFX_UI_Map_VFX_FTUX_Acknowledged.ogg": {
+    "size": 21594,
+    "sha256": "196730847b72b56b8a06007333172d93911254f5c16b36430f9374e646abe62f"
+  },
+  "StreamingAssets/SFX/VFX/SFX_UI_Map_VFX_FTUX_Appear.ogg": {
+    "size": 17820,
+    "sha256": "01a9a13cfe85128c7c357abbf2f36dc48ea1f4f85637ab96e287b3e8eee561b6"
+  },
+  "StreamingAssets/SFX/VFX/SFX_UI_Map_VFX_FTUX_EndTurn.ogg": {
+    "size": 20953,
+    "sha256": "425afbf04306def7b8155d1961092b3f9d0d4d0f1f377b09d5587305644c6fb4"
+  },
+  "StreamingAssets/SFX/VFX/SFX_UI_Map_VFX_FTUX_Panel.ogg": {
+    "size": 18170,
+    "sha256": "a127a59f628aaf14936d9861310d0ed0677899ce61cf2db18bac37168a19ceb3"
+  },
+  "StreamingAssets/SFX/VFX/SFX_UI_Map_VFX_FTUX_Town.ogg": {
+    "size": 19904,
+    "sha256": "bdda3863a94a8b983ce42ad74d558d20d86a11b19ed06a3c840c3c0e5f0bdb35"
+  },
+  "StreamingAssets/SFX/VFX/SFX_UI_Map_VFX_GodRay.ogg": {
+    "size": 49161,
+    "sha256": "0cd40e3914dc65d89fb2a5154b25155e1584900daa0e5bc2dd62652bc1141a33"
+  },
+  "StreamingAssets/SFX/VFX/SFX_UI_Map_VFX_Landing.ogg": {
+    "size": 116316,
+    "sha256": "08fe076b5f1a8f27970f4756e1e1683597797297044c76e9f8851f6164296d7d"
+  },
+  "StreamingAssets/SFX/VFX/SFX_UI_Map_VFX_Notification_Creation.ogg": {
+    "size": 38566,
+    "sha256": "072bfab01187d9d38cdcef99acacc5e717608230b43c9711b8ebbf3a66738188"
+  },
+  "StreamingAssets/SFX/VFX/SFX_UI_Map_VFX_Notification_Looping.ogg": {
+    "size": 54108,
+    "sha256": "d8c163f095fe447047cb5857d59e3e8b91322569aaa6aa356622aed39b8e5416"
+  },
+  "StreamingAssets/SFX/VFX/SFX_UI_Map_VFX_ResourceGet.ogg": {
+    "size": 13810,
+    "sha256": "c3e5e0ee5fe072a5acc1ae548ae007e2999dab5a08e5c84e2eccbe604e209aac"
+  },
+  "StreamingAssets/SFX/VFX/SFX_UI_Map_VFX_SettlementReady.ogg": {
+    "size": 70536,
+    "sha256": "4a91c024ab8b3586ae1358960efe620ecdaeab89a9331d379f59c4a160cb37e5"
+  },
+  "StreamingAssets/SFX/VFX/SFX_UI_Map_VFX_Settlement_Hover.ogg": {
+    "size": 19127,
+    "sha256": "75061599849d3cfbf26664f397dca2f0c7a54374de438097e7a0d4e1685710dc"
+  },
+  "StreamingAssets/SFX/VFX/SFX_UI_Map_VFX_SilverShieldsGet_Large.ogg": {
+    "size": 40168,
+    "sha256": "830edca067217fee8dc89545e50cf1bc644b0a199f4da15a1111c19aed3705e2"
+  },
+  "StreamingAssets/SFX/VFX/SFX_UI_Map_VFX_SilverShieldsGet_Medium.ogg": {
+    "size": 33071,
+    "sha256": "9d271c3b2fcba73725ab2b942468caef1e2d3e688130f8bd92114ea02795dba7"
+  },
+  "StreamingAssets/SFX/VFX/SFX_UI_Map_VFX_SilverShieldsGet_Small.ogg": {
+    "size": 30361,
+    "sha256": "17ddcb47ba8087a5c5b3bd333d13f96f1074426fdfeb00bc6e7b79e93f3df9d2"
+  },
+  "StreamingAssets/VO/en/Lux_Act2_AnyClosingMonologue_10.ogg": {
+    "size": 67516,
+    "sha256": "03224b948c8863e50fda916771737dc635f020c365df5367a7b879adc92e7687"
+  },
+  "StreamingAssets/VO/en/Lux_Act2_ClosingMonologue_10.ogg": {
+    "size": 88805,
+    "sha256": "439e8de93b549a6f161a27a22a9d3374757777950e7fe68292ffde158aead2c2"
+  },
+  "StreamingAssets/VO/en/Lux_Act2_ClosingMonologue_15.ogg": {
+    "size": 53925,
+    "sha256": "5fd0ffef18d4398e940adbee6ffc15224bf9e8b6c19d8f7170dce941b460b0b8"
+  },
+  "StreamingAssets/VO/en/Lux_Act2_ClosingMonologue_20.ogg": {
+    "size": 83347,
+    "sha256": "6af0281878fe9e6b517f91c682e618845ce6863c71e2ae49ddc5950e5fe0eb79"
+  },
+  "StreamingAssets/VO/en/Lux_Act2_ClosingMonologue_25.ogg": {
+    "size": 95502,
+    "sha256": "9efb4e70e2c29f85d7cdf8c6de6088f1095a006a0174e5c0a49a9e417344e94b"
+  },
+  "StreamingAssets/VO/en/Lux_Act2_Nonlinear_Negative_10.ogg": {
+    "size": 18273,
+    "sha256": "c2ced0932377f7f8fc5fbf236b045fcfcd520d0a95afc28756ed89c412bf785b"
+  },
+  "StreamingAssets/VO/en/Lux_Act2_Nonlinear_Negative_100.ogg": {
+    "size": 25687,
+    "sha256": "50917edd8ba50cdfc19f1a5a0bf7020926b01b8b67fe268143bcbfcb07a875b1"
+  },
+  "StreamingAssets/VO/en/Lux_Act2_Nonlinear_Negative_110.ogg": {
+    "size": 10823,
+    "sha256": "b88472e306f1a3df63605cc6556dd9960c26cee3cfa058be4ee80ab931768f04"
+  },
+  "StreamingAssets/VO/en/Lux_Act2_Nonlinear_Negative_130.ogg": {
+    "size": 10708,
+    "sha256": "1a52b5758e2d9d18aea4babc5f1499a552dc77180c760895f3406a18103458e7"
+  },
+  "StreamingAssets/VO/en/Lux_Act2_Nonlinear_Negative_20.ogg": {
+    "size": 20474,
+    "sha256": "70f4519fd5ef5acbe017e7f3f2b8e55547295758565cb729dfbcfeeada383ff5"
+  },
+  "StreamingAssets/VO/en/Lux_Act2_Nonlinear_Negative_30.ogg": {
+    "size": 21600,
+    "sha256": "24e797369b5b4d3b2f1d65f126fcbaa8dd51bef520b78381b7ab6bb96b84f1f5"
+  },
+  "StreamingAssets/VO/en/Lux_Act2_Nonlinear_Negative_40.ogg": {
+    "size": 13298,
+    "sha256": "7bd9f445da01eb6cdd45e572f1b30434fb4794df9cd0f7d015b702c681e60b55"
+  },
+  "StreamingAssets/VO/en/Lux_Act2_Nonlinear_Negative_50.ogg": {
+    "size": 16124,
+    "sha256": "85a32aa9e28f7778ab9ddf729c970e4ea78d20c014ca6369f0f518546314c874"
+  },
+  "StreamingAssets/VO/en/Lux_Act2_Nonlinear_Negative_60.ogg": {
+    "size": 23396,
+    "sha256": "37eb561e8d4489d7c3d6a7cbba621b247e34b3dbb335c451d5d31656525b6458"
+  },
+  "StreamingAssets/VO/en/Lux_Act2_Nonlinear_Negative_70.ogg": {
+    "size": 21387,
+    "sha256": "52cc555af02d027740979de9abc65c6845b3075ae5bfc16e28bfa25998962696"
+  },
+  "StreamingAssets/VO/en/Lux_Act2_Nonlinear_Negative_80.ogg": {
+    "size": 15075,
+    "sha256": "e38c3eb21e356b52c80ddc85caaba5caa521a24503ed02e70a7ad007e635bc77"
+  },
+  "StreamingAssets/VO/en/Lux_Act2_Nonlinear_Negative_90.ogg": {
+    "size": 17136,
+    "sha256": "a4b077ebd22870b146bc26deec637be79b9a8bdfb099fec62300a6aee4bb274a"
+  },
+  "StreamingAssets/VO/en/Lux_Act2_Nonlinear_Neutral_10.ogg": {
+    "size": 16889,
+    "sha256": "219fb0352af4f3a06349ef0bc77a97908c98d65ad7e82267d155776b00449466"
+  },
+  "StreamingAssets/VO/en/Lux_Act2_Nonlinear_Neutral_100.ogg": {
+    "size": 15122,
+    "sha256": "3c434c0ba6154dd1e1e4341a2feade096a345bb5a1e7cce700e0ac2f501d78b2"
+  },
+  "StreamingAssets/VO/en/Lux_Act2_Nonlinear_Neutral_110.ogg": {
+    "size": 18608,
+    "sha256": "272e6ded44ea3f59ec6c8c931fed6101353bd7556a109841e5cee48d536ea4cf"
+  },
+  "StreamingAssets/VO/en/Lux_Act2_Nonlinear_Neutral_120.ogg": {
+    "size": 12268,
+    "sha256": "f64fe164af692195d623c511f62d9843528c12534130581af6faff2422ca0d1a"
+  },
+  "StreamingAssets/VO/en/Lux_Act2_Nonlinear_Neutral_20.ogg": {
+    "size": 28797,
+    "sha256": "3fd030265536afcaa29f46d2183f1afee4fa2a7b59d1ea701d925bce6d057346"
+  },
+  "StreamingAssets/VO/en/Lux_Act2_Nonlinear_Neutral_30.ogg": {
+    "size": 16395,
+    "sha256": "a9e07687d0223ab4455006b5feab426604441a692b200966f558e7daeacac830"
+  },
+  "StreamingAssets/VO/en/Lux_Act2_Nonlinear_Neutral_40.ogg": {
+    "size": 16767,
+    "sha256": "e2dff155809e1f1346a9ff3da35c8ede51232b3ee943c083ba76b58bfb420fe4"
+  },
+  "StreamingAssets/VO/en/Lux_Act2_Nonlinear_Neutral_50.ogg": {
+    "size": 19687,
+    "sha256": "3ea9457cfcab978412e1618ba142b9ac17cce08e8733d437b5677f1b354d2504"
+  },
+  "StreamingAssets/VO/en/Lux_Act2_Nonlinear_Neutral_60.ogg": {
+    "size": 29437,
+    "sha256": "327dae987a4ad0bd06b2347ba677aee7d94d4a5cdf8aea805ea93ce47534e94e"
+  },
+  "StreamingAssets/VO/en/Lux_Act2_Nonlinear_Neutral_70.ogg": {
+    "size": 25406,
+    "sha256": "f3f791b79abc66a9af4c339a094deaf2fe32f344c43345a357724db14db517a9"
+  },
+  "StreamingAssets/VO/en/Lux_Act2_Nonlinear_Neutral_80.ogg": {
+    "size": 25626,
+    "sha256": "49808a628437657d77f3c2faa0bf8d965f52df33efa8888c972e7e7621ba8d7c"
+  },
+  "StreamingAssets/VO/en/Lux_Act2_Nonlinear_Neutral_90.ogg": {
+    "size": 41967,
+    "sha256": "7049bd44ed333c1f9f469787b7d40636ecbac59034e42734007dcc9a2fb276e3"
+  },
+  "StreamingAssets/VO/en/Lux_Act2_Nonlinear_Positive_10.ogg": {
+    "size": 30133,
+    "sha256": "1dd62c1817f77f5d3d6087003d6945e0209846e8bdbe572fb5712f8e8af00c9c"
+  },
+  "StreamingAssets/VO/en/Lux_Act2_Nonlinear_Positive_100.ogg": {
+    "size": 13846,
+    "sha256": "6c73eed2f8763035244ce00e3470cb9cd92b1e74848963a6e8b108a8c8be3166"
+  },
+  "StreamingAssets/VO/en/Lux_Act2_Nonlinear_Positive_110.ogg": {
+    "size": 15366,
+    "sha256": "bc9c60d7a53e3fa2ac07d019496be6c6244347c444d5c628aeaf581149c498dd"
+  },
+  "StreamingAssets/VO/en/Lux_Act2_Nonlinear_Positive_120.ogg": {
+    "size": 10487,
+    "sha256": "dcb1635351dba39ee84912612c77d8cd7492e9320c99a43009e63a42dfc69906"
+  },
+  "StreamingAssets/VO/en/Lux_Act2_Nonlinear_Positive_20.ogg": {
+    "size": 19979,
+    "sha256": "87baa29756fc484e6b6fd1b5adcb13be28d9f61acfc8bdd1b9d14d88df24f7eb"
+  },
+  "StreamingAssets/VO/en/Lux_Act2_Nonlinear_Positive_30.ogg": {
+    "size": 27307,
+    "sha256": "54f3978e90e774c5484dcef35de7433a11ad5b1cb3f9b268e9129b8ff364cd33"
+  },
+  "StreamingAssets/VO/en/Lux_Act2_Nonlinear_Positive_40.ogg": {
+    "size": 20525,
+    "sha256": "09abfe098bead1612833a52ca375857d6f29e6c87c0d593c153162912d9f6959"
+  },
+  "StreamingAssets/VO/en/Lux_Act2_Nonlinear_Positive_50.ogg": {
+    "size": 18785,
+    "sha256": "8f2c718f801f4a540b1f2d3270144f173eea19f24d6e51dc8c4ea4bea6d182d5"
+  },
+  "StreamingAssets/VO/en/Lux_Act2_Nonlinear_Positive_60.ogg": {
+    "size": 9552,
+    "sha256": "c73f02ff833f286af9e0c488c86cbb3b96472702a4bdb33ffc92e03552f0587f"
+  },
+  "StreamingAssets/VO/en/Lux_Act2_Nonlinear_Positive_70.ogg": {
+    "size": 10891,
+    "sha256": "a15e7f28721d1bcbb98c03e637bf37211027ebc47c46ab2ecdf76763c1ff07e4"
+  },
+  "StreamingAssets/VO/en/Lux_Act2_Nonlinear_Positive_80.ogg": {
+    "size": 24277,
+    "sha256": "ba0ce055c05c5d05d7aae039d0c3be84e038e88a147901d4bdfb6c053e3bb63d"
+  },
+  "StreamingAssets/VO/en/Lux_Act2_Nonlinear_Positive_90.ogg": {
+    "size": 16133,
+    "sha256": "62aecf1800abca7c52819c027d2249bf1f9ceb2c20bcb2104f744d4711382c28"
+  },
+  "StreamingAssets/VO/en/Lux_Nonlinear_Negative_10.ogg": {
+    "size": 14787,
+    "sha256": "955af07e8375666d59a6aa4451253a40a5d15446736251084180e3ab252303cb"
+  },
+  "StreamingAssets/VO/en/Lux_Nonlinear_Negative_100.ogg": {
+    "size": 35060,
+    "sha256": "5353683c9d8ea731bab73114f134e88a0f7a58664bf1906bf31615cad2adcf98"
+  },
+  "StreamingAssets/VO/en/Lux_Nonlinear_Negative_110.ogg": {
+    "size": 15426,
+    "sha256": "e8106ca320af5814c5ab98127378d9d9219f78a1e43cbf9ad295cafd2d922ee7"
+  },
+  "StreamingAssets/VO/en/Lux_Nonlinear_Negative_120.ogg": {
+    "size": 8357,
+    "sha256": "3a649622140e591a20dd728df65a11956d1301c1339a48da8fb23f1764afb046"
+  },
+  "StreamingAssets/VO/en/Lux_Nonlinear_Negative_130.ogg": {
+    "size": 8211,
+    "sha256": "a2f0bd54ed26a05899f5ba734d42c95c21dfcd4a9144187a95c4fdd2f2852b1d"
+  },
+  "StreamingAssets/VO/en/Lux_Nonlinear_Negative_140.ogg": {
+    "size": 13213,
+    "sha256": "7172691fc1fb3c90fa7139299ac976fb8c51f2c48431cb92ce6142b22bd316ea"
+  },
+  "StreamingAssets/VO/en/Lux_Nonlinear_Negative_20.ogg": {
+    "size": 11558,
+    "sha256": "7e391aa885d9c11c4c163191f4d5e585080cdd11c4e956cb3399623b526c596e"
+  },
+  "StreamingAssets/VO/en/Lux_Nonlinear_Negative_30.ogg": {
+    "size": 34628,
+    "sha256": "85a7a32887dabd8d6e779dab92e3babf56b97a873e216c704d0e04b435013194"
+  },
+  "StreamingAssets/VO/en/Lux_Nonlinear_Negative_40.ogg": {
+    "size": 19248,
+    "sha256": "a16cf1511d822aae78ae65e67bd65ba3da459dc33bd2a8987aed62d2fa059930"
+  },
+  "StreamingAssets/VO/en/Lux_Nonlinear_Negative_50.ogg": {
+    "size": 17132,
+    "sha256": "b852ee9d0d1682861b957b889b09f9a5fb2331ff8197f80e9b603da38b5227d8"
+  },
+  "StreamingAssets/VO/en/Lux_Nonlinear_Negative_60.ogg": {
+    "size": 15673,
+    "sha256": "a52bed9927cf5ba25cf225ad8f5bd11eeac17fd70cc78b77ec5dcf2ea276209a"
+  },
+  "StreamingAssets/VO/en/Lux_Nonlinear_Negative_70.ogg": {
+    "size": 14949,
+    "sha256": "7c7f26094debf1c05e772e04d43bab72e0cacc8d2fe399af32ac9d343bd5bebc"
+  },
+  "StreamingAssets/VO/en/Lux_Nonlinear_Negative_80.ogg": {
+    "size": 35342,
+    "sha256": "cc0d9a73b53c7119804191e5af7eff4bb295c70d87354a6e15693a13849ef8ae"
+  },
+  "StreamingAssets/VO/en/Lux_Nonlinear_Negative_90.ogg": {
+    "size": 30704,
+    "sha256": "f54c3047c2e5ed7b6c394d5deae1bc6cdf96f4bffb10a5040967d012160127bd"
+  },
+  "StreamingAssets/VO/en/Lux_Nonlinear_Neutral_10.ogg": {
+    "size": 16499,
+    "sha256": "511fbbb7cc545b24cbdffa93c1220d21067fec9c4651e1d4bfae1ae162309e6b"
+  },
+  "StreamingAssets/VO/en/Lux_Nonlinear_Neutral_100.ogg": {
+    "size": 11360,
+    "sha256": "195016408426a6a1c64a0d170dc517e0c385400f6c6614da726e1d4fe0358bc6"
+  },
+  "StreamingAssets/VO/en/Lux_Nonlinear_Neutral_110.ogg": {
+    "size": 18273,
+    "sha256": "a606785bfb751a9f0c3031884984234938d045660326ae7a64b2f95f2289ad8a"
+  },
+  "StreamingAssets/VO/en/Lux_Nonlinear_Neutral_120.ogg": {
+    "size": 14736,
+    "sha256": "3263956664676bf81628d70cfc843c56618f56e3ef7e7fc8d004ddb32c5edb50"
+  },
+  "StreamingAssets/VO/en/Lux_Nonlinear_Neutral_130.ogg": {
+    "size": 38008,
+    "sha256": "efec0222f8f23a8205781074ee4c2abb00be34afd2c1693f63febe3cc86d78de"
+  },
+  "StreamingAssets/VO/en/Lux_Nonlinear_Neutral_20.ogg": {
+    "size": 22005,
+    "sha256": "b215974a0f554b0a03070e30d0c603f832c811eba86387db5db6eb5d9d8ed25a"
+  },
+  "StreamingAssets/VO/en/Lux_Nonlinear_Neutral_30.ogg": {
+    "size": 16620,
+    "sha256": "cabdc56b4c672afe17cd3ce18deb73468896931b46599a447e5734ba8874b43e"
+  },
+  "StreamingAssets/VO/en/Lux_Nonlinear_Neutral_40.ogg": {
+    "size": 16006,
+    "sha256": "e2b23bb3237c284344ceb206b969e10aff59a50e56907b110f169e3f4ac357db"
+  },
+  "StreamingAssets/VO/en/Lux_Nonlinear_Neutral_50.ogg": {
+    "size": 22335,
+    "sha256": "e808c51be6f15485d128cb35a6194d1309852e68b46353d41661296988ab1c11"
+  },
+  "StreamingAssets/VO/en/Lux_Nonlinear_Neutral_60.ogg": {
+    "size": 35916,
+    "sha256": "5e253ec8c6732e54189ff929b240b7acb39975bb389ea6e8897db987e934316c"
+  },
+  "StreamingAssets/VO/en/Lux_Nonlinear_Neutral_70.ogg": {
+    "size": 28244,
+    "sha256": "8dcf4cac6241211caa8e9f9b4d0d82eae07460b80fefd20a2ddd6125eab0eb66"
+  },
+  "StreamingAssets/VO/en/Lux_Nonlinear_Neutral_80.ogg": {
+    "size": 18296,
+    "sha256": "f0550794ac14259d55a11079c099b8351a194b77328dbb0f7dc5c8bca14525dc"
+  },
+  "StreamingAssets/VO/en/Lux_Nonlinear_Neutral_90.ogg": {
+    "size": 15474,
+    "sha256": "fae35695c0b3b80d3928af55b5e961a9cb26be9fbfae1ca44e4fb0b3ab3461e2"
+  },
+  "StreamingAssets/VO/en/Lux_Nonlinear_Positive_10.ogg": {
+    "size": 13651,
+    "sha256": "bc527e912e3a261c3e29ef1083e1324ed32b2f62075d80d820584b80c88a7df2"
+  },
+  "StreamingAssets/VO/en/Lux_Nonlinear_Positive_100.ogg": {
+    "size": 8288,
+    "sha256": "9cc5a9b37eeae44e21100c6a5713fd325eb9556a437140803cfc84847c070825"
+  },
+  "StreamingAssets/VO/en/Lux_Nonlinear_Positive_110.ogg": {
+    "size": 17794,
+    "sha256": "2b31a48eada8ce71077bd8e35d6e447dd500c8913fc3c5eb1dec3184bca3743d"
+  },
+  "StreamingAssets/VO/en/Lux_Nonlinear_Positive_120.ogg": {
+    "size": 13430,
+    "sha256": "72ee62e9d7f24dfc3f1f2468d48d3a6ade5d8f3cc7a47aa01eff0b8c07938a1d"
+  },
+  "StreamingAssets/VO/en/Lux_Nonlinear_Positive_15.ogg": {
+    "size": 26589,
+    "sha256": "703746e886da39190c8b2bc87b23842c24d7130cf7aa29dbcf07948d06ab0a44"
+  },
+  "StreamingAssets/VO/en/Lux_Nonlinear_Positive_20.ogg": {
+    "size": 26452,
+    "sha256": "05675470f7c2ea871c32d0c4dd812580277e139828ec0f81ad4ac05c62eae7dc"
+  },
+  "StreamingAssets/VO/en/Lux_Nonlinear_Positive_30.ogg": {
+    "size": 20465,
+    "sha256": "e0b291fc3553a8bfa4d0bc498a77379caa24649ae7bc0a8c5feda56fe394fe68"
+  },
+  "StreamingAssets/VO/en/Lux_Nonlinear_Positive_40.ogg": {
+    "size": 18634,
+    "sha256": "2bfe9a653c734158cd918bea955f2ee39379f6f1f89d11ef230a051b31bfc2c5"
+  },
+  "StreamingAssets/VO/en/Lux_Nonlinear_Positive_50.ogg": {
+    "size": 10486,
+    "sha256": "ad7167416391d070b810b7ed93f94ed922e68b21832398f713c267f6a9250ae4"
+  },
+  "StreamingAssets/VO/en/Lux_Nonlinear_Positive_60.ogg": {
+    "size": 24692,
+    "sha256": "a275681895b101e16d277a0b55b0bde3dafc53394df80f712ddaf2ac09ac9a10"
+  },
+  "StreamingAssets/VO/en/Lux_Nonlinear_Positive_70.ogg": {
+    "size": 18122,
+    "sha256": "67feee464db51d8ef18eff850c71c2e7a94136e232ebce827ea16773bcea0da4"
+  },
+  "StreamingAssets/VO/en/Lux_Nonlinear_Positive_80.ogg": {
+    "size": 14897,
+    "sha256": "bfd49e40abe1c239cc2902f348e439c0884f298b3c39d5fda56901db27eadf41"
+  },
+  "StreamingAssets/VO/en/Lux_Nonlinear_Positive_90.ogg": {
+    "size": 24033,
+    "sha256": "482692af28916f2db8fa331ca7914daadbbda69494d573a8b1ca22376f404d58"
+  },
+  "StreamingAssets/VO/en/Tianna_Act1_ClosingMonologue_10.ogg": {
+    "size": 112326,
+    "sha256": "a47e8541393037ad1f9c55049f9a3ae5d8019ed00b57c2e9d0b0bcc634fa8b85"
+  },
+  "StreamingAssets/VO/en/Tianna_Act1_ClosingMonologue_15.ogg": {
+    "size": 52385,
+    "sha256": "5d588978f692b7e0e96600b51923885a52d4d5c7de45aa563bd74a5c9a963d4e"
+  },
+  "StreamingAssets/VO/en/Tianna_Act1_ClosingMonologue_20.ogg": {
+    "size": 73533,
+    "sha256": "6c37957488276e6c1a1d8346be681f7bc1736d34c6b2b96a47ceef0c20e1af3c"
+  },
+  "StreamingAssets/VO/en/Tianna_Act1_ClosingMonologue_25.ogg": {
+    "size": 97862,
+    "sha256": "5b2ef01e11224b0bfd3e0bc76e311c0e543760200a146b8888c12f08669ac979"
+  },
+  "StreamingAssets/VO/en/Tianna_Act1_OpeningMonologue_10.ogg": {
+    "size": 81974,
+    "sha256": "0d60e0955ce9afcf262b5a3f46b40e4fccff01563f578a91223661dc6a261ddb"
+  },
+  "StreamingAssets/VO/en/Tianna_Act1_OpeningMonologue_15.ogg": {
+    "size": 66280,
+    "sha256": "9b53dfa01f96c2ced69c26084289f69addb75f137e7f6a9439e2d8cdb4ba30d6"
+  },
+  "StreamingAssets/VO/en/Tianna_Act1_OpeningMonologue_20.ogg": {
+    "size": 35392,
+    "sha256": "210d59e1444f4acdaef76eee4cfdec78e56afcd4ce62c5b744b61974ceaee419"
+  },
+  "StreamingAssets/VO/en/Tianna_Act1_OpeningMonologue_25.ogg": {
+    "size": 102631,
+    "sha256": "05de0fa3062749d9df4d42077d2b5bacbc0e261a9df5676492acd0a2667a372d"
+  },
+  "StreamingAssets/VO/en/Tianna_Act2_ClosingMonologue_10.ogg": {
+    "size": 80807,
+    "sha256": "5d13d43b7744670ab4a59aba2c96fb7cb23e6740f99c9c5e13cd7bfa916be38b"
+  },
+  "StreamingAssets/VO/en/Tianna_Act2_ClosingMonologue_15.ogg": {
+    "size": 117847,
+    "sha256": "03a975e6aaced4a3a5683bf896e5b2e176e38580182c7287c7105bdea417713d"
+  },
+  "StreamingAssets/VO/en/Tianna_Act2_ClosingMonologue_20.ogg": {
+    "size": 55460,
+    "sha256": "49acfcff86dd37c09322375a331f256f4def23b3f77154d200d0a3eef5c6e177"
+  },
+  "StreamingAssets/VO/en/Tianna_Act2_ClosingMonologue_22.ogg": {
+    "size": 64691,
+    "sha256": "ba575e12bd9ff46916441c895de3af6b4e2184e190ceaf3258e72cbb5cb575cf"
+  },
+  "StreamingAssets/VO/en/Tianna_Act2_ClosingMonologue_25.ogg": {
+    "size": 54752,
+    "sha256": "eb1e26a039fba8f99b56ec7c767ecee4ca5df9088242a6867e772b2180525818"
+  },
+  "StreamingAssets/VO/en/Tianna_Act2_Nonlinear_Negative_10.ogg": {
+    "size": 25502,
+    "sha256": "0f48a13f30c3417754d7c2f494c1f5b9e5738af71d73f3e577c48fde0cf75b68"
+  },
+  "StreamingAssets/VO/en/Tianna_Act2_Nonlinear_Negative_20.ogg": {
+    "size": 24894,
+    "sha256": "099093b62b4d32a5f85825a6b814a6f575d25fe256a508207fc8561a87586ec1"
+  },
+  "StreamingAssets/VO/en/Tianna_Act2_Nonlinear_Negative_30.ogg": {
+    "size": 54963,
+    "sha256": "d7ed13bbaa3b695ffc7870dd21f0f31ccd89c61f0a15f9f566ce5104f17d5e98"
+  },
+  "StreamingAssets/VO/en/Tianna_Act2_Nonlinear_Negative_40.ogg": {
+    "size": 28438,
+    "sha256": "8b68639d816f11b8e634d34a228b169cf725fd20d92e4afcf2a505d02d730175"
+  },
+  "StreamingAssets/VO/en/Tianna_Act2_Nonlinear_Negative_50.ogg": {
+    "size": 13560,
+    "sha256": "eeec19c4bee6f7c3cc5e45c4ef888b60748eaf8925f19cde77e8a5a870edf3d9"
+  },
+  "StreamingAssets/VO/en/Tianna_Act2_Nonlinear_Negative_60.ogg": {
+    "size": 31663,
+    "sha256": "83391826e611ff64d1727888b55e642e3846599ba59b016fae45c0ec6b8f7df5"
+  },
+  "StreamingAssets/VO/en/Tianna_Act2_Nonlinear_Neutral_10.ogg": {
+    "size": 20313,
+    "sha256": "4c1f67af398a97f9944de1646df2f3d2673c3b0df86337684c959b18d14e36d0"
+  },
+  "StreamingAssets/VO/en/Tianna_Act2_Nonlinear_Neutral_20.ogg": {
+    "size": 12875,
+    "sha256": "9e4d4b49992e989323466540723aec934198317d9f19c68fd12c44ef4c77264c"
+  },
+  "StreamingAssets/VO/en/Tianna_Act2_Nonlinear_Neutral_30.ogg": {
+    "size": 26725,
+    "sha256": "3a97df052fc973588f67aa2742321a134599b482110582928d6c2b7ef30468ae"
+  },
+  "StreamingAssets/VO/en/Tianna_Act2_Nonlinear_Neutral_40.ogg": {
+    "size": 41396,
+    "sha256": "f3e1ef7b1f6083ea8a64e3dac9fe04b4176396c99c9ce10abfb5c574a86783c8"
+  },
+  "StreamingAssets/VO/en/Tianna_Act2_Nonlinear_Neutral_50.ogg": {
+    "size": 47241,
+    "sha256": "48674da3139dd7244e34b0675e7466d2ff69fa75c4e118485aa7fe86d658dda9"
+  },
+  "StreamingAssets/VO/en/Tianna_Act2_Nonlinear_Neutral_60.ogg": {
+    "size": 34194,
+    "sha256": "85679d5dfee995e22a2626355879031b8a48b1539f014b255a7c0f883f9d2ffd"
+  },
+  "StreamingAssets/VO/en/Tianna_Act2_Nonlinear_Neutral_70.ogg": {
+    "size": 26814,
+    "sha256": "2d3fa2445259d0ef5fb34c66be441cce0dcd2c07658ec2f927e176fde4085f85"
+  },
+  "StreamingAssets/VO/en/Tianna_Act2_Nonlinear_Positive_10.ogg": {
+    "size": 38587,
+    "sha256": "2ffd1a7d15282dae0d1473282a7298c45fbd378fe97634712c33e7c270d219ad"
+  },
+  "StreamingAssets/VO/en/Tianna_Act2_Nonlinear_Positive_20.ogg": {
+    "size": 24292,
+    "sha256": "4b42c3b8ca103135ec6d1763c58bb9f64e013449acc71f63eebb59e65de0b152"
+  },
+  "StreamingAssets/VO/en/Tianna_Act2_Nonlinear_Positive_30.ogg": {
+    "size": 35712,
+    "sha256": "35f4a193a7fc7961358881b6e0375f80ee9b5ae1960461674ff75a332c3375bd"
+  },
+  "StreamingAssets/VO/en/Tianna_Act2_Nonlinear_Positive_40.ogg": {
+    "size": 24967,
+    "sha256": "cc6a19a674a81ee37a3e3a25ce0e205afdb6028c2456cbbbd4d8bd8aa2beccdd"
+  },
+  "StreamingAssets/VO/en/Tianna_Act2_Nonlinear_Positive_50.ogg": {
+    "size": 28094,
+    "sha256": "612b8b86aaa445df29a559cd2dc8b66e6987a9a41fdbb000153cf44d90f1b1fe"
+  },
+  "StreamingAssets/VO/en/Tianna_Act2_Nonlinear_Positive_60.ogg": {
+    "size": 41415,
+    "sha256": "96afa72b62ccce59ce8607725c1edccb3208af2cf7114a14725b7193c8ef7908"
+  },
+  "StreamingAssets/VO/en/Tianna_Act2_OpeningMonologue_10.ogg": {
+    "size": 66124,
+    "sha256": "5cd855b5e728894d482d6a96aa21eb7d1050b774f5e710c02e0b50d353cc0c95"
+  },
+  "StreamingAssets/VO/en/Tianna_Act2_OpeningMonologue_15.ogg": {
+    "size": 103903,
+    "sha256": "4bfa00107223394ff555eba6ab498a6c52de22e484a9509df6e63252c1e4206e"
+  },
+  "StreamingAssets/VO/en/Tianna_Act2_OpeningMonologue_20.ogg": {
+    "size": 125727,
+    "sha256": "c366510a369761d14f4e125cb6bb58b9555b7440440a1093883c4c03bff88845"
+  },
+  "StreamingAssets/VO/en/Tianna_AllyIntro_10.ogg": {
+    "size": 49957,
+    "sha256": "56cee69c216002f3842941e2736fd7e1bc525cd928600b198085d5c7450d6d5a"
+  },
+  "StreamingAssets/VO/en/Tianna_AllyIntro_15.ogg": {
+    "size": 76963,
+    "sha256": "f7afa97f6786da6dd7777467edd636455808e8803f715696b41994c02575b58b"
+  },
+  "StreamingAssets/VO/en/Tianna_AllyIntro_20.ogg": {
+    "size": 37688,
+    "sha256": "f062462042cd3bf5493870f80b59e868476204fb74e0d38cb1e7deb59d5313ea"
+  },
+  "StreamingAssets/VO/en/Tianna_AllyIntro_25.ogg": {
+    "size": 92648,
+    "sha256": "5c433e16ae9c26cc53ab392eaa88f50e8e0fb8850de91bdefdaba4b026726785"
+  },
+  "StreamingAssets/VO/en/Tianna_AllyIntro_30.ogg": {
+    "size": 71207,
+    "sha256": "f4d35ea71cdff3553472b9749700892c661a09d1980430410dca54bab2fcdbf9"
+  },
+  "StreamingAssets/VO/en/Tianna_AllyIntro_35.ogg": {
+    "size": 107693,
+    "sha256": "c6b2ef7216625a8275a6d6e075d78dd9fb23a53c3aa64c4035f015bd0cc2323d"
+  },
+  "StreamingAssets/VO/en/Tianna_AllyIntro_40.ogg": {
+    "size": 69080,
+    "sha256": "3ca835201c895ac419a5ef784d342c24fda4c3205ff02acab3c747084af569b0"
+  },
+  "StreamingAssets/VO/en/Tianna_AllyIntro_45.ogg": {
+    "size": 52400,
+    "sha256": "1263c5b23330cfd4192f4759e409e0a3eade2c47efa6f4c2f8962fa40d4e1335"
+  },
+  "StreamingAssets/VO/en/Tianna_AllyIntro_50.ogg": {
+    "size": 50598,
+    "sha256": "79530ec20efe1acecebd5984d0e9c75dd0c8ea8306d4829d1b77846174d61081"
+  },
+  "StreamingAssets/VO/en/Tianna_AllyIntro_55.ogg": {
+    "size": 92121,
+    "sha256": "a2a2a1054c0c43e57ed81539d592532a90f899d9c37b9e03f63f13a96005e9f1"
+  },
+  "StreamingAssets/VO/en/Tianna_AllyIntro_60.ogg": {
+    "size": 113462,
+    "sha256": "876cd9837a07c4c829090889e57f4a0525308f6636695435fa250e77d2fdb093"
+  },
+  "StreamingAssets/VO/en/Tianna_AllyIntro_70.ogg": {
+    "size": 68797,
+    "sha256": "30b33f58a2c690a99224edba18d5e368b091ecc50a8754d9b20e2880586f81b7"
+  },
+  "StreamingAssets/VO/en/Tianna_AllyIntro_75.ogg": {
+    "size": 79321,
+    "sha256": "6c8ef5fda3505671c0c92a884869decf09512bba620f4141b7433f3eea3f47cb"
+  },
+  "StreamingAssets/VO/en/Tianna_AllyIntro_80.ogg": {
+    "size": 70198,
+    "sha256": "993a407e23ae229c6ab9c4ac62224cbbe679c22752c51fc864b45e57a5227403"
+  },
+  "StreamingAssets/VO/en/Tianna_AllyIntro_85.ogg": {
+    "size": 82402,
+    "sha256": "4d0e001bffb06b5dc559ec854195a27e88ad3c688f7c5059760f128017de7a60"
+  },
+  "StreamingAssets/VO/en/Tianna_AllyUnit_10.ogg": {
+    "size": 68591,
+    "sha256": "bc812fa1e6d48a2cf6e59bd916c53a518da1d20198b308a917979285d377244b"
+  },
+  "StreamingAssets/VO/en/Tianna_AllyUnit_20.ogg": {
+    "size": 74912,
+    "sha256": "b1d9d6c267006efd15a4b0e3c8005a1bda5bd2aa97c7b5004581bbbe4f70d1ae"
+  },
+  "StreamingAssets/VO/en/Tianna_AllyUnit_30.ogg": {
+    "size": 92161,
+    "sha256": "9473e9d58cb092a6aca5fe5c59c45409c0dbdf2e7878c52dba9e692d72e8d3fe"
+  },
+  "StreamingAssets/VO/en/Tianna_AllyUnit_40.ogg": {
+    "size": 106175,
+    "sha256": "2897a8c0b6ec35134a1dd859f88e247f4c7b4de6bf9b08de6c2acdbd5db79b07"
+  },
+  "StreamingAssets/VO/en/Tianna_AnyStoryMoment_10.ogg": {
+    "size": 39340,
+    "sha256": "ed888aa48338b9cba96842ea18c8e2cfe4b699106524f86bd35e4aaa509fdafa"
+  },
+  "StreamingAssets/VO/en/Tianna_AnyStoryMoment_20.ogg": {
+    "size": 72388,
+    "sha256": "a184a8ddda4da4d8a0ecc02691cb6f260aa520134075b215aba6031079744c92"
+  },
+  "StreamingAssets/VO/en/Tianna_AnyStoryMoment_30.ogg": {
+    "size": 31205,
+    "sha256": "df15dd33ad76b85cb56d9776243be1ca05d5166bf1483dfc9a3db306953f6a0a"
+  },
+  "StreamingAssets/VO/en/Tianna_BuildingComplete_10.ogg": {
+    "size": 26915,
+    "sha256": "cfa94a4d07f8f9210dc1c650f4dde3e33d76af91df60050945d8a4570c3c56e1"
+  },
+  "StreamingAssets/VO/en/Tianna_BuildingComplete_20.ogg": {
+    "size": 49794,
+    "sha256": "736adaa3be92db0584faa838383cf5f87421531e9807271f40b548f813eebfe0"
+  },
+  "StreamingAssets/VO/en/Tianna_BuildingComplete_30.ogg": {
+    "size": 63644,
+    "sha256": "a8bcc11c767baecba873dc12cbb9982e38a5a1decd6ed58102c82f269854f022"
+  },
+  "StreamingAssets/VO/en/Tianna_BuildingComplete_40.ogg": {
+    "size": 82120,
+    "sha256": "85de067299b50a023384f0f8302a40d83d40dd92ff179009f8db6df5df3556b8"
+  },
+  "StreamingAssets/VO/en/Tianna_BuildingComplete_50.ogg": {
+    "size": 47754,
+    "sha256": "4afd33622f8375ec009fc6afdb2087c6c88da416bc2f5baf87ed968edd63c7ce"
+  },
+  "StreamingAssets/VO/en/Tianna_BuildingComplete_60.ogg": {
+    "size": 73165,
+    "sha256": "47c6e4bddbe416d8b7b3a6aafada47453a5b8cb32138fb1bd75d810bb2663122"
+  },
+  "StreamingAssets/VO/en/Tianna_BuildingComplete_70.ogg": {
+    "size": 78731,
+    "sha256": "3cfe68b39e1e0dbfc4d939ae87c1ab13128fd590f821fb6d1be9a144929fd4af"
+  },
+  "StreamingAssets/VO/en/Tianna_BuildingComplete_80.ogg": {
+    "size": 78499,
+    "sha256": "d345765000ca80c44b81b5b23328a88ccc5d98d71f276299551776e1432a228e"
+  },
+  "StreamingAssets/VO/en/Tianna_CombatLose_10.ogg": {
+    "size": 52815,
+    "sha256": "125ef3c4c449c1ad1cc0622df4f9236919a90751806fccc24f0bdabd757b4abd"
+  },
+  "StreamingAssets/VO/en/Tianna_CombatLose_20.ogg": {
+    "size": 68037,
+    "sha256": "7ed3e24248ec344086d05949cf6eeea1c51504c7aaed24c14a0705a1c9237f7b"
+  },
+  "StreamingAssets/VO/en/Tianna_CombatLose_30.ogg": {
+    "size": 44185,
+    "sha256": "64b913913eae217186f90af43d64dbedb0016995445f9d4d92967dabfc713be3"
+  },
+  "StreamingAssets/VO/en/Tianna_CombatLose_40.ogg": {
+    "size": 61366,
+    "sha256": "8d160e653201b4440837fe90a7b516132e3ce7a966b296636bb438069fbf21e5"
+  },
+  "StreamingAssets/VO/en/Tianna_CombatLose_50.ogg": {
+    "size": 48545,
+    "sha256": "a468cb3a827de3215fe0999940a4df44fbd8313c19453a88d834baacedeabe1f"
+  },
+  "StreamingAssets/VO/en/Tianna_CombatStart_10.ogg": {
+    "size": 35425,
+    "sha256": "f6f2828f48be9ca8ed2e511c6e8204c7b24ad2e352b8a3e327be182196e9d133"
+  },
+  "StreamingAssets/VO/en/Tianna_CombatStart_20.ogg": {
+    "size": 48537,
+    "sha256": "5733b83ade5afec37ed7195de62ce98b7c352f486dcfcfad594d034ca28f2c68"
+  },
+  "StreamingAssets/VO/en/Tianna_CombatStart_30.ogg": {
+    "size": 52529,
+    "sha256": "3706015f9000178371c989edeafdf37df250a8df705c88ab10c0e94fd0f06e55"
+  },
+  "StreamingAssets/VO/en/Tianna_CombatStart_40.ogg": {
+    "size": 43863,
+    "sha256": "449e053abaa799a3b7e243c6c5de218472b99bda6d839ec6948b7e327c77f41a"
+  },
+  "StreamingAssets/VO/en/Tianna_CombatStart_50.ogg": {
+    "size": 21695,
+    "sha256": "34752b39fe6d194400677cc010dd75f2ed3052df0e8275e148965d57f49d6482"
+  },
+  "StreamingAssets/VO/en/Tianna_CombatWin_10.ogg": {
+    "size": 82918,
+    "sha256": "9b182e11de66c5e531fe4cdbd7eddbf6077d6d2c403e1592d4ec86ee90f0b182"
+  },
+  "StreamingAssets/VO/en/Tianna_CombatWin_15.ogg": {
+    "size": 16388,
+    "sha256": "3d91d366df37d0f6a887a1a504967132b6a82cd04a6604fe0b4fe353cfb0aeef"
+  },
+  "StreamingAssets/VO/en/Tianna_CombatWin_17.ogg": {
+    "size": 64369,
+    "sha256": "3021fda81b1df9afb27df657249f74d60222fe0321f179f6e09d2a6dd95d3e43"
+  },
+  "StreamingAssets/VO/en/Tianna_CombatWin_20.ogg": {
+    "size": 29575,
+    "sha256": "9ad6a253cd4e21a470bda34826956724205eb5b2fc9e5efbfb4b224ab65897d5"
+  },
+  "StreamingAssets/VO/en/Tianna_CombatWin_30.ogg": {
+    "size": 37468,
+    "sha256": "f368c9f78a0fd0d42882a34875b5eade9237b6c96fe614c06b57ec26d32fba46"
+  },
+  "StreamingAssets/VO/en/Tianna_CombatWin_40.ogg": {
+    "size": 36543,
+    "sha256": "a542bbe1116072509606831c8d7449eb0dd8bfab3f0496d48074478c6094c15d"
+  },
+  "StreamingAssets/VO/en/Tianna_CombatWin_50.ogg": {
+    "size": 53713,
+    "sha256": "511846617317979a12924ea0a7f3646a06f5e6f609a7ca04ecc1dae95f60ce6f"
+  },
+  "StreamingAssets/VO/en/Tianna_CombatWin_60.ogg": {
+    "size": 54896,
+    "sha256": "4c893e26ca74eb60a18507b883d6cb6e1229e9153f9fdcf9c966992753d62efd"
+  },
+  "StreamingAssets/VO/en/Tianna_EnemyUnit_10.ogg": {
+    "size": 70401,
+    "sha256": "63c3ec59fe4bea6babd3e5034189fb54da3e0b0828f964fb5fde0f82745e983f"
+  },
+  "StreamingAssets/VO/en/Tianna_EnemyUnit_100.ogg": {
+    "size": 99012,
+    "sha256": "5366f894e46e686e230f9d3046013b6f98d0d4f37ff93dc03c647d078a5255d8"
+  },
+  "StreamingAssets/VO/en/Tianna_EnemyUnit_15.ogg": {
+    "size": 60776,
+    "sha256": "016a55f0c47b33208ea004d8bc5d3a121502f84c4202fd2e888c399f2250e656"
+  },
+  "StreamingAssets/VO/en/Tianna_EnemyUnit_20.ogg": {
+    "size": 90562,
+    "sha256": "718f9b8c40ccf85c84514ca4aad4be97f3530b5f141bb300b4153df86f3fd460"
+  },
+  "StreamingAssets/VO/en/Tianna_EnemyUnit_30.ogg": {
+    "size": 100306,
+    "sha256": "4da4f56ea0c0c3ba7996ae887557d9c9ff4b4aa6ecbadb7d95b04b16c6c92d66"
+  },
+  "StreamingAssets/VO/en/Tianna_EnemyUnit_40.ogg": {
+    "size": 94630,
+    "sha256": "213a2f3e9027eb8391b4bdad68073bbaac4673bcd034b6815cbfbe8225189901"
+  },
+  "StreamingAssets/VO/en/Tianna_EnemyUnit_50.ogg": {
+    "size": 110600,
+    "sha256": "28942ee5fbcaab1bc556b44c2c4f1fbf3577da3e2d2deb63a6e8013ac7265dc3"
+  },
+  "StreamingAssets/VO/en/Tianna_EnemyUnit_60.ogg": {
+    "size": 64626,
+    "sha256": "d7bdd844d58edae2e2bfac80acd1b9a8562aea6d4e01bffbbc29c8f0d59ecb77"
+  },
+  "StreamingAssets/VO/en/Tianna_EnemyUnit_70.ogg": {
+    "size": 115480,
+    "sha256": "a19776a785d750da0d7b55b53d58284d9db8d1c01ae355c4bfad4fe57cc682df"
+  },
+  "StreamingAssets/VO/en/Tianna_EnemyUnit_80.ogg": {
+    "size": 107970,
+    "sha256": "aea2684775d56c493da2d713a31899baec35b5311031c9fb6de37e8569281210"
+  },
+  "StreamingAssets/VO/en/Tianna_EnemyUnit_90.ogg": {
+    "size": 91641,
+    "sha256": "c8807f4d85655941997c495e130f6de39311f7e0def5420bb55ef2292e7b9db0"
+  },
+  "StreamingAssets/VO/en/Tianna_GatherResource_10.ogg": {
+    "size": 52150,
+    "sha256": "fa2d394b934077b591b9c2a18a39bbfffcc2a5972a4df77656eedabd0d21e690"
+  },
+  "StreamingAssets/VO/en/Tianna_GatherResource_20.ogg": {
+    "size": 52158,
+    "sha256": "00be987871b621372e19423171c8da0730727b5b8ce6e71012f275e270402051"
+  },
+  "StreamingAssets/VO/en/Tianna_GatherResource_30.ogg": {
+    "size": 43338,
+    "sha256": "28a6fee8b1ed6f0a3473e7536e19f1a17ab7138f1dccb499b3c00fe8e3e812c0"
+  },
+  "StreamingAssets/VO/en/Tianna_GatherResource_40.ogg": {
+    "size": 69274,
+    "sha256": "de3f339a713fa22a02edaf09cad68474c5e0b3569349a0a3162d0eee4a90eae5"
+  },
+  "StreamingAssets/VO/en/Tianna_GatherResource_50.ogg": {
+    "size": 70309,
+    "sha256": "8acb5ea82947b0d383768fdd914a6dde5696cbbefe622b0fc7306316ca803888"
+  },
+  "StreamingAssets/VO/en/Tianna_GatherResource_60.ogg": {
+    "size": 76311,
+    "sha256": "6e9b1c30b6294ae8e2745813138c7146be1d1b3fb85f930df1cb202cd1b82b78"
+  },
+  "StreamingAssets/VO/en/Tianna_GatherResource_70.ogg": {
+    "size": 62487,
+    "sha256": "6fd4d2d684bcc4aa9c6405afc0df98f2be5f6f67de128c80a0676d7d8774c8c9"
+  },
+  "StreamingAssets/VO/en/Tianna_GatherResource_80.ogg": {
+    "size": 72702,
+    "sha256": "e6dd700580540acd205383bb697c9e9bc1682ead3d81085c33250f23d7383aa4"
+  },
+  "StreamingAssets/VO/en/Tianna_LowResource_10.ogg": {
+    "size": 57536,
+    "sha256": "a56cea21c661ca0394ec3d999a6f720ff54a9bed9f267348b88d025839c22151"
+  },
+  "StreamingAssets/VO/en/Tianna_LowResource_20.ogg": {
+    "size": 71484,
+    "sha256": "c501c11edbf13198debaa20b33254da51147eb5eb9bb6553e07e003826a74508"
+  },
+  "StreamingAssets/VO/en/Tianna_LowResource_30.ogg": {
+    "size": 70473,
+    "sha256": "794419a626fca1b6e002feda0c80bf71a781fa6d8b76f816a9db82221ef5d452"
+  },
+  "StreamingAssets/VO/en/Tianna_LowResource_40.ogg": {
+    "size": 61776,
+    "sha256": "9e01c83c31292a9add85a0738113ae82c440ef5eb75387e0747115dc17ebfd82"
+  },
+  "StreamingAssets/VO/en/Tianna_LowResource_50.ogg": {
+    "size": 72833,
+    "sha256": "1be9356bfa2f5462f2561c322410a236e8b431ed6271b88b3903a9877fab69bf"
+  },
+  "StreamingAssets/VO/en/Tianna_LowResource_60.ogg": {
+    "size": 70821,
+    "sha256": "2fdce80caac764482d93920729896fa6b511e154981c921caba37ac4bbc52c85"
+  },
+  "StreamingAssets/VO/en/Tianna_LowResource_70.ogg": {
+    "size": 51191,
+    "sha256": "02ab8e4bfec4873a496a8bf123ad91c7f75b0b8fc90e0b2f201c666569ad565d"
+  },
+  "StreamingAssets/VO/en/Tianna_LowResource_80.ogg": {
+    "size": 56835,
+    "sha256": "da6c0b684d36965efe19de5deb3f5fad0f12fca00bf6925cd259727ef1323418"
+  },
+  "StreamingAssets/VO/en/Tianna_MapThreat_10.ogg": {
+    "size": 70549,
+    "sha256": "7668b521ad20a638980630195010959031af30ef943cfc621eb5c765c44abba4"
+  },
+  "StreamingAssets/VO/en/Tianna_MapThreat_20.ogg": {
+    "size": 64961,
+    "sha256": "5867f9249ed5ce37049a58b93c1052be45b8d81e7be499ec383ae69bfad8f720"
+  },
+  "StreamingAssets/VO/en/Tianna_MapThreat_30.ogg": {
+    "size": 51377,
+    "sha256": "5f51d69b3b5a4e0c7b30139d053288fbe74aea49ad64f82ed1d2c6468dbc5aa3"
+  },
+  "StreamingAssets/VO/en/Tianna_MapThreat_40.ogg": {
+    "size": 54948,
+    "sha256": "451f350c91d5e9f6ba4bb806949ce37378da2f6aaaa61a86f98e3cc8955c148d"
+  },
+  "StreamingAssets/VO/en/Tianna_MapThreat_50.ogg": {
+    "size": 77730,
+    "sha256": "d745ab7d860e965679ef1011f25ba9a6cf7e5073d550fa0d4b9bd664f1daf22c"
+  },
+  "StreamingAssets/VO/en/Tianna_MapThreat_60.ogg": {
+    "size": 65944,
+    "sha256": "232b8f49ddb9fee69de66ba3254d682b0b9fe5023e309938b94e52987cb76d44"
+  },
+  "StreamingAssets/VO/en/Tianna_MapThreat_70.ogg": {
+    "size": 74073,
+    "sha256": "a94d9be5cfc76e8db1c6717c6d1ff3d6c177669d928109827515b8a74d7f01e1"
+  },
+  "StreamingAssets/VO/en/Tianna_MoveTroops_10.ogg": {
+    "size": 59503,
+    "sha256": "138b2c5d835cd6be68c13d4427171204cca2607eb02ea705b3cc08eae3acf128"
+  },
+  "StreamingAssets/VO/en/Tianna_MoveTroops_20.ogg": {
+    "size": 55650,
+    "sha256": "2fc669aadf14290a6e2d257a7c5f47abf69b47fd33d632b3189b091980ee0793"
+  },
+  "StreamingAssets/VO/en/Tianna_MoveTroops_30.ogg": {
+    "size": 91711,
+    "sha256": "cd3b56a8aca609de9a4baca9edcbca5b8aa4945b1b5dfeb77fcfc17738fc1d50"
+  },
+  "StreamingAssets/VO/en/Tianna_MoveTroops_40.ogg": {
+    "size": 54357,
+    "sha256": "adebe67a6b8e309559e734b760d3462375e24fc0e2e031e268cb6d040e96710e"
+  },
+  "StreamingAssets/VO/en/Tianna_MoveTroops_50.ogg": {
+    "size": 54223,
+    "sha256": "5dd211e9c28dfe7ded2c30c5fb85e7ca47b963f915b4be9fe5aeb96f9c792195"
+  },
+  "StreamingAssets/VO/en/Tianna_Nonlinear_Negative_10.ogg": {
+    "size": 17219,
+    "sha256": "3d24264380c0ecf86d36716a237a08d3f39916c7352b0dccd88acef08abf6711"
+  },
+  "StreamingAssets/VO/en/Tianna_Nonlinear_Negative_100.ogg": {
+    "size": 17063,
+    "sha256": "de57acf0386e51ea3f4779c5450c72451d6da32fd9b03514ecb8b63dd0986f35"
+  },
+  "StreamingAssets/VO/en/Tianna_Nonlinear_Negative_110.ogg": {
+    "size": 13397,
+    "sha256": "d38eb8f29b091be594ec2918f460ea8e15e0a0fd57ad29187919f98392cb5c51"
+  },
+  "StreamingAssets/VO/en/Tianna_Nonlinear_Negative_120.ogg": {
+    "size": 17649,
+    "sha256": "9086d87091562409fc30c0f19913142ee5329359f49c249196c90d20f829a090"
+  },
+  "StreamingAssets/VO/en/Tianna_Nonlinear_Negative_130.ogg": {
+    "size": 17621,
+    "sha256": "b764c07f040df13a6b371141842c26fbe9318e5ad92dc3031b81259141140088"
+  },
+  "StreamingAssets/VO/en/Tianna_Nonlinear_Negative_140.ogg": {
+    "size": 37953,
+    "sha256": "cbf4122bcb25d2a06e51c98258c41809f67344c80d675a2abf8c0f88e252d86a"
+  },
+  "StreamingAssets/VO/en/Tianna_Nonlinear_Negative_20.ogg": {
+    "size": 22044,
+    "sha256": "ff8c9ed9d313112bbc8908bda0f3b686c795910b601c46249471e124b4b7fd2b"
+  },
+  "StreamingAssets/VO/en/Tianna_Nonlinear_Negative_30.ogg": {
+    "size": 25677,
+    "sha256": "3a4d5e46d57ee3fd454d69faadf6bba61f9e87ba004511a32940e8b7af082463"
+  },
+  "StreamingAssets/VO/en/Tianna_Nonlinear_Negative_40.ogg": {
+    "size": 32470,
+    "sha256": "28b8d506541c7950f04051c676db6e4e87975a99ed09c22e9b2ea3396cb3939c"
+  },
+  "StreamingAssets/VO/en/Tianna_Nonlinear_Negative_50.ogg": {
+    "size": 19082,
+    "sha256": "665c5873b123b2de3c47e183a6e5179464842415c5400ff2906352c408e52168"
+  },
+  "StreamingAssets/VO/en/Tianna_Nonlinear_Negative_60.ogg": {
+    "size": 29817,
+    "sha256": "c4c5872598662802023c19dd3133862903508ab97144f12bb589b7ac90be963d"
+  },
+  "StreamingAssets/VO/en/Tianna_Nonlinear_Negative_70.ogg": {
+    "size": 61820,
+    "sha256": "c89a6b0532607f13722903ecbb6592408775f52c574b78b2ae5aba28b0619930"
+  },
+  "StreamingAssets/VO/en/Tianna_Nonlinear_Negative_80.ogg": {
+    "size": 36366,
+    "sha256": "117cdf1b2aba8680d63f1ec18b2197e661cc179b281a19d143a97c77f9475a1b"
+  },
+  "StreamingAssets/VO/en/Tianna_Nonlinear_Negative_90.ogg": {
+    "size": 17301,
+    "sha256": "f45e543443ded63f4bdf8a5193943e6a53357d2947955940e7797afb0a9edd41"
+  },
+  "StreamingAssets/VO/en/Tianna_Nonlinear_Neutral_10.ogg": {
+    "size": 15642,
+    "sha256": "93b3d1e6bf29af9738d586cc4381a3fcb1be3c3e9a1749210f00a7e205e3df2d"
+  },
+  "StreamingAssets/VO/en/Tianna_Nonlinear_Neutral_100.ogg": {
+    "size": 13657,
+    "sha256": "dbdeab463a1656b8d0ec38368e4cfe0ed1223ab2b547130c6b8aec1c0f77ee38"
+  },
+  "StreamingAssets/VO/en/Tianna_Nonlinear_Neutral_110.ogg": {
+    "size": 10879,
+    "sha256": "1993ceb725c37e5c40eb404339698b9c6d7b64b1cce7f39f7185bf87ccffa195"
+  },
+  "StreamingAssets/VO/en/Tianna_Nonlinear_Neutral_120.ogg": {
+    "size": 28045,
+    "sha256": "2d8f99dc040442b453ddfdb61e292c69fad53e5607fc6ee06f8f144ca59a7a8b"
+  },
+  "StreamingAssets/VO/en/Tianna_Nonlinear_Neutral_130.ogg": {
+    "size": 21560,
+    "sha256": "a1664a8affe7b1baccce0b8440e5b8ddf2380ea194fb59a6b30a614515e5d0ef"
+  },
+  "StreamingAssets/VO/en/Tianna_Nonlinear_Neutral_140.ogg": {
+    "size": 20758,
+    "sha256": "21c8a1a8c603d8270a1122878d2df07623d852eef9e0ad14f56b12e6a8be5c7d"
+  },
+  "StreamingAssets/VO/en/Tianna_Nonlinear_Neutral_150.ogg": {
+    "size": 45573,
+    "sha256": "5b7f5f543265a6ced6aa25236153e13bc4b17a4346be074531d84cfa7babc895"
+  },
+  "StreamingAssets/VO/en/Tianna_Nonlinear_Neutral_20.ogg": {
+    "size": 30309,
+    "sha256": "66a96911287ec86f80c0b70df746d59ac5c52c2e8076a6c85490058062d58b91"
+  },
+  "StreamingAssets/VO/en/Tianna_Nonlinear_Neutral_30.ogg": {
+    "size": 32007,
+    "sha256": "938ee76fbf662ae23a80524cd24551faae64ae3ee8d3c500980558839e852f1c"
+  },
+  "StreamingAssets/VO/en/Tianna_Nonlinear_Neutral_40.ogg": {
+    "size": 35359,
+    "sha256": "d99c252909ef042b62e55709b2532320940290244e21eb3cb649a51ae96c61e2"
+  },
+  "StreamingAssets/VO/en/Tianna_Nonlinear_Neutral_50.ogg": {
+    "size": 28485,
+    "sha256": "61ff0173920219ba2545eb019e7bce7e1550b87223d5a08cec7f65fe62fe959e"
+  },
+  "StreamingAssets/VO/en/Tianna_Nonlinear_Neutral_60.ogg": {
+    "size": 19808,
+    "sha256": "60ff02f2896e7dfb2643695d83b36d7869acda337c21b08ae132fd1e3d83b4ab"
+  },
+  "StreamingAssets/VO/en/Tianna_Nonlinear_Neutral_70.ogg": {
+    "size": 16377,
+    "sha256": "21cd6769156b3cc606aeda060e23344ac6749358ae63ceadfdb23f973090b8f8"
+  },
+  "StreamingAssets/VO/en/Tianna_Nonlinear_Neutral_80.ogg": {
+    "size": 26124,
+    "sha256": "cd6730e1685ef6c4a214797da24a029a31d55e34311c33060ecdf60e3eabc73b"
+  },
+  "StreamingAssets/VO/en/Tianna_Nonlinear_Neutral_90.ogg": {
+    "size": 24032,
+    "sha256": "d938887ccb07bac58aa743eddedf620b1b246425d2d736b7f0a534874555e4c0"
+  },
+  "StreamingAssets/VO/en/Tianna_Nonlinear_Positive_10.ogg": {
+    "size": 16953,
+    "sha256": "5663e5ad32bebbc7aa5e3141efaa6183bf40c14850d2a5bf846d323e1e1f5186"
+  },
+  "StreamingAssets/VO/en/Tianna_Nonlinear_Positive_100.ogg": {
+    "size": 21549,
+    "sha256": "dd9073d6f36af720d5f86ceef0fcf35ea55e95f27b371a87e871e5a7a0f7f028"
+  },
+  "StreamingAssets/VO/en/Tianna_Nonlinear_Positive_110.ogg": {
+    "size": 25384,
+    "sha256": "99403c931c5a24d2e145e914c0a4dc7281af27098af4d0fb63638f350223e20e"
+  },
+  "StreamingAssets/VO/en/Tianna_Nonlinear_Positive_20.ogg": {
+    "size": 14650,
+    "sha256": "bf1fe06208be7097134f21f7d1f998e35a8c73e98616bdd05f02b3c4c5183c9f"
+  },
+  "StreamingAssets/VO/en/Tianna_Nonlinear_Positive_30.ogg": {
+    "size": 16657,
+    "sha256": "fcaaebdd76e30430444edb564f378439fe5f742b8ffba43579a74011af6c41e2"
+  },
+  "StreamingAssets/VO/en/Tianna_Nonlinear_Positive_40.ogg": {
+    "size": 55550,
+    "sha256": "664fa454a994baa2dfd185bed3b6d7f2f93fdeeb22784e5c584ff049062054bf"
+  },
+  "StreamingAssets/VO/en/Tianna_Nonlinear_Positive_50.ogg": {
+    "size": 44418,
+    "sha256": "fc1ab597c09113d8cbeae93ae37247bfc284ea800c0fd81bcf529443849ec707"
+  },
+  "StreamingAssets/VO/en/Tianna_Nonlinear_Positive_60.ogg": {
+    "size": 9953,
+    "sha256": "36f5f95cfcfb628e4e4d498b62c75b2087e754ea7ff24b00420df724cefd43ba"
+  },
+  "StreamingAssets/VO/en/Tianna_Nonlinear_Positive_70.ogg": {
+    "size": 16627,
+    "sha256": "d1e7dd93c0ea2dbc75886efd278a3c0b9329ea0e6aa6355ff7ad762a98ba1f42"
+  },
+  "StreamingAssets/VO/en/Tianna_Nonlinear_Positive_80.ogg": {
+    "size": 14056,
+    "sha256": "5650aea96e24f0268ba03e75a372915387f0b323acfe078a9970a1dcc3076b5f"
+  },
+  "StreamingAssets/VO/en/Tianna_Nonlinear_Positive_90.ogg": {
+    "size": 12589,
+    "sha256": "93ff43d60b10a7739bef9e62a2ae4f86b61f6d0264c8590c5d65b0f7ebe5d45b"
+  },
+  "StreamingAssets/VO/en/Tianna_StoryMoment_10.ogg": {
+    "size": 79701,
+    "sha256": "d4e99ffd7b2f81b0e266f2940672e707804b29c7cf1d44b54fb48e2c6e5c3899"
+  },
+  "StreamingAssets/VO/en/Tianna_StoryMoment_100.ogg": {
+    "size": 109830,
+    "sha256": "0244480d908a69256f9d8e31fbd5ca78e862a5730c83067bbbec90acabfe596c"
+  },
+  "StreamingAssets/VO/en/Tianna_StoryMoment_105.ogg": {
+    "size": 113877,
+    "sha256": "700374baf4678bfa268c9b2c34fd224315676a72544e5b35e61444f2f0497f18"
+  },
+  "StreamingAssets/VO/en/Tianna_StoryMoment_110.ogg": {
+    "size": 99546,
+    "sha256": "05208548db79a174fbdf483f29a39f3621438a5ef9535613b33e9850c72fed50"
+  },
+  "StreamingAssets/VO/en/Tianna_StoryMoment_115.ogg": {
+    "size": 127656,
+    "sha256": "e1b69610d29256007fefc528e0d9a580808cd7e5bc0f07e607ca473e539d3685"
+  },
+  "StreamingAssets/VO/en/Tianna_StoryMoment_12.ogg": {
+    "size": 81651,
+    "sha256": "131a3895b42bca9d83d2f629e96a33a8cdcce1a17a783f14ea3531c14fbb0172"
+  },
+  "StreamingAssets/VO/en/Tianna_StoryMoment_120.ogg": {
+    "size": 97884,
+    "sha256": "884925547009ac97d48e4c28011a14528099c41d75e8cf253ac4ba5579bd2dfb"
+  },
+  "StreamingAssets/VO/en/Tianna_StoryMoment_122.ogg": {
+    "size": 56350,
+    "sha256": "cfc12d537f96244c91fe185a85206fbe717f6fa149651d2ce922acda3fd1c0f1"
+  },
+  "StreamingAssets/VO/en/Tianna_StoryMoment_125.ogg": {
+    "size": 81110,
+    "sha256": "55f1d50cb104f0cab1c0a5910723fb7765e18cf5ebeaca7726cd32fad9873f4a"
+  },
+  "StreamingAssets/VO/en/Tianna_StoryMoment_130.ogg": {
+    "size": 63956,
+    "sha256": "b70aef32374f745d55736842b7a951a5f94e48e4fa13ddaac037e21308dab06e"
+  },
+  "StreamingAssets/VO/en/Tianna_StoryMoment_135.ogg": {
+    "size": 129012,
+    "sha256": "e1796550b80260fd5c42b945f25a6c4228a61a67cd9f71179e30d29a05bf08b1"
+  },
+  "StreamingAssets/VO/en/Tianna_StoryMoment_140.ogg": {
+    "size": 87612,
+    "sha256": "9f858c349c7bc628163ffaed3e406c3281b8ffdef31bf40e641999829fdb8d69"
+  },
+  "StreamingAssets/VO/en/Tianna_StoryMoment_145.ogg": {
+    "size": 129519,
+    "sha256": "1545552712cc98832597d6b62a28d2b528dbd62822d27ea1dfdb97606ef589f3"
+  },
+  "StreamingAssets/VO/en/Tianna_StoryMoment_15.ogg": {
+    "size": 60368,
+    "sha256": "3be5f8278b70eac5329f31620e8ab6a5e5e1bc55549e9c131ad9f46f6e1661bd"
+  },
+  "StreamingAssets/VO/en/Tianna_StoryMoment_150.ogg": {
+    "size": 68679,
+    "sha256": "14ff609b1a58a9bfebe9c897c7513a39938b5fe6b8dd9a0684f870cbba9e2722"
+  },
+  "StreamingAssets/VO/en/Tianna_StoryMoment_152.ogg": {
+    "size": 74737,
+    "sha256": "4ff511fdaf513805c7a7e1553ab1304d5c368aa146d7580b6e0486ba60119b41"
+  },
+  "StreamingAssets/VO/en/Tianna_StoryMoment_155.ogg": {
+    "size": 79562,
+    "sha256": "0dff4b27cbeabf1add9894084bfe7e02c025ba0cf24e01a5c784f6d22a0a2c8d"
+  },
+  "StreamingAssets/VO/en/Tianna_StoryMoment_160.ogg": {
+    "size": 105306,
+    "sha256": "c7f1600064b67dc98edf7507bcf2e64cfe65b2274a06a5da3237ef72dc24b97e"
+  },
+  "StreamingAssets/VO/en/Tianna_StoryMoment_165.ogg": {
+    "size": 119394,
+    "sha256": "f22a109038840dccf067344078326a61068889d3871f1b57504ace4930be9332"
+  },
+  "StreamingAssets/VO/en/Tianna_StoryMoment_170.ogg": {
+    "size": 59387,
+    "sha256": "423da4327fe2aeb51da7e16531853bedf37d0db45776613d956d81b1adcc60f7"
+  },
+  "StreamingAssets/VO/en/Tianna_StoryMoment_172.ogg": {
+    "size": 98670,
+    "sha256": "c69740abbf014dac41f2f24b18ee5fc762293a1b018e891d3521db32d8d1aa39"
+  },
+  "StreamingAssets/VO/en/Tianna_StoryMoment_175.ogg": {
+    "size": 77101,
+    "sha256": "d9e6264c0976af1d838daf09c765d36f4ef7fbb2161aeb97629e68f6085d724f"
+  },
+  "StreamingAssets/VO/en/Tianna_StoryMoment_180.ogg": {
+    "size": 92710,
+    "sha256": "a9203373480d7177ef04a01b273e91671de1e0ad03147fd04a99a0786eb698e6"
+  },
+  "StreamingAssets/VO/en/Tianna_StoryMoment_185.ogg": {
+    "size": 81049,
+    "sha256": "0518df4d31b26305389cc47ab1170e53c7927044bd7ec89feb375651df5bad83"
+  },
+  "StreamingAssets/VO/en/Tianna_StoryMoment_190.ogg": {
+    "size": 59361,
+    "sha256": "1dda40c9557cac5c4905c28f25923bed04b39b30f32b53bfc0991de7b4c52f5d"
+  },
+  "StreamingAssets/VO/en/Tianna_StoryMoment_195.ogg": {
+    "size": 100029,
+    "sha256": "c1d90a3297a3cff43d12e7c26ccb7fb6089b1d308ce32bc1105056ccb39432a9"
+  },
+  "StreamingAssets/VO/en/Tianna_StoryMoment_20.ogg": {
+    "size": 75486,
+    "sha256": "d7d9e4b36db33231aaf590245405f51f7a19fb2570a0ef36e6e9ba2a17170f6d"
+  },
+  "StreamingAssets/VO/en/Tianna_StoryMoment_25.ogg": {
+    "size": 104848,
+    "sha256": "dc6929576bbd6317f451a25f9416687f05968d89819e94b13d57676acf82132c"
+  },
+  "StreamingAssets/VO/en/Tianna_StoryMoment_30.ogg": {
+    "size": 84224,
+    "sha256": "4ce4f0eb996da3435adb309614e60ec50a2d55ce982c78c4de39ee3756d39bfe"
+  },
+  "StreamingAssets/VO/en/Tianna_StoryMoment_35.ogg": {
+    "size": 123332,
+    "sha256": "d7a7cd3d9db806f21107f9ebc857aaa82f5f86ae38cf6734c4601b4940a69654"
+  },
+  "StreamingAssets/VO/en/Tianna_StoryMoment_40.ogg": {
+    "size": 63606,
+    "sha256": "6c2c6b37e0a9533ddb50d40f23165d24ee707fcdb42bbf2b795000e6f6788021"
+  },
+  "StreamingAssets/VO/en/Tianna_StoryMoment_42.ogg": {
+    "size": 70780,
+    "sha256": "da57c64d80b1a7e65daef30e0f579f307c48cf078761690cec1d2b1da609ea81"
+  },
+  "StreamingAssets/VO/en/Tianna_StoryMoment_45.ogg": {
+    "size": 68203,
+    "sha256": "442cd26bc703efa1ff85c8c922511e58ec74a6240cc3add0e1a67e9e794422ed"
+  },
+  "StreamingAssets/VO/en/Tianna_StoryMoment_50.ogg": {
+    "size": 67516,
+    "sha256": "48e9c733a17a5ba81048faf15c53fb9ebcd68f7f8129208a25d1798e7ff61e18"
+  },
+  "StreamingAssets/VO/en/Tianna_StoryMoment_55.ogg": {
+    "size": 129916,
+    "sha256": "2abf4702ec74d57cf277c38814e0fee3d02eb72ddd3396f6398dd40f4152e47e"
+  },
+  "StreamingAssets/VO/en/Tianna_StoryMoment_60.ogg": {
+    "size": 129441,
+    "sha256": "00daec09421c25c2996ea59dd6256a69a26e9d15b31c5f6b6c98f4483fa53398"
+  },
+  "StreamingAssets/VO/en/Tianna_StoryMoment_65.ogg": {
+    "size": 81047,
+    "sha256": "a57c68ba19fcfe6a99dab719e57357b3320d218fa6533a42fe32f1ac99ae0181"
+  },
+  "StreamingAssets/VO/en/Tianna_StoryMoment_70.ogg": {
+    "size": 127636,
+    "sha256": "79af50c67b6d79e203ce9a56ba4efc16bcb06b614230d4f99f177c74b3f868aa"
+  },
+  "StreamingAssets/VO/en/Tianna_StoryMoment_80.ogg": {
+    "size": 105587,
+    "sha256": "1586f78d695ba24408f8a928fa6751f2ab555c54cf05eb4c23f3765137e0be28"
+  },
+  "StreamingAssets/VO/en/Tianna_StoryMoment_85.ogg": {
+    "size": 122577,
+    "sha256": "53eefd193eeced3219260726fc553c99735ac1cf861a2556a0d6f6f3651818b5"
+  },
+  "StreamingAssets/VO/en/Tianna_StoryMoment_90.ogg": {
+    "size": 82992,
+    "sha256": "c1a232f7530867e10b165eea44aebc11d12dfd19f7c5e3a798bc014f564b9af0"
+  },
+  "StreamingAssets/VO/en/Tianna_StoryMoment_92.ogg": {
+    "size": 38259,
+    "sha256": "d12656e829d90ada516d6320ebd039e28d7903a7a10cc1fcf2e1aaf1626d7c80"
+  },
+  "StreamingAssets/VO/en/Tianna_StoryMoment_95.ogg": {
+    "size": 79241,
+    "sha256": "55cf68b4ce782e0e3bec2a54dcc74b4850493358d0a2a45d699e6a1212bdb4ed"
+  },
+  "StreamingAssets/VO/en/Tianna_TechUnlock_10.ogg": {
+    "size": 55514,
+    "sha256": "b281ba64877700efeb427da6c02d74ae18026cbfa8e31d13e5a4fe3b8c937f56"
+  },
+  "StreamingAssets/VO/en/Tianna_TechUnlock_20.ogg": {
+    "size": 41349,
+    "sha256": "c5ceef2f39b25fd74169888e8355674fb0cb1f0ae46a6896c61065c2ae3d8c61"
+  },
+  "StreamingAssets/VO/en/Tianna_TechUnlock_30.ogg": {
+    "size": 63098,
+    "sha256": "67245093a6b8fb95f8aa489f29b59a5b34acef1c68a8a35271a319ab0c6f749e"
+  },
+  "StreamingAssets/VO/en/Tianna_TechUnlock_40.ogg": {
+    "size": 76673,
+    "sha256": "8ddc99d805e5f5da539b8953729a18e51fcc89a0f90882b123382c39270a18d6"
+  },
+  "StreamingAssets/VO/en/Tianna_TechUnlock_50.ogg": {
+    "size": 73010,
+    "sha256": "c1f48f3ad603d8e303052a6ab15e97600eea9681230c7f0b40c1950444aafd23"
+  },
+  "StreamingAssets/VO/en/Tianna_Tutorial_10.ogg": {
+    "size": 56754,
+    "sha256": "72202e458fae32f7bf5524b45f7bc2db9b0071bf341b25a21e53992de15f746e"
+  },
+  "StreamingAssets/VO/en/Tianna_Tutorial_100.ogg": {
+    "size": 63475,
+    "sha256": "c5cd659e815362f9cfdbf4b954da1513380c454c0f7710cac3d0eff6e01a3b7e"
+  },
+  "StreamingAssets/VO/en/Tianna_Tutorial_110.ogg": {
+    "size": 72590,
+    "sha256": "773d842fe7f214b73fced93210e2281e0de8a0592ab286000ec6c50577945b66"
+  },
+  "StreamingAssets/VO/en/Tianna_Tutorial_120.ogg": {
+    "size": 88846,
+    "sha256": "b2f674feee6fdb6e7e7d005f703ea98d01ff6d512571a2f85a9a3984a891241a"
+  },
+  "StreamingAssets/VO/en/Tianna_Tutorial_130.ogg": {
+    "size": 110589,
+    "sha256": "17ab7faaa0fb733a86631c4a4aa951dc8865dc9a98c946a99857fcba50781d5b"
+  },
+  "StreamingAssets/VO/en/Tianna_Tutorial_140.ogg": {
+    "size": 79878,
+    "sha256": "161c8239d11a1fa2915ae18b43269eeda6fba33a7155d5367f695852c4082bab"
+  },
+  "StreamingAssets/VO/en/Tianna_Tutorial_150.ogg": {
+    "size": 79242,
+    "sha256": "b27c587246658aa8664ce77796e3c4fdc802dc5793a8aee9f84a9d5ed11b7fd5"
+  },
+  "StreamingAssets/VO/en/Tianna_Tutorial_20.ogg": {
+    "size": 64491,
+    "sha256": "f6207288efa5605743989b44a7b799dc3532518e664dd6b204947083020434c9"
+  },
+  "StreamingAssets/VO/en/Tianna_Tutorial_30.ogg": {
+    "size": 40211,
+    "sha256": "748f41652622f6a7e67dbcbbd5ecfe6127c8e2518e4192d6e4e12c754b97e9bd"
+  },
+  "StreamingAssets/VO/en/Tianna_Tutorial_40.ogg": {
+    "size": 44095,
+    "sha256": "2074a4ddae1d7d7e6f264418fcd928f147c08ba6343bd0b009e0fd6a3423869b"
+  },
+  "StreamingAssets/VO/en/Tianna_Tutorial_50.ogg": {
+    "size": 27481,
+    "sha256": "e38a00c1b68d4544c0c5fc408968f987841ffe9cef2ecdf0b45979a891c271f3"
+  },
+  "StreamingAssets/VO/en/Tianna_Tutorial_60.ogg": {
+    "size": 52642,
+    "sha256": "0c1cb3e20144b95d64928c7be2fd37e2aa8fabc5c4cc740438227106527575d9"
+  },
+  "StreamingAssets/VO/en/Tianna_Tutorial_70.ogg": {
+    "size": 64876,
+    "sha256": "31140765984bc9fdca0e5ba5b0ddef1dda6906aa289685a7a33359571290214f"
+  },
+  "StreamingAssets/VO/en/Tianna_Tutorial_80.ogg": {
+    "size": 72463,
+    "sha256": "b55db51e9fccc9d776031d3312f9f077b89a71790e9f9a530bf53f1fd1a38d83"
+  },
+  "StreamingAssets/VO/en/Tianna_Tutorial_90.ogg": {
+    "size": 55575,
+    "sha256": "99b4471577941b643238f75e1d2d0f3f5c01f5241990d96c9ef5134668e5316f"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Soldier_Attack_01.ogg": {
+    "size": 10391,
+    "sha256": "59a0d17d77d87519906f8462106f1b93b5b4b8e861a914d1f1330ce24e5f17b7"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Soldier_Attack_02.ogg": {
+    "size": 9993,
+    "sha256": "63378b5b4f2cfbc8ed64134f75b34eaf98ef1137d33f6adb6608a6a47eaae713"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Soldier_Attack_03.ogg": {
+    "size": 9866,
+    "sha256": "d0e5a6fc88631bf3be3851550b1994b6efccbf07fc10233621db26294be02870"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Soldier_Death_01.ogg": {
+    "size": 18399,
+    "sha256": "b6d4b3253c23fba2c023e6d2eda5de92f38f8dbc114332a5d3ed5a5c25018736"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Soldier_Death_02.ogg": {
+    "size": 19255,
+    "sha256": "c83ae90cc8157beb54c330e5be1c83a6a409d4b28d7155b4a1ffbb2b75f5dad0"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Soldier_Death_03.ogg": {
+    "size": 21479,
+    "sha256": "bcfe457c1814cafb3c0ad570590bb81d7ddbaffefc919a9897251fabf2374d98"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Galio_Attack_01.ogg": {
+    "size": 38026,
+    "sha256": "02ba69c33cc9c2055f3a5935500baf626524f6c116b77d0f805a4901183a145f"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Galio_Attack_02.ogg": {
+    "size": 34859,
+    "sha256": "557e722be351383188f9ae8a555a9d516734288ee69262cdd0bf40ee1ce185a6"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Galio_Attack_03.ogg": {
+    "size": 35194,
+    "sha256": "7cbba1965011d54c1b8a6c3121a5c8ec6437aa02a5b211bd8fd916811928e904"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Galio_Death_01.ogg": {
+    "size": 28837,
+    "sha256": "1f16327b8b3a7cd78b6c61a3eb3af2d68125ef3b6b4d92469158ceae5e8745ad"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Galio_Death_02.ogg": {
+    "size": 28837,
+    "sha256": "1f16327b8b3a7cd78b6c61a3eb3af2d68125ef3b6b4d92469158ceae5e8745ad"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Galio_Death_03.ogg": {
+    "size": 28837,
+    "sha256": "d9f9276dd8622cb296634bb3abf99e09e6ad936dfe85904541c51674034f62f6"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Galio_Ultimate_01.ogg": {
+    "size": 40647,
+    "sha256": "55639aa6da8cc37c97e8d4199d10d2de3a399645efd8ecba87744ab67ff3cc5c"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Kayle_Attack_01.ogg": {
+    "size": 18662,
+    "sha256": "6cd63275a04818396295ea90e5e1fa93b14c41d7e2e682c4de88603dcda0b5dc"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Kayle_Attack_02.ogg": {
+    "size": 18640,
+    "sha256": "8578cc8e066df5bc4bb3c23c7e1cd87e8f7328b05fba3b2589da48bbb94629ab"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Kayle_Attack_03.ogg": {
+    "size": 18589,
+    "sha256": "5006018b48a423de988f3d063556a29023f92681dc34f7a71cb9ba7192ea0407"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Kayle_Death_01.ogg": {
+    "size": 25721,
+    "sha256": "98e69c707d4741fa1854cf3e3841e435cc6eed5f8752fe4c06d02cb774726337"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Kayle_Death_02.ogg": {
+    "size": 25721,
+    "sha256": "93a05054d0285773d45e88a320405662f960574529968cb75e5406b83e9490bb"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Kayle_Death_03.ogg": {
+    "size": 25721,
+    "sha256": "2d9e37dfb8b8e3ed033cb069417dc4fcb8b2e234d6e4f5d8cc4ed504f3285a6a"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Kayle_Ultimate_01.ogg": {
+    "size": 47951,
+    "sha256": "076bf946f238d598a5a3a95f8f4e628c0d8426d7fdfd0dbfc53691bc5da79b6f"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Poppy_Attack_01.ogg": {
+    "size": 18195,
+    "sha256": "b36c2e8a2816b4f7f55b619adb25f8dd03f9644f2401f57e63425d080e7a3a99"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Poppy_Attack_02.ogg": {
+    "size": 18124,
+    "sha256": "544d221ba81607a8ee4f2d8ee84d027c602ec5aaa9e97ac41e8a930887715618"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Poppy_Attack_03.ogg": {
+    "size": 18023,
+    "sha256": "5c4dea7e4843d813f62cd70b1e07a2963bd5a120a85090de53fecd04d925c0fd"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Poppy_Death_01.ogg": {
+    "size": 20659,
+    "sha256": "b9853e728d67e8943f14232da02e969ceb8a1ab7cb8b48a732dabb6a728d84e4"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Poppy_Death_02.ogg": {
+    "size": 20659,
+    "sha256": "cc89aaaf4ea928fa86bb6b517a54eee3a87d6a4face14d166034e64847e8e165"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Poppy_Death_03.ogg": {
+    "size": 20659,
+    "sha256": "dc4c81b9f82ba085c081400c84c296264e35984e369d3183d52d6208a0a321c3"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Poppy_Ultimate_01.ogg": {
+    "size": 30484,
+    "sha256": "fef0715b02a82c4b388abb7e779eb72717e11e75a7c2755e14d6874bb9af525d"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Krug_Attack_01.ogg": {
+    "size": 21096,
+    "sha256": "6743293d277fc21c6ccdd566be5630bad61da5178e9390ea8fae41ce766f5876"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Krug_Attack_02.ogg": {
+    "size": 21986,
+    "sha256": "066633c23c2c1198af72490b9a694c61c427739f97d833ccb6b2d84dc43140d7"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Krug_Attack_03.ogg": {
+    "size": 23439,
+    "sha256": "89b32210514ed6a177950a3e73ff7dac0aeb6843ef5876b6feaa588d876a73a1"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Krug_Death_01.ogg": {
+    "size": 30706,
+    "sha256": "602f647095952a87de3c3071b6cd8f58e8bff36f9862027ba7986c67a4e5edd8"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Krug_Death_02.ogg": {
+    "size": 27030,
+    "sha256": "fe74a9504b57a341c8de3ebffe1174423ddca50eae50a4bcdb9a3cbf4643db52"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Krug_Death_03.ogg": {
+    "size": 29955,
+    "sha256": "c922a8183f7c67dbabd6f0f8bb746f8e1a028d87f2e5ef595ecc21b755078f2a"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Yeti_Attack_01.ogg": {
+    "size": 26159,
+    "sha256": "accdb54d1d98bcc164d9461abf10e2700a58954730babee4b6aea209c2236200"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Yeti_Attack_02.ogg": {
+    "size": 26358,
+    "sha256": "ff453a5acaf920eb501a8e7d7b3a5d0a4e9cec56a51fb9ed2f4f2f680e55c563"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Yeti_Attack_03.ogg": {
+    "size": 27875,
+    "sha256": "aa0c14f47918b44fd660e12ee0bcf5d98b1f6f2617caa132567b95f957f7c371"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Yeti_Death_01.ogg": {
+    "size": 17943,
+    "sha256": "03811e841256e457d7c6db13a130ee37382a473709bb7a7e5ed338329cfe7dfc"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Yeti_Death_02.ogg": {
+    "size": 16405,
+    "sha256": "6daf6fbed9964c608187739bbd5262c0973d341fb1fd73cf1cf2196196d65b6a"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Yeti_Death_03.ogg": {
+    "size": 16750,
+    "sha256": "a7027a9daba5e5ab19d27e75af8a37e05087271b7aaf100b07a43278b7c131bc"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Yeti_ProjectileImpact_01.ogg": {
+    "size": 13865,
+    "sha256": "fee82cc6adf5d8817720932a76f2c8529629f6c6f36f31c2d259da2dac1d48f6"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Yeti_ProjectileImpact_02.ogg": {
+    "size": 13215,
+    "sha256": "c5953c9eb4d75c1a199da4e8e37ab767aab4875e7d3cc4e1ae1d806e2ee7cbca"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Yeti_ProjectileImpact_03.ogg": {
+    "size": 13811,
+    "sha256": "a14632547a14616e9522f3e1565872bfb819e9283cc00331a5858c584faab544"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Cloud_Drake_Attack_01.ogg": {
+    "size": 17781,
+    "sha256": "9f478df21490d8c52efa9a596248df2b3185338d1e85dfd48447f59d04ab7710"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Cloud_Drake_Attack_02.ogg": {
+    "size": 17792,
+    "sha256": "a507fe41714998ad8665b4370c01af5e38aa1565c67ec7f013ff1d1c5e4b85e1"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Cloud_Drake_Attack_03.ogg": {
+    "size": 17602,
+    "sha256": "0440815512f1f877328a7e9e79a90d0e6ce6f591859c398635166ea489ba6290"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Cloud_Drake_Death_01.ogg": {
+    "size": 41459,
+    "sha256": "96d44257513d5f56b2aa0f6dbc4a9fd538a57edfdad45b35b55251d459a58862"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Cloud_Drake_Death_02.ogg": {
+    "size": 44296,
+    "sha256": "bfa803332d3719c934c14b448b35d46e6ac4d2278388988fc972c4a660dd8576"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Cloud_Drake_Death_03.ogg": {
+    "size": 33574,
+    "sha256": "ff85d2704875fa394ed72cc1cc03c5ef3950d2a9dd0a812ac7a3051e2b52bcde"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Cloud_Drake_Ultimate_01.ogg": {
+    "size": 60310,
+    "sha256": "375ba5ac9b377ed580a3c57a4e517b46546124db99aa00f3bf5e929ca7b0d2ca"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Battlemage_Attack_01.ogg": {
+    "size": 36886,
+    "sha256": "597fd2e24e0cc0227a0333758e76bddded5796f6521d6b178f6b6a2e41f0dce5"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Battlemage_Attack_02.ogg": {
+    "size": 38704,
+    "sha256": "a362113acfc56c42eebcf8a78e64f46da3ea6f90fe1c24d9ee3f534caf9f6dd1"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Battlemage_Attack_03.ogg": {
+    "size": 36848,
+    "sha256": "bb948fb763b8252bf324b330aa0e545e735336c6f58290f108602f8c874009d6"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Battlemage_Death_01.ogg": {
+    "size": 17985,
+    "sha256": "505bf9f01459eceda74566b8656c32ef3abd4cf6e6d6f08a87c2528701958b9b"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Battlemage_Death_02.ogg": {
+    "size": 18102,
+    "sha256": "66fc769151e937766c3a9889035bb70fcadbb9092a97bc67cbf2ec81d3e3c0b3"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Battlemage_Death_03.ogg": {
+    "size": 17907,
+    "sha256": "63116f35edca71d155d11cbb4c88b47987d08de73a7f13177aeae8f373974243"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Battlemage_ProjectileImpact_01.ogg": {
+    "size": 13808,
+    "sha256": "c986e75b3fd10b87ad3bf63ac81c0fa6c29aa66f776a3c8a3bd8018e4984960b"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Battlemage_ProjectileImpact_02.ogg": {
+    "size": 14053,
+    "sha256": "08f5e5acf49144d59c4572ac1d7954f509a375472754ee62de87bc931d29376d"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Battlemage_ProjectileImpact_03.ogg": {
+    "size": 14014,
+    "sha256": "b23062032f246a73ba1f9ea1f3139d5034ff8f2d726e7b672ed13a5b47fb7d92"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Noxian_Spearmen_Attack_01.ogg": {
+    "size": 12269,
+    "sha256": "f504af17e8727f653beb6434c1a5681ff4d1847b05edc52795379cf10204eb45"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Noxian_Spearmen_Attack_02.ogg": {
+    "size": 12334,
+    "sha256": "4b8647ed9ce3f0797cd291f5f60ae360b0a99e67a0ef4e75d9491580f4408df7"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Noxian_Spearmen_Attack_03.ogg": {
+    "size": 12447,
+    "sha256": "8767363ca9815db488a74ddb6d4747897bd94e797dc71cbe95a35bb757dda37d"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Noxian_Spearmen_Death_01.ogg": {
+    "size": 13018,
+    "sha256": "d8c77e66b8f14a20d40aea9607fafa90a2f1e6d4df29e24c1282348ea0799de0"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Noxian_Spearmen_Death_02.ogg": {
+    "size": 13046,
+    "sha256": "575027957c7f27f5dc2fed3cb48fcb691e266e4262d0ecb0b4dd9bac0c7334e2"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Noxian_Spearmen_Death_03.ogg": {
+    "size": 13127,
+    "sha256": "ac89f35bb974a2d552560b3a2a6ad3eca8cc085385ae1f00e1448fd739e886c3"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Garen_Attack_01.ogg": {
+    "size": 50368,
+    "sha256": "33ca63027a3cff541ad82fd6142b99dbec45c48ced6ca088d26cdc1f4bfbc897"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Garen_Attack_02.ogg": {
+    "size": 50152,
+    "sha256": "851e40f5fbeb85b0133d52be89a859ed542cd94ae4ba304cf66a672038c74522"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Garen_Attack_03.ogg": {
+    "size": 50385,
+    "sha256": "ac290f6cfd3d068fdc61e654a6f05226adec3e213db42a2a702f82165586a88c"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Garen_Death_01.ogg": {
+    "size": 50373,
+    "sha256": "cd2adcd42d571ca6bd7df6da0227e8fcd94335e20565a8d9e7d1e41d509e1007"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Garen_Death_02.ogg": {
+    "size": 50373,
+    "sha256": "61f2d460f0ea5bbe39260cf2da3496c355bf8271a331276737e1e095ef698045"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Garen_Death_03.ogg": {
+    "size": 50373,
+    "sha256": "15ac1f4bac74793b94dbe5785b9835a3dc1d060ffd7735601341fe4a990e9e91"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Garen_Ultimate_01.ogg": {
+    "size": 64325,
+    "sha256": "aab6788eb6ff30cc90ea10c7cd034f48bb83526adb18a3656f923a1d178432e0"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Noxian_Drakehound_Attack_01.ogg": {
+    "size": 15499,
+    "sha256": "51433b2ea8ecbb07e10d91e543da0a2030514f1ad0f5b8dce1922c4bbb950293"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Noxian_Drakehound_Attack_02.ogg": {
+    "size": 16053,
+    "sha256": "c94abecd9f08481eb5762d8eb65e16651e85407116403dbf903ca779de0b9d4c"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Noxian_Drakehound_Attack_03.ogg": {
+    "size": 21964,
+    "sha256": "de4d07706872ab496b5b50aec0e95beaf3720b44d931192214483d2ff5751401"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Noxian_Drakehound_Death_01.ogg": {
+    "size": 21777,
+    "sha256": "d70990d2dee25fc4e94d88faf8a511ba53c1c3b1716ddab9502cb9e5cb9dcad9"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Noxian_Drakehound_Death_02.ogg": {
+    "size": 22296,
+    "sha256": "beb8ac1240cca420b0438fa6fca55d79e3ee44881e052caa11151a1615a078e0"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Noxian_Drakehound_Death_03.ogg": {
+    "size": 21716,
+    "sha256": "82bb649d48891c12d841148bc8e93e7d48f3d752ea45e3e5142ae4e9133462dc"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Mauler_Attack_01.ogg": {
+    "size": 39229,
+    "sha256": "61d9d46e0c06ec692789cad77d4f0f72a6ff3c1f611f5524b12ead1582d9d306"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Mauler_Attack_02.ogg": {
+    "size": 40967,
+    "sha256": "0df43100479a2575c4c7cd5d3371d41a520514078ab5285598043b19ca2a7f3b"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Mauler_Attack_03.ogg": {
+    "size": 41223,
+    "sha256": "dad1458cc34c8af9777c68d07a1030d8d6a2c51c8b0e2ca685b1950b4a0e0181"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Mauler_Death_01.ogg": {
+    "size": 18399,
+    "sha256": "1ed19f7a9a5accfd0d2bd0bfcca555a10aab18ce297ee38e4534e79d840bde66"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Mauler_Death_02.ogg": {
+    "size": 17313,
+    "sha256": "1dc086c5472dd54e38ffeb66aed8fbb9095aff42185cd98909e58aa8218af1f9"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Mauler_Death_03.ogg": {
+    "size": 17710,
+    "sha256": "22fbe87ac133cc34d493d557ed6b6ea4bc03088be394fab2071b1e8e06f95d8d"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Archer_Attack_01.ogg": {
+    "size": 19357,
+    "sha256": "d9246bdaea14caae393e960612e2d3bb171ce759fb0b03768a416af130d3a233"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Archer_Attack_02.ogg": {
+    "size": 19114,
+    "sha256": "f2f5417d92ba265a6e1ed700f4b670974aff220cabfed8c46dfebb9f1f3f6e6f"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Archer_Attack_03.ogg": {
+    "size": 19273,
+    "sha256": "d457e4182433a012353db918d10954ca0f95c848340e1fc00bd61065609cd342"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Archer_Death_01.ogg": {
+    "size": 11751,
+    "sha256": "58d57ad64534e446cf1a4551956012c7c93ef1bf97a531301450accebc16dcf5"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Archer_Death_02.ogg": {
+    "size": 11635,
+    "sha256": "66cece9b6d16649fa4b0b317b3dd9a80c5d92eb401ad18f93a911a243cc561d4"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Archer_Death_03.ogg": {
+    "size": 10851,
+    "sha256": "1a8c80f17894d8fa0eaecd6137ddf5658ea581905c981e34735afc64a681fbb5"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Archer_ProjectileImpact_01.ogg": {
+    "size": 6836,
+    "sha256": "32ef77109cfa02244cc1da5f4a1b3c966e2215d76ae287374ef8dbaecc80fb90"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Archer_ProjectileImpact_02.ogg": {
+    "size": 7582,
+    "sha256": "f490d4435c652838b54474c990333da61a1864af554f17fddf23d8e8ef436499"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Archer_ProjectileImpact_03.ogg": {
+    "size": 7486,
+    "sha256": "a021521efd67b3698d86704cef285dfd699db13fea081f08880b7bd546cc80e8"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Yeti_Trueice_Attack_01.ogg": {
+    "size": 28277,
+    "sha256": "c716e3d61cb139179a9c53c42363060c7e572daa76b7a9be7c90709f2459dedc"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Yeti_Trueice_Attack_02.ogg": {
+    "size": 28342,
+    "sha256": "e4ffd30bc2ac255c6dbf53a238402b71a966d7e2763ba1c8b85faa0bdc0b3efd"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Yeti_Trueice_Attack_03.ogg": {
+    "size": 28332,
+    "sha256": "a83644c256c162deecfe8394217d36d0c0a93494f7c4e01c3c0f39bdc1d14c77"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Yeti_Trueice_Death_01.ogg": {
+    "size": 19134,
+    "sha256": "4dba4959561e46cc62d043110d2e93b92d30c5c60ff432170a50f90f7bed4ae0"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Yeti_Trueice_Death_02.ogg": {
+    "size": 18667,
+    "sha256": "82a589b3ca6c7ab02f8a47e55277c37feaddbafd2a4584eb0749df6bee83a34c"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Yeti_Trueice_Death_03.ogg": {
+    "size": 18626,
+    "sha256": "08fe86a16f998be459d7a7eda702378566553d026fc58b44b5fc09eb2f629916"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Yeti_Trueice_ProjectileImpact_01.ogg": {
+    "size": 15933,
+    "sha256": "38121a62d9d6138f755250ffe3298c4f0c7f118ce752081d68d8eac4503255c5"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Yeti_Trueice_ProjectileImpact_02.ogg": {
+    "size": 15993,
+    "sha256": "0400ed3bb86dce1986decc99b6beba16fe87c9884bbef5747fc399490fa43a4a"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Yeti_Trueice_ProjectileImpact_03.ogg": {
+    "size": 15988,
+    "sha256": "24a891471d6637d97aefdd0d55af4e2040b2448448417f0d213128e5a77d2e36"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Sona_Attack_01.ogg": {
+    "size": 13920,
+    "sha256": "024a02967aadafd1292eb60526632c20dcde07d9b2dad2051e5ef8b6326f59d6"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Sona_Attack_02.ogg": {
+    "size": 16151,
+    "sha256": "a4a0ad38858a3047d80e22e9703127207a208de434f834e36d7a1225b7da5a05"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Sona_Attack_03.ogg": {
+    "size": 16741,
+    "sha256": "966db077d27b907bc882bddcbf3aa57a4f6500be6b2ed2a5bc0e128fa94e64e1"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Sona_Death_01.ogg": {
+    "size": 17268,
+    "sha256": "6ba2e8fac8c50c08e6e8fc9d3347b08eeb683ede2999e7b378c5e20967255c33"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Sona_Death_02.ogg": {
+    "size": 17268,
+    "sha256": "ee5f7a7c52615f1ac36e2deb58f14f277b5f3f52f68bcdadd7aada5036a7415b"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Sona_Death_03.ogg": {
+    "size": 17268,
+    "sha256": "6c3bc24c4b7301619370a51ac6cd6d76c85356c381371fa41c40a0c9bf05eceb"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Sona_ProjectileImpact_01.ogg": {
+    "size": 15329,
+    "sha256": "d1f7706355c4546c16ba864a91f1135a85b9b9c1f75e18560e29e00685022cb3"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Sona_ProjectileImpact_02.ogg": {
+    "size": 15296,
+    "sha256": "25abc5dcbc842b646e4d075851ca391460b9d55603fe4d8dfcaa902a04e077ec"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Sona_ProjectileImpact_03.ogg": {
+    "size": 16167,
+    "sha256": "d922f009781e1ea5ca7bf87b1e128c668183bc04b8fb4c99f26f5c55475fddb5"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Sona_Ultimate_01.ogg": {
+    "size": 32758,
+    "sha256": "4ce1ad5ddcd799c457c8bda1bce89ed021e3f65063c3d04d3a69de02aa396bb3"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Troll_Veteran_Attack_01.ogg": {
+    "size": 15436,
+    "sha256": "5d74162732ecc82a5f9d06d9a5deb2d39acfedad121fa55b5d6122aec6b427ad"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Troll_Veteran_Attack_02.ogg": {
+    "size": 16227,
+    "sha256": "5bd459b096a9a6ca6632f00cd7937160ca9cde53709e4d6805cdf2c0f22647e9"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Troll_Veteran_Attack_03.ogg": {
+    "size": 15141,
+    "sha256": "6cd6795d84ee7e6510ae477a1c333f61cd34823bf9c8f6b5cd09e6f33e9c9938"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Troll_Veteran_Death_01.ogg": {
+    "size": 18345,
+    "sha256": "454d2dd4b332a446d1efb8de3fe083daac25ad22a597a582ffabe444126c2e97"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Troll_Veteran_Death_02.ogg": {
+    "size": 17689,
+    "sha256": "c009990312017611f85cdebc65a7386b42f39e9d9d0b4334f4d3cdaff7f8571d"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Troll_Veteran_Death_03.ogg": {
+    "size": 17789,
+    "sha256": "ad97823cb2a0e06d6707872e150738b6c80291fdc67cc1d4004241a0f23b61eb"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Troll_Veteran_ProjectileImpact_01.ogg": {
+    "size": 10616,
+    "sha256": "901c7dec5d192211211677307fafacda7ba9ca4b0d123951733abeedfee02892"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Troll_Veteran_ProjectileImpact_02.ogg": {
+    "size": 10654,
+    "sha256": "b01503a0ff6e18b87403912351e76a557b840e55afa8f4cac8412fb404c34a57"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Troll_Veteran_ProjectileImpact_03.ogg": {
+    "size": 10716,
+    "sha256": "ff48f7e0f553d714a17217ec73a9cd521f72e50832bd95ffbde9d0ca9ffad49b"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Quinn_Attack_01.ogg": {
+    "size": 15995,
+    "sha256": "bf2835615c1c59bd0d5da8001262731e798b536f672c89e5ae2e0dccfec7bb03"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Quinn_Attack_02.ogg": {
+    "size": 14889,
+    "sha256": "90fc0cf1414528b09192de84a4650c11ddddf61a30f8d52b41314cb737397e07"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Quinn_Attack_03.ogg": {
+    "size": 16059,
+    "sha256": "d1023c22298168e340c75e835e255e073c9ca14e963c979a4c310dd24d8851d6"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Quinn_Death_01.ogg": {
+    "size": 20508,
+    "sha256": "10ddad21a9ba47380f340cddd9ff787f4b22455cd94482facdc4fe9203ffdeaa"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Quinn_Death_02.ogg": {
+    "size": 20508,
+    "sha256": "49b5ca8513c070c5bf58f1a866e427110982a3e0d8f975da8550211e429addab"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Quinn_Death_03.ogg": {
+    "size": 20508,
+    "sha256": "e461291f0abad4dc77e463d993ce7f9b166b2837c2207808945ff8b50260f989"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Quinn_ProjectileImpact_01.ogg": {
+    "size": 10706,
+    "sha256": "2c9c708366b2dab4cba8229a27fd01005676bd10f4eec7a20ddee4f535e25a5c"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Quinn_ProjectileImpact_02.ogg": {
+    "size": 10715,
+    "sha256": "5fc1aef5afb363b98f0c9efac896ab960e8e8c0976b1080fa86218bd315c343d"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Quinn_ProjectileImpact_03.ogg": {
+    "size": 10743,
+    "sha256": "603ff1742ad727899891213c097d660279913be149fe4c977af675e1bcb3a31e"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Quinn_Ultimate_01.ogg": {
+    "size": 38827,
+    "sha256": "1ac5d31e99f2cde0abb9b8417fcc3141709f0abf0b99482cbc774d817c238781"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Drakehound_Attack_01.ogg": {
+    "size": 11747,
+    "sha256": "573824c22913b6826d96cfbe7dc26363415c0d19e1f0bd860f8fdfcbd4164828"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Drakehound_Attack_02.ogg": {
+    "size": 11446,
+    "sha256": "02d0cc675f20977cee07900121a1242307459beb45a8063c8a0ffeaae6c41803"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Drakehound_Attack_03.ogg": {
+    "size": 13200,
+    "sha256": "9a14b1b5def11900eb59c94e9f9c708631eb78040fffcee725361cd5f59802e2"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Drakehound_Death_01.ogg": {
+    "size": 17791,
+    "sha256": "392923594aa26cb093b14bc6374f2161a1489f06b27bff23ff04d3f73be62a69"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Drakehound_Death_02.ogg": {
+    "size": 20258,
+    "sha256": "44d45ff91e17d25d43bb26f0b3d767d911d04a77df9ac5e2d92a7543efceb277"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Drakehound_Death_03.ogg": {
+    "size": 17900,
+    "sha256": "bdc92b1b4118ba37793750566ec2f463646ae585ea2243bf2fa9fb1808597e5c"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Guard_Attack_01.ogg": {
+    "size": 8783,
+    "sha256": "10b88ee8d5b275e14624317c518c71a0c8387d6b782a03a339673479a57490c8"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Guard_Attack_02.ogg": {
+    "size": 8797,
+    "sha256": "18d4ee57ec65c1802e8d9c485345a7ad02a6554b0053a802f5aebf9191ee7f8f"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Guard_Attack_03.ogg": {
+    "size": 8997,
+    "sha256": "4310df4f66f63a6f655d240ee5025962b6355122ad85e941d54a9414927321ea"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Guard_Death_01.ogg": {
+    "size": 16456,
+    "sha256": "f7cc3b3f8698abad429b97d6b483549cae7f992901f277514b9ef5e64613b5e5"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Guard_Death_02.ogg": {
+    "size": 17104,
+    "sha256": "c07191acca42c81ac2d8bfcfe91d27be52603df04acb61e70790ac422ef44ff6"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Guard_Death_03.ogg": {
+    "size": 18636,
+    "sha256": "3e1f718b7b76fbb7c50cd8625db3074dd764f159e32ea8c604ff547050e92013"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Krug_Veteran_Attack_01.ogg": {
+    "size": 22333,
+    "sha256": "09a579d54a8c576876638b3def3464ced8943f974df143deb5f5bbd21d562123"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Krug_Veteran_Attack_02.ogg": {
+    "size": 22274,
+    "sha256": "29b2c158c7578d4663b6e51ea35fc8acb3b70d0b02ba1edb7c3a22b2486e1ba5"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Krug_Veteran_Attack_03.ogg": {
+    "size": 22311,
+    "sha256": "114f627115f1744140d8603bc3f3af9fbad74bef80e247f8462e2f097caf302c"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Krug_Veteran_Death_01.ogg": {
+    "size": 28555,
+    "sha256": "bc24f6a754abd40e45c46ef5698989aa554e261a5f6bfb9635e385f7ed23dc30"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Krug_Veteran_Death_02.ogg": {
+    "size": 26409,
+    "sha256": "d0282906b041dcf02141667063d7183fcb8570d1e10739621f8d6a7ce8bca96c"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Krug_Veteran_Death_03.ogg": {
+    "size": 30490,
+    "sha256": "44b9aeebebefcec31011f32abbf610a29831b53f83bf25dd8b527726412d1312"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Ranger_Attack_01.ogg": {
+    "size": 20196,
+    "sha256": "974ee71295289f8b875b3af08b6e2d4be246452e39c58e40975cb18a29e9173f"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Ranger_Attack_02.ogg": {
+    "size": 21226,
+    "sha256": "9b7c5b17b49771fd24c3c01e0c2d802f6b37afd8b09ead606613f46bb78fe36a"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Ranger_Attack_03.ogg": {
+    "size": 19808,
+    "sha256": "8bb3faf0be8954b4201a8856926abb5616042b59b5f27e6f98a07b4801f901d9"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Ranger_Death_01.ogg": {
+    "size": 16776,
+    "sha256": "4d561c69cf2fa12294a0f6c01f2dcce755317340de51d6eb8215ddaa93b8d963"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Ranger_Death_02.ogg": {
+    "size": 14699,
+    "sha256": "ad49d09e8a3fd7de5e45ed758e050173b5c4f3dee56e6513f11b036e94905025"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Ranger_Death_03.ogg": {
+    "size": 14693,
+    "sha256": "c03e0595105f1822a81c991d97c7f053ddc22a992338ed8ee6534b3c73c0eec5"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Ranger_ProjectileImpact_01.ogg": {
+    "size": 7641,
+    "sha256": "ecf283fda85af7e46825e298291178b6e570bd9c31509258cf5a05228a6b722c"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Ranger_ProjectileImpact_02.ogg": {
+    "size": 7884,
+    "sha256": "8222e71cc2efdc839488618cc32f7249d21c59f42d1a0dd39241b1ae80a75acd"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Ranger_ProjectileImpact_03.ogg": {
+    "size": 8075,
+    "sha256": "ffdef7d95ccc39031741d21c70a3dbb4453c3f29c911f3e2850d6070b46b54eb"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Morgana_Attack_01.ogg": {
+    "size": 25630,
+    "sha256": "f43e71eda7a828522a67313e1b4e2adc00d0bfd32166e54d5384d75a266ff847"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Morgana_Attack_02.ogg": {
+    "size": 24475,
+    "sha256": "bafefa3a68e3907dd480e0642c4f7897b9d7b00f2456b3c6bbe09aea0aa30351"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Morgana_Attack_03.ogg": {
+    "size": 23299,
+    "sha256": "240436311a8a9d4f1ae06bbd0ae2fe845893923493995606d064aaa065a4ec81"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Morgana_Death_01.ogg": {
+    "size": 17554,
+    "sha256": "ad7430bbfee79f3215503dddbbe7e7cefbd0af8c510e97783ed35496818c0e6c"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Morgana_Death_02.ogg": {
+    "size": 17554,
+    "sha256": "02985f6a17b66cd1a676c015d20163c3b72436652fa68cf44a27be88b4516f66"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Morgana_Death_03.ogg": {
+    "size": 17554,
+    "sha256": "50a29bad2f9def72d4ed7a445665253d7579a4d0910fde479be9e2fdecaeea02"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Morgana_ProjectileImpact_01.ogg": {
+    "size": 11434,
+    "sha256": "e423c196d3760be77bb49b91ca79feb0c8d0f3a453cb3706041060b849831460"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Morgana_ProjectileImpact_02.ogg": {
+    "size": 12141,
+    "sha256": "857c4a1f5763fcb134d30787d3af5d1607103415fed6979fdd70588876bd1bc1"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Morgana_ProjectileImpact_03.ogg": {
+    "size": 10856,
+    "sha256": "3249106c67a7a5d31cbce3c3d7eab907ffc33089406e6dbda87440d3ade437a9"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Morgana_Ultimate_01.ogg": {
+    "size": 82820,
+    "sha256": "561bf8dc142c79a9b72925d609447c39363d215d09a8009d40bea06277c76a6a"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Basilisk_Attack_01.ogg": {
+    "size": 16982,
+    "sha256": "500c361d646705e301be9e0a87eb1a35b211d7bbb92543a1102d0364a0914cb2"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Basilisk_Attack_02.ogg": {
+    "size": 18359,
+    "sha256": "082eeb42936588dd370f8aa5d123f6e0344edbd990087e152752db340aa854a6"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Basilisk_Attack_03.ogg": {
+    "size": 18153,
+    "sha256": "5673c3ea50c35d88d373a116475cd3a9bf7143e36980c4c7413cd9a1f0eb9a11"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Basilisk_Death_01.ogg": {
+    "size": 19940,
+    "sha256": "a36478d9d3f1ac69c39cf690d07dcf9b9b3d402b82448687a007e50f8d47fd70"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Basilisk_Death_02.ogg": {
+    "size": 20036,
+    "sha256": "b17d4ccc658017f7291f0056c7176644bcf9dfff2f6be9a4cfa51243bd973151"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Basilisk_Death_03.ogg": {
+    "size": 28674,
+    "sha256": "8b783d2dbca2df06a33ef25e2552f88e80d92ada382b21485f155edd8d208b3d"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Jarvan_Attack_01.ogg": {
+    "size": 17588,
+    "sha256": "43f80abeb5c17e10a216cab796b6b0e29ed87fc16c0d0aa5d9143d8497a729f0"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Jarvan_Attack_02.ogg": {
+    "size": 17692,
+    "sha256": "3634bab8cc6bc4dfc35f28a889c49e93e21aad258f26a445cce2ed853d59e403"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Jarvan_Attack_03.ogg": {
+    "size": 17565,
+    "sha256": "46ddf4878f124ad41a09aaf832bbed80c076d6a895ef9234ab925ae02cfadc10"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Jarvan_Death_01.ogg": {
+    "size": 17471,
+    "sha256": "464b1718662886ebd1251bbedea3487c0248bb9856496e7532df052bada4af26"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Jarvan_Death_02.ogg": {
+    "size": 17471,
+    "sha256": "e1cb59b12e6591ca9b8e51e060e824351e467924d1ce16a45a527fea05efe6e0"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Jarvan_Death_03.ogg": {
+    "size": 17471,
+    "sha256": "02c9458eb38a02b48133f9a1fe13666aa714c829bd0016f150eceac345abbb42"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Jarvan_Ultimate_01.ogg": {
+    "size": 28103,
+    "sha256": "c5dc70914d864a1cea00c389ce06c75da94c3db5e352100d0240fb22a7f28822"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Tribal_Warrior_Attack_01.ogg": {
+    "size": 13816,
+    "sha256": "e9f8bf2ae5de25a8df6a8dbed9be61a1089760040b9b2e9d62879f804f050237"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Tribal_Warrior_Attack_02.ogg": {
+    "size": 13064,
+    "sha256": "651d789fd57d7db1b30a84b21f4734f3d3f8377ba5b268a7dd71f5caa308875e"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Tribal_Warrior_Attack_03.ogg": {
+    "size": 12941,
+    "sha256": "1bc4dcd7844f0deea0f62f9e144cb48cf93968ead003a9d0e55d047d2a1bb788"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Tribal_Warrior_Death_01.ogg": {
+    "size": 16966,
+    "sha256": "8b8188dad658ca179ffdf5e3b73a14ab833ff2e00b8f9ce28c71da832c721653"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Tribal_Warrior_Death_02.ogg": {
+    "size": 18346,
+    "sha256": "e1d87e36c247e8110196825845ff2b04ac3c4e19a7af1b9d3bb6c5a33c71b919"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Tribal_Warrior_Death_03.ogg": {
+    "size": 16726,
+    "sha256": "a8c952f5c977bd64f629159869b728c7b804f2887eb2a0296723e36de41f9c5d"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Troll_Attack_01.ogg": {
+    "size": 13654,
+    "sha256": "0172ff241a6c731f7c71a5dedb0ddccf01ed2bdeedff4b5d0512be23fe749098"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Troll_Attack_02.ogg": {
+    "size": 15246,
+    "sha256": "c0aa9385676c16b7fe821d7fadaa2aa696f70d91ab9108b5e03f5800208aaf92"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Troll_Attack_03.ogg": {
+    "size": 15409,
+    "sha256": "b5a35893d1a03c32ed0e72b0d9e37e3b9ce6145fa447bf1cf74a06f18a04971f"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Troll_Death_01.ogg": {
+    "size": 18501,
+    "sha256": "39281c4e20ffcea1435bf3f5530ea14fb0e5cb4c10fb06694d4ddd77852375fc"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Troll_Death_02.ogg": {
+    "size": 18139,
+    "sha256": "98992a5139d4c93c9599967fa71808ea9c4f0f92128deb802cccd092a236e0b4"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Troll_Death_03.ogg": {
+    "size": 18315,
+    "sha256": "eab872dc15208c80631d5168fc586ea8226fe1609266a0d9e27eb71f094114d1"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Troll_ProjectileImpact_01.ogg": {
+    "size": 12297,
+    "sha256": "cd0db5c6972a813dc01637fd4a9388f159c35db44fc01c81c2984c96fbd779f7"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Troll_ProjectileImpact_02.ogg": {
+    "size": 11997,
+    "sha256": "0007d4bfff6a525189b108ce93383431761ded66573ed3f7d0d4ba5fae3e8c04"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Troll_ProjectileImpact_03.ogg": {
+    "size": 12733,
+    "sha256": "3e902847adb0b9bf80e1c48232627efc8903780dd7617d4c7360e130ec7d197c"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Raptor_Knight_Dive_01.ogg": {
+    "size": 27903,
+    "sha256": "ee48a48661c8f54f03640e96e9d99f9a0d50ff1f5f8647ac0474e4ff2afa8985"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Raptor_Knight_Dive_02.ogg": {
+    "size": 28070,
+    "sha256": "be6ff22350031977725c8fb0903dfc6daf6fa3f2bdb615a0abe30b8adb8f31bc"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Raptor_Knight_Dive_03.ogg": {
+    "size": 28060,
+    "sha256": "ddb255e5c0cac58155ada63ec6c0cf1603d209f3919ed2ee31b31db73f78256e"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Raptor_Knight_Impact_01.ogg": {
+    "size": 24205,
+    "sha256": "6289349c04b781440a341ad1567192eb3311409bac9c999ed132e5748da0fd42"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Raptor_Knight_Impact_02.ogg": {
+    "size": 21867,
+    "sha256": "13daa05870750bbed58d16e8150da7db2143941e24e05ced8c4dea601b1506f0"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Raptor_Knight_Impact_03.ogg": {
+    "size": 22335,
+    "sha256": "cea31ea375e84213883a2c05085f301e2114c3299edf25a9d2944009ac19c376"
+  },
+  "StreamingAssets/SFX/Combat/SFX_GAME_Combat_Unit_Raptor_Knight_FlyingLoop_01.ogg": {
+    "size": 52792,
+    "sha256": "87fb2a25671e1737c40b0ae89e1575f9a44a6037b2eb2ebb529b79ed056b9853"
+  }
+}

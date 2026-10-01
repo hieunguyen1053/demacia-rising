@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-eval' 'wasm-unsafe-eval'; style-src 'self'; img-src 'self' data: blob:; connect-src 'self'; media-src 'self' blob:; worker-src 'self' blob:; object-src 'none'; base-uri 'self'">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Demacia Rising · Offline</title>
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header><strong>Demacia Rising</strong><span>Offline · Hồ sơ cục bộ</span></header>
+  <main>
+    <div id="cache-status" role="status">Đang chuẩn bị bộ game offline…</div>
+    <progress id="cache-progress" max="1" value="0"></progress>
+    <button id="retry-download" hidden>Thử tải lại</button>
+    <div id="status" role="status">Đang tải game…</div>
+    <progress id="progress" max="1" value="0"></progress>
+    <div id="game"><canvas id="unity-canvas" width="1055" height="720" tabindex="0"></canvas></div>
+    <div id="opal-mask-overlay" hidden></div>
+    <nav aria-label="Bản lưu offline">
+      <button id="export-save" disabled>Xuất bản lưu</button>
+      <button id="import-save" disabled>Nhập bản lưu</button>
+      <button id="grant" disabled>Nhận Silver Shields</button>
+      <button id="reset-save" disabled>Tiến trình mới</button>
+      <input id="save-file" type="file" accept="application/json,.json" hidden>
+    </nav>
+    <p class="note">Tiến trình lưu sau khi kết thúc lượt. Nhận Silver Shields tại đây để tiếp tục chơi offline; phần thưởng tài khoản Riot không được cấp.</p>
+    <dialog id="import-dialog">
+      <form method="dialog">
+        <h2>Nhập bản lưu</h2>
+        <p>Chọn tệp đã xuất hoặc dán nội dung JSON. Bản lưu được xử lý trên máy.</p>
+        <button id="choose-save-file" type="button">Chọn tệp JSON</button>
+        <label for="save-json">Hoặc dán nội dung JSON</label>
+        <textarea id="save-json" rows="8" spellcheck="false"></textarea>
+        <p id="import-error" role="alert"></p>
+        <div><button id="paste-import" type="button">Khôi phục bản lưu</button> <button>Hủy</button></div>
+      </form>
+    </dialog>
+    <p class="note">Lần đầu tự tải khoảng 339 MB. Khi báo sẵn sàng offline, bạn có thể mở lại cùng địa chỉ khi mất mạng. Xóa dữ liệu website sẽ xóa bộ game đã tải và bản lưu.</p>
+    <p class="note">Bản offline không chính thức, phục vụ mục đích học tập và không liên kết với Riot Games. Tài nguyên game thuộc chủ sở hữu tương ứng.</p>
+    <details><summary>Chẩn đoán</summary><pre id="diagnostics"></pre></details>
+  </main>
+  <script src="app.js" defer></script>
+</body>
+</html>

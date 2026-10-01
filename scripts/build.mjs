@@ -1,0 +1,35 @@
+import {readFile, writeFile, mkdir, rm, cp, stat} from 'node:fs/promises';
+import path from 'node:path';
+import {transform} from 'esbuild';
+import {minify} from 'html-minifier-terser';
+import {ROOT,sha256,walk,verifyAssets} from './verify-assets.mjs';
+const {bytes:assetBytes}=await verifyAssets();
+const dist=path.join(ROOT,'dist'),web=path.join(ROOT,'web');
+await rm(dist,{recursive:true,force:true});await mkdir(dist,{recursive:true});
+for (const dir of ['Build','StreamingAssets']) await cp(path.join(ROOT,'assets',dir),path.join(dist,dir),{recursive:true});
+const modules=['profile.js','storage.js','transport.js','offline.js','cache-core.js','cache-manager.js','launch.js'];
+const source=(await Promise.all(modules.map(p=>readFile(path.join(web,p),'utf8')))).join('\n');
+const js=await transform(source,{minify:true,format:'iife',target:'es2022',legalComments:'none'});
+const cssSource=await readFile(path.join(web,'style.css'),'utf8');
+const css=await transform(cssSource,{loader:'css',minify:true});
+const htmlSource=await readFile(path.join(web,'index.html'),'utf8');
+const html=await minify(htmlSource,{collapseWhitespace:true,removeComments:true,removeRedundantAttributes:true});
+await writeFile(path.join(dist,'app.js'),js.code);await writeFile(path.join(dist,'style.css'),css.code);
+await writeFile(path.join(dist,'index.html'),html);await cp(path.join(web,'favicon.svg'),path.join(dist,'favicon.svg'));
+const files=[];
+for (const relative of await walk(dist)) {
+  const data=await readFile(path.join(dist,relative));
+  files.push({path:relative,size:data.length,sha256:sha256(data)});
+}
+const version=sha256(JSON.stringify(files));
+const manifest=JSON.stringify({version,files});
+await writeFile(path.join(dist,'offline-manifest.json'),manifest);
+files.push({path:'offline-manifest.json',size:Buffer.byteLength(manifest),sha256:sha256(manifest)});
+const swSource=(await Promise.all(['cache-core.js','transport.js','sw.js'].map(p=>readFile(path.join(web,p),'utf8')))).join('\n');
+const sw=await transform('const CONFIG='+JSON.stringify({version,files})+';\n'+swSource,{minify:true,format:'iife',target:'es2022',legalComments:'none'});
+await writeFile(path.join(dist,'sw.js'),sw.code);await writeFile(path.join(dist,'.nojekyll'),'');
+const before=Buffer.byteLength(source+cssSource+htmlSource),after=Buffer.byteLength(js.code+css.code+html);
+const total=(await Promise.all((await walk(dist)).map(async p=>(await stat(path.join(dist,p))).size))).reduce((a,b)=>a+b,0);
+console.log(`Page JS/CSS/HTML: ${before.toLocaleString()} → ${after.toLocaleString()} bytes (${(100*(1-after/before)).toFixed(1)}% smaller).`);
+console.log(`Production: ${(total/1e6).toFixed(2)} MB; immutable Unity/audio assets ${(assetBytes/1e6).toFixed(2)} MB; ${files.length} verified cache entries.`);
+console.log(`Cache version: ${version}`);
