@@ -102,7 +102,10 @@
   window.assetsReady = new Promise(resolve => {
     async function attempt() {
       try {progress.hidden=false;await prepare();resolve();}
-      catch(error) {status.textContent='Chưa sẵn sàng offline: '+error.message;retry.hidden=false;console.error(error);}
+      catch(error) {
+        if (!registration?.active) registration=undefined;
+        status.textContent='Chưa sẵn sàng offline: '+error.message;retry.hidden=false;console.error(error);
+      }
     }
     retry.onclick=attempt;
     attempt();

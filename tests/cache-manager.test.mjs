@@ -7,7 +7,7 @@ import OfflineCache from '../web/cache-core.js';
 const source=await readFile(new URL('../web/cache-manager.js',import.meta.url),'utf8');
 const base='https://example.com/demacia-rising/';
 const record=(path,data)=>({path,size:Buffer.byteLength(data),sha256:createHash('sha256').update(data).digest('hex')});
-function harness({entries=[],oldEntries,fetch,put}={}) {
+function harness({entries=[],oldEntries,fetch,put,failFirstInstall}={}) {
   const store=new Map(entries),elements={},calls=[];
   const files=[record('first.bin','first'),record('second.bin','second')];
   const config={version:'test',files,base,cacheName:'test-cache',completeURL:base+'__offline_complete__'};
@@ -22,9 +22,11 @@ function harness({entries=[],oldEntries,fetch,put}={}) {
   class Channel {
     constructor(){this.port1={close(){}};this.port2={postMessage:data=>queueMicrotask(()=>this.port1.onmessage({data}))};}
   }
-  const context={OfflineCache,window:{},location:{href:base},document:{getElementById:id=>elements[id]??=( {hidden:false,value:0,textContent:''})},navigator:{serviceWorker:{register:async()=>registration,controller:worker},storage:{estimate:async()=>({quota:1e9,usage:0}),persist:async()=>false}},caches:{open:async name=>name==='old-cache'?oldCache:cache},crypto:webcrypto,isSecureContext:true,MessageChannel:Channel,URL,Response,setTimeout,clearTimeout,console:{error(){},warn(){}},fetch:async url=>{calls.push(url);return fetch?fetch(url):new Response(url.endsWith('first.bin')?'first':'second');}};
+  let registrations=0;
+  const register=async()=>{registrations++;return failFirstInstall&&registrations===1?{active:null,installing:{state:'redundant'},update:async()=>{}}:registration;};
+  const context={OfflineCache,window:{},location:{href:base},document:{getElementById:id=>elements[id]??=( {hidden:false,value:0,textContent:''})},navigator:{serviceWorker:{register,controller:worker},storage:{estimate:async()=>({quota:1e9,usage:0}),persist:async()=>false}},caches:{open:async name=>name==='old-cache'?oldCache:cache},crypto:webcrypto,isSecureContext:true,MessageChannel:Channel,URL,Response,setTimeout,clearTimeout,console:{error(){},warn(){}},fetch:async url=>{calls.push(url);return fetch?fetch(url):new Response(url.endsWith('first.bin')?'first':'second');}};
   vm.runInNewContext(source,context);
-  return {context,elements,store,calls,config,oldStore,workerMessages};
+  return {context,elements,store,calls,config,oldStore,workerMessages,registrations:()=>registrations};
 }
 async function failure(h) {
   for(let i=0;i<100 && h.elements['retry-download'].hidden;i++) await new Promise(resolve=>setTimeout(resolve,2));
@@ -62,4 +64,12 @@ test('failed pending update falls back to complete old cache and keeps partial d
   assert.equal(h.store.has(h.config.completeURL),false);
   assert.equal(h.store.has(base+'first.bin'),true);
   assert.equal(h.workerMessages.includes('CLEANUP'),false);
+});
+
+test('retry registers a fresh worker after first installation fails',async()=>{
+  const h=harness({failFirstInstall:true});await failure(h);
+  assert.equal(h.store.has(h.config.completeURL),false);
+  await h.elements['retry-download'].onclick();await h.context.window.assetsReady;
+  assert.equal(h.registrations(),2);
+  assert.match(h.elements['cache-status'].textContent,/Sẵn sàng offline/);
 });
