@@ -55,3 +55,5 @@ Pages dùng nguồn **GitHub Actions**. Push lên `main` hoặc chạy workflow 
 Tài nguyên nguồn được kiểm tra đủ 87 bundle theo dependency closure của catalog và đủ 742 OGG; tất cả được đối chiếu kích thước/SHA-256. Bộ kiểm thử bảo vệ trạng thái lượt, ví, xuất/nhập bản lưu, phản hồi API cục bộ, hash tải và byte range âm thanh.
 
 Các nhánh gameplay xuyên suốt toàn bộ Act 1/Act 2 chưa được chơi hết. Việc đủ tài nguyên đã liệt kê không chứng minh mọi đường dẫn âm thanh tạo động ngoài catalog đều đã được khám phá.
+
+Bản Pages đã được kiểm tra tải đủ 840 mục cache, khởi động Unity và phục vụ âm thanh byte-range `206`. Bản production local đã mở lại và kết thúc lượt khi máy chủ HTTP tắt hẳn, giữ lượt 2 với 90 Shields; thử làm hỏng cache đã chặn khởi động và phục hồi bằng tải lại. Cập nhật cache đã giữ nguyên bản lưu. 15 kiểm thử tự động bao gồm tải gián đoạn/tiếp tục, cache hỏng, hết quota và bảo vệ cache cũ khi cập nhật chưa hoàn tất. Minify giảm JS/CSS/HTML của trang khoảng 23%; tổng production khoảng 339,65 MB vì tài nguyên Unity và âm thanh được giữ nguyên.

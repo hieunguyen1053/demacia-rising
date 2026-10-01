@@ -62,14 +62,14 @@
             await cache.put(url,response);
           }
           bytes+=file.size;count++;update();
-        } catch(error) {failure=error;}
+        } catch(error) {failure=error;failure.assetPath=file.path;}
       }
     }
     await Promise.all([download(),download(),download()]);
     if (failure) {
       await cache.delete(config.completeURL);
       if (failure.name==='QuotaExceededError') throw new Error('Bộ nhớ website đã đầy. Giải phóng dung lượng rồi thử lại.');
-      throw failure;
+      throw new Error(failure.message+' · '+failure.assetPath);
     }
     await cache.put(config.completeURL,new Response(JSON.stringify({version:config.version,files:count}),{headers:{'Content-Type':'application/json'}}));
     progress.value=1;progress.hidden=true;
